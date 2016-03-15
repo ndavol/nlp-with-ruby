@@ -3,6 +3,4 @@
 [![Build Status](https://api.travis-ci.org/arbox/Awesome-Natural-Language-Processing-with-Ruby.svg?branch=master)](https://api.travis-ci.org/arbox/Awesome-Natural-Language-Processing-with-Ruby)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?button_hashtag=RubyNLP&text=Look!%20Awesome!&url=https://github.com/arbox/Awesome-Natural-Language-Processing-with-Ruby)
 
-<img src="assets/Ruby_Logo.jpg" width="100px" height="100px" />
-<img src="assets/plus.jpg" width="50px" height="50px" />
-<img src="assets/nlp.gif" />
+<img src="assets/header.png" />
