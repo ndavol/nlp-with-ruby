@@ -13,6 +13,7 @@ Any help, suggestions and contributions are welcome. Please read the [contributo
 ### Todo List
 * [ ] Create the directory structure for turorials with named tools.
 * [ ] Find an appropriate main entry structure with a license badge.
+* [ ] Create a tag system for non hierarchical entry classification, use colored badges.
 
 ### Table on Contents
 
