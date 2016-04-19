@@ -34,6 +34,8 @@ Any help, suggestions and contributions are welcome. Please read the [contributo
   * [Question Answering](#question-answering)
   * [Sentiment Analysis](#sentiment-analysis)
 
+* [Machine Learning Libraries](#machine-learning-libraries)
+
 * [Other resources](#other-resources)
 
 ## NLP Pipeline Subtasks
@@ -95,6 +97,14 @@ Stemming is the term used in linguistic morphology and information retrieval to 
 ### Sentiment Analysis
 - [ ] Add some resources
 
+
+## Machine Learning Libraries
+
+Libraries in pure Ruby or written in other programming languages with appropriate bindings for Ruby.
+
+* [Ruby Bindings to LibSVM](https://github.com/febeling/rb-libsvm) - Support Vector Machines with Ruby.
+* [JRuby Bindings to Weka](https://github.com/paulgoetze/weka-jruby) - Different ML algorithms implemented through Weka.
+* [Decision Trees](https://github.com/igrigorik/decisiontree) - Decision Tree ID3 Algorithm in pure Ruby.
 
 ## Other Resources
 * [Awesome Ruby](https://github.com/sdogruyol/awesome-ruby)
