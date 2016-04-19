@@ -105,6 +105,7 @@ Libraries in pure Ruby or written in other programming languages with appropriat
 * [Ruby Bindings to LibSVM](https://github.com/febeling/rb-libsvm) - Support Vector Machines with Ruby.
 * [JRuby Bindings to Weka](https://github.com/paulgoetze/weka-jruby) - Different ML algorithms implemented through Weka.
 * [Decision Trees](https://github.com/igrigorik/decisiontree) - Decision Tree ID3 Algorithm in pure Ruby.
+* [Ruby Bindings to Timbl](https://github.com/maspwr/rtimbl) - Memory based learners from the Timbl framework.
 
 ## Language Aware String Manipulation
 
