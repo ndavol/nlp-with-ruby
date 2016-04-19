@@ -106,7 +106,16 @@ Libraries in pure Ruby or written in other programming languages with appropriat
 * [JRuby Bindings to Weka](https://github.com/paulgoetze/weka-jruby) - Different ML algorithms implemented through Weka.
 * [Decision Trees](https://github.com/igrigorik/decisiontree) - Decision Tree ID3 Algorithm in pure Ruby.
 
+## Language Aware String Manipulation
+
+Libraries for language aware string manipulation, i.e. search, pattern matching, case conversion, transcoding, regular expressions which need information about the underlying language.
+
+
+
 ## Other Resources
 * [Awesome Ruby](https://github.com/sdogruyol/awesome-ruby)
 * [Ruby NLP](https://github.com/diasks2/ruby-nlp)
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+* Weka - to be done
+* OpenNLP MaxEnt - to be done
+* Mallet - to be done
