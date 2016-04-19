@@ -21,11 +21,11 @@ Any help, suggestions and contributions are welcome. Please read the [contributo
   * [Segmentation](#segmentation)
   * [Lexical Processing](#lexical-processing)
   * [Phrasal Level Processing](#phrasal-level-processing)
-  * [Syntactical Processing](#syntactic-processing)
+  * [Syntactic Processing](#syntactic-processing)
     * [Dependency Parsing](#dependency-parsing)
     * [Constituency Parsing](#constituency-parsing)
 
-  * [Semantical Analysis](#semantic-analysis)
+  * [Semantic Analysis](#semantic-analysis)
   * [Pragmatical Analysis](#pragmatic-analysis)
 
 * [High Level Tasks](#high-level-tasks)
@@ -66,7 +66,7 @@ Stemming is the term used in linguistic morphology and information retrieval to 
 ### Phrasal Level Processing
 - [ ] Add some resources
 
-### Syntactical Processing
+### Syntactic Processing
 - [ ] Add some resources
 
 #### Dependency Parsing
@@ -75,7 +75,7 @@ Stemming is the term used in linguistic morphology and information retrieval to 
 #### Constituency Parsing
 - [ ] Add some resources
 
-### Semantical Analysis
+### Semantic Analysis
 - [ ] Add some resources
 
 ### Pragmatical Analysis
@@ -97,5 +97,6 @@ Stemming is the term used in linguistic morphology and information retrieval to 
 
 
 ## Other Resources
+* [Awesome Ruby](https://github.com/sdogruyol/awesome-ruby)
 * [Ruby NLP](https://github.com/diasks2/ruby-nlp)
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
