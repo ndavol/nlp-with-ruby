@@ -6,9 +6,15 @@
 
 <img src="assets/header.png" />
 
-This curated list comprizes _awesome_ resources, libraries, information sources about Processing of Human Languages with Ruby.
+This curated list comprizes _awesome_ resources, libraries, information sources
+about Processing of Human Languages with Ruby. This list comes from our day to day
+work on Language Models and NLP Tools.
+
 We plan to provide not only links but also a short _tutorial_ for every included tool.
-Any help, suggestions and contributions are welcome. Please read the [contributors guide](CONTRIBUTING.md).
+
+Any help, suggestions and contributions are welcome!
+Please read the [Contributors Guide](CONTRIBUTING.md) and refer
+the [Contribution](#contributing) section.
 
 ## Table on Contents
 
@@ -19,32 +25,29 @@ Any help, suggestions and contributions are welcome. Please read the [contributo
   * [Syntactic Processing](#syntactic-processing)
     * [Dependency Parsing](#dependency-parsing)
     * [Constituency Parsing](#constituency-parsing)
-
   * [Semantic Analysis](#semantic-analysis)
   * [Pragmatical Analysis](#pragmatic-analysis)
-
 * [High Level Tasks](#high-level-tasks)
   * [Word Sense Disambiguation](#word-sense-disambiguation)
   * [Machine Translation](#machine-translation)
   * [Question Answering](#question-answering)
   * [Sentiment Analysis](#sentiment-analysis)
-
 * [Machine Learning Libraries](#machine-learning-libraries)
-
-* [Other resources](#other-resources)
+* [Other resources](#other-online-resources)
+* [Books](#books)
 
 ## NLP Pipeline Subtasks
 
 ### Segmentation
 
-Tokenization, Word and Sentence Boundary Detection and Disambiguation
+Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
 
   * [tokenizer](https://github.com/arbox/tokenizer).
-  A simple multilingual tokenizer.<br>
-  [Tutorial](tutorials/tokenizer) ![Ruby][ruby]
+  A simple multilingual tokenizer. [![Tutorial][tuturial-present]](tutorials/tokenizer.md) <br>
+  ![Ruby][ruby]
 
   * [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
-  A multilingual tokenizer to split a string into tokens. [Tutorial]().
+  A multilingual tokenizer to split a string into tokens. [Tutorial]()
 
   * [NLP Pure](https://github.com/parhamr/nlp-pure)
   Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
@@ -121,11 +124,13 @@ Libraries in pure Ruby or written in other programming languages with appropriat
   Support Vector Machines with Ruby. []().
 
 * [JRuby Bindings to Weka](https://github.com/paulgoetze/weka-jruby).
-  Different ML algorithms implemented through Weka. [Tutorial](tutorials/weka-jruby.md)<br>
+  Different ML algorithms implemented through Weka. [![Tutorial][tutorial-present]](tutorials/weka-jruby.md) <br>
   ![Ruby][ruby] ![Java][java] ![JRuby][jruby]
 
-* [Decision Trees](https://github.com/igrigorik/decisiontree) - Decision Tree ID3 Algorithm in pure Ruby.
-* [Ruby Bindings to Timbl](https://github.com/maspwr/rtimbl) - Memory based learners from the Timbl framework.
+* [Decision Trees](https://github.com/igrigorik/decisiontree)
+  Decision Tree ID3 Algorithm in pure Ruby.
+* [Ruby Bindings to Timbl](https://github.com/maspwr/rtimbl)
+  Memory based learners from the Timbl framework.
 
 ## Language Aware String Manipulation
 
@@ -133,10 +138,18 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
-## Other Resources
+## Other Online Resources
+
 * [Awesome Ruby](https://github.com/sdogruyol/awesome-ruby)
 * [Ruby NLP](https://github.com/diasks2/ruby-nlp)
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+
+## Books
+
+*  Miller, Rob. _Text Processing with Ruby: Extract Value from the Data That Surrounds You._
+   Dallas: Pragmatic Bookshelf, 2015.
+   [Amazon Link](http://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708/)
+
 
 ## Contributing
 
@@ -151,12 +164,14 @@ Some of the task for contributors are listed below.
 * [x] Create the directory structure for turorials with named tools.
 * [ ] Find an appropriate main entry structure with a license badge.
 * [ ] Create a tag system for non hierarchical entry classification, use colored badges.
+* [ ] Write all missing tutorials.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Andrei Beliankou](https://github.com/arbox) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Andrei Beliankou](https://github.com/arbox)
+has waived all copyright and related or neighboring rights to this work.
 
 
 <!--- Links --->
@@ -165,5 +180,5 @@ To the extent possible under law, [Andrei Beliankou](https://github.com/arbox) h
 [java]: https://img.shields.io/badge/L%3A-Java-yellow.svg
 [c]: https://img.shields.io/badge/L%3A-C-brightgreen.svg
 [cpp]: https://img.shields.io/badge/L%3A-C%2B%2B-green.svg
-[tutorial-ok]: https://img.shields.io/badge/Tutorial-%E2%9C%85-green.svg
+[tutorial-present]: https://img.shields.io/badge/Tutorial-%E2%9C%85-green.svg
 [tutorial-missing]: https://img.shields.io/badge/Tutorial-%E2%9C%98-lightgrey.svg
