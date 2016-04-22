@@ -41,6 +41,7 @@ Tokenization, Word and Sentence Boundary Detection and Disambiguation
 
   * [tokenizer](https://github.com/arbox/tokenizer)
   A simple multilingual tokenizer. [Tutorial](tutorials/tokenizer).
+  ![Ruby][ruby]
 
   * [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
   A multilingual tokenizer to split a string into tokens. [Tutorial]().
@@ -150,3 +151,7 @@ Some of the task for contributors are listed below.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Andrei Beliankou](https://github.com/arbox) has waived all copyright and related or neighboring rights to this work.
+
+
+<!--- Links --->
+[ruby]: https://img.shields.io/badge/Language-Ruby-red.svg
