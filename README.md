@@ -39,9 +39,9 @@ Any help, suggestions and contributions are welcome. Please read the [contributo
 
 Tokenization, Word and Sentence Boundary Detection and Disambiguation
 
-  * [tokenizer](https://github.com/arbox/tokenizer)
-  A simple multilingual tokenizer. [Tutorial](tutorials/tokenizer).
-  ![Ruby][ruby]
+  * [tokenizer](https://github.com/arbox/tokenizer).
+  A simple multilingual tokenizer.<br>
+  [Tutorial](tutorials/tokenizer) ![Ruby][ruby]
 
   * [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
   A multilingual tokenizer to split a string into tokens. [Tutorial]().
@@ -117,7 +117,10 @@ a linguistic motivation.
 Libraries in pure Ruby or written in other programming languages with appropriate bindings for Ruby.
 
 * [Ruby Bindings to LibSVM](https://github.com/febeling/rb-libsvm) - Support Vector Machines with Ruby.
-* [JRuby Bindings to Weka](https://github.com/paulgoetze/weka-jruby) - Different ML algorithms implemented through Weka.
+* [JRuby Bindings to Weka](https://github.com/paulgoetze/weka-jruby).
+  Different ML algorithms implemented through Weka.<br>
+  ![Ruby][ruby] ![Java][java] ![JRuby][jruby]
+
 * [Decision Trees](https://github.com/igrigorik/decisiontree) - Decision Tree ID3 Algorithm in pure Ruby.
 * [Ruby Bindings to Timbl](https://github.com/maspwr/rtimbl) - Memory based learners from the Timbl framework.
 
@@ -155,3 +158,7 @@ To the extent possible under law, [Andrei Beliankou](https://github.com/arbox) h
 
 <!--- Links --->
 [ruby]: https://img.shields.io/badge/Language-Ruby-red.svg
+[jruby]: https://img.shields.io/badge/Language-JRuby-yellowgreen.svg
+[java]: https://img.shields.io/badge/Language-Java-yellow.svg
+[c]: https://img.shields.io/badge/Language-C-brightgreen.svg
+[cpp]: https://img.shields.io/badge/Language-C%2B%2B-green.svg
