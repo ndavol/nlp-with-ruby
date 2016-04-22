@@ -10,11 +10,6 @@ This curated list comprizes _awesome_ resources, libraries, information sources 
 We plan to provide not only links but also a short _tutorial_ for every included tool.
 Any help, suggestions and contributions are welcome. Please read the [contributors guide](CONTRIBUTING.md).
 
-### Todo List
-* [ ] Create the directory structure for turorials with named tools.
-* [ ] Find an appropriate main entry structure with a license badge.
-* [ ] Create a tag system for non hierarchical entry classification, use colored badges.
-
 ## Table on Contents
 
 * [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
@@ -44,14 +39,29 @@ Any help, suggestions and contributions are welcome. Please read the [contributo
 
 Tokenization, Word and Sentence Boundary Detection and Disambiguation
 
-* [tokenizer](https://github.com/arbox/tokenizer) - a simple multilingual tokenizer.
-* [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer) - a multilingual tokenizer to split a string into tokens.
-* [NLP Pure](https://github.com/parhamr/nlp-pure) - natural language processing algorithms implemented in pure Ruby with minimal dependencies.
-* [Textoken](https://github.com/manorie/textoken) - simple and customizable text tokenization library.
-* [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) - WBD tool with many cookies.
-* [Punkt Segmenter](https://github.com/lfcipriani/punkt-segmenter) - Ruby implementation of the Punkt Segmenter.
-* [TactfulTokenizer](https://github.com/zencephalon/Tactful_Tokenizer) - RegExp based tokenizer for different languages.
-* [Scapel](https://github.com/louismullie/scalpel) - SBD tool.
+  * [tokenizer](https://github.com/arbox/tokenizer)
+  A simple multilingual tokenizer. [Tutorial](tutorials/tokenizer).
+
+  * [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
+  A multilingual tokenizer to split a string into tokens. [Tutorial]().
+
+  * [NLP Pure](https://github.com/parhamr/nlp-pure)
+  Natural language processing algorithms implemented in pure Ruby with minimal dependencies. [Tutorial]().
+
+  * [Textoken](https://github.com/manorie/textoken)
+  A simple and customizable text tokenization library. [Tutorial]().
+
+  * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter)
+  A WBD tool with many cookies. [Tutorial]().
+
+  * [Punkt Segmenter](https://github.com/lfcipriani/punkt-segmenter)
+  A pure Ruby implementation of the Punkt Segmenter. [Tutorial]().
+
+  * [TactfulTokenizer](https://github.com/zencephalon/Tactful_Tokenizer)
+  A RegExp based tokenizer for different languages. [Tutorial]().
+
+  * [Scapel](https://github.com/louismullie/scalpel)
+  SBD tool. [Tutorial]().
 
 ### Lexical Processing
 
@@ -112,19 +122,31 @@ Libraries in pure Ruby or written in other programming languages with appropriat
 
 ## Language Aware String Manipulation
 
-Libraries for language aware string manipulation, i.e. search, pattern matching, case conversion, transcoding, regular expressions which need information about the underlying language.
-
-
+Libraries for language aware string manipulation, i.e. search, pattern matching,
+case conversion, transcoding, regular expressions which need information about
+the underlying language.
 
 ## Other Resources
 * [Awesome Ruby](https://github.com/sdogruyol/awesome-ruby)
 * [Ruby NLP](https://github.com/diasks2/ruby-nlp)
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-* Weka - to be done
-* OpenNLP MaxEnt - to be done
-* Mallet - to be done
 
+## Contributing
 
-##
+We take care about the quality of this list. If you want to contribute please
 
-##
+- read carefully the [Contribution Guidelines](CONTRIBUTING.md) and
+- agree that your work will be published under the terms of the `CC0` license.
+
+Some of the task for contributors are listed below.
+
+### Todo List
+* [x] Create the directory structure for turorials with named tools.
+* [ ] Find an appropriate main entry structure with a license badge.
+* [ ] Create a tag system for non hierarchical entry classification, use colored badges.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Andrei Beliankou](https://github.com/arbox) has waived all copyright and related or neighboring rights to this work.
