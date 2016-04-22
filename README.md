@@ -157,8 +157,8 @@ To the extent possible under law, [Andrei Beliankou](https://github.com/arbox) h
 
 
 <!--- Links --->
-[ruby]: https://img.shields.io/badge/Language-Ruby-red.svg
-[jruby]: https://img.shields.io/badge/Language-JRuby-yellowgreen.svg
-[java]: https://img.shields.io/badge/Language-Java-yellow.svg
-[c]: https://img.shields.io/badge/Language-C-brightgreen.svg
-[cpp]: https://img.shields.io/badge/Language-C%2B%2B-green.svg
+[ruby]: https://img.shields.io/badge/L%3A-Ruby-red.svg
+[jruby]: https://img.shields.io/badge/L%3A-JRuby-yellowgreen.svg
+[java]: https://img.shields.io/badge/L%3A-Java-yellow.svg
+[c]: https://img.shields.io/badge/L%3A-C-brightgreen.svg
+[cpp]: https://img.shields.io/badge/L%3A-C%2B%2B-green.svg
