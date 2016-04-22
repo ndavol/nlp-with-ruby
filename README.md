@@ -78,7 +78,7 @@ from [Lemmatization](#lemmatization) since `stems` are not necessarily have
 a linguistic motivation.
 
 * [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer)
-  Ruby-Stemmer exposes the SnowBall API to Ruby. [Tutorial](tutorials/ruby-stemmer.md)<br>
+  Ruby-Stemmer exposes the SnowBall API to Ruby. [![Tutorial][tutorial-present]](tutorials/ruby-stemmer.md)<br>
   ![Ruby][ruby]
 
 * [uea-stemmer](https://github.com/ealdent/uea-stemmer)
