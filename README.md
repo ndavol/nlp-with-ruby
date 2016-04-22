@@ -15,7 +15,7 @@ Any help, suggestions and contributions are welcome. Please read the [contributo
 * [ ] Find an appropriate main entry structure with a license badge.
 * [ ] Create a tag system for non hierarchical entry classification, use colored badges.
 
-### Table on Contents
+## Table on Contents
 
 * [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
   * [Segmentation](#segmentation)
@@ -45,8 +45,8 @@ Any help, suggestions and contributions are welcome. Please read the [contributo
 Tokenization, Word and Sentence Boundary Detection and Disambiguation
 
 * [tokenizer](https://github.com/arbox/tokenizer) - a simple multilingual tokenizer.
-* [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer) - a multilingual tokenizer to split a string into tokens
-* [NLP Pure](https://github.com/parhamr/nlp-pure) - natural language processing algorithms implemented in pure Ruby with minimal dependencies
+* [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer) - a multilingual tokenizer to split a string into tokens.
+* [NLP Pure](https://github.com/parhamr/nlp-pure) - natural language processing algorithms implemented in pure Ruby with minimal dependencies.
 * [Textoken](https://github.com/manorie/textoken) - simple and customizable text tokenization library.
 * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) - WBD tool with many cookies.
 * [Punkt Segmenter](https://github.com/lfcipriani/punkt-segmenter) - Ruby implementation of the Punkt Segmenter.
@@ -57,9 +57,12 @@ Tokenization, Word and Sentence Boundary Detection and Disambiguation
 
 #### Stemming
 
-Stemming is the term used in linguistic morphology and information retrieval to describe the process for reducing inflected (or sometimes derived) words to their word stem, base or root form.
+Stemming is the term used in information retrieval to describe the process for
+reducing wordforms to some base representation. Stemming should be distinguished
+from [Lemmatization](#lemmatization) since `stems` are not necessarily have
+a linguistic motivation.
 
-* [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer) - Ruby-Stemmer exposes the SnowBall API to Ruby
+* [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer) - Ruby-Stemmer exposes the SnowBall API to Ruby. [Tutorial](tutorials/ruby-stemmer.md).
 * [uea-stemmer](https://github.com/ealdent/uea-stemmer) - a conservative stemmer for search and indexing
 
 #### Lemmatization
@@ -120,3 +123,8 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 * Weka - to be done
 * OpenNLP MaxEnt - to be done
 * Mallet - to be done
+
+
+##
+
+##
