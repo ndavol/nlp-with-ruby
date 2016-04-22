@@ -46,26 +46,26 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
   A simple multilingual tokenizer. [![Tutorial][tutorial-present]](tutorials/tokenizer.md) <br>
   ![Ruby][ruby]
 
-  * [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
+  * [pragmatic_tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
   A multilingual tokenizer to split a string into tokens. [![Tutorial][tutorial-missing]]()<br>
 
-  * [NLP Pure](https://github.com/parhamr/nlp-pure)
+  * [nlp-pure](https://github.com/parhamr/nlp-pure)
   Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
   [![Tutorial][tutorial-missing]]()<br>
 
-  * [Textoken](https://github.com/manorie/textoken)
+  * [textoken](https://github.com/manorie/textoken)
   A simple and customizable text tokenization library. [![Tutorial][tutorial-missing]]()<br>
 
-  * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter)
+  * [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)
   A WBD tool with many cookies. [![Tutorial][tutorial-missing]]()<br>
 
-  * [Punkt Segmenter](https://github.com/lfcipriani/punkt-segmenter)
+  * [punkt-segmenter](https://github.com/lfcipriani/punkt-segmenter)
   A pure Ruby implementation of the Punkt Segmenter. [![Tutorial][tutorial-missing]]()<br>
 
-  * [TactfulTokenizer](https://github.com/zencephalon/Tactful_Tokenizer):
+  * [Tactful_Tokenizer](https://github.com/zencephalon/Tactful_Tokenizer):
   A RegExp based tokenizer for different languages. [![Tutorial][tutorial-missing]]()<br>
 
-  * [Scapel](https://github.com/louismullie/scalpel):
+  * [scapel](https://github.com/louismullie/scalpel):
   A Sentence Boundary Disambiguation tool. [![Tutorial][tutorial-missing]]()<br>
 
 ### Lexical Processing
@@ -77,7 +77,7 @@ reducing wordforms to some base representation. Stemming should be distinguished
 from [Lemmatization](#lemmatization) since `stems` are not necessarily have
 a linguistic motivation.
 
-* [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer)
+* [ruby-stemmer](https://github.com/aurelian/ruby-stemmer)
   Ruby-Stemmer exposes the SnowBall API to Ruby. [![Tutorial][tutorial-present]](tutorials/ruby-stemmer.md)<br>
   ![Ruby][ruby]
 
@@ -125,20 +125,20 @@ a linguistic motivation.
 
 Libraries in pure Ruby or written in other programming languages with appropriate bindings for Ruby.
 
-* [Ruby Bindings to LibSVM](https://github.com/febeling/rb-libsvm).
+* [rb-libsvm](https://github.com/febeling/rb-libsvm).
   Support Vector Machines with Ruby. [![Tutorial][tutorial-missing]]()<br>
   ![Ruby][ruby] ![C][c]
 
-* [JRuby Bindings to Weka](https://github.com/paulgoetze/weka-jruby).
-  Different ML algorithms implemented through Weka. [![Tutorial][tutorial-present]](tutorials/weka-jruby.md) <br>
+* [weka-jruby](https://github.com/paulgoetze/weka-jruby).
+  JRuby bindings for Weka, different ML algorithms implemented through Weka.
+  [![Tutorial][tutorial-present]](tutorials/weka-jruby.md)<br>
   ![Ruby][ruby] ![Java][java] ![JRuby][jruby]
 
-* [Decision Trees](https://github.com/igrigorik/decisiontree)
+* [decisiontree](https://github.com/igrigorik/decisiontree)
   Decision Tree ID3 Algorithm in pure Ruby. [![Tutorial][tutorial-missing]]()<br>
 
-* [Ruby Bindings to Timbl](https://github.com/maspwr/rtimbl)
+* [rtimbl](https://github.com/maspwr/rtimbl)
   Memory based learners from the Timbl framework. [![Tutorial][tutorial-missing]]()<br>
-
 
 ## Language Aware String Manipulation
 
@@ -161,7 +161,9 @@ the underlying language.
 
 ## Contributing
 
-We take care about the quality of this list. If you want to contribute please
+We are very glad to see you in this section and highly appreciate any help!
+
+But we also take care about the quality of this list. If you want to contribute please
 
 - read carefully the [Contribution Guidelines](CONTRIBUTING.md) and
 - agree that your work will be published under the terms of the `CC0` license.
@@ -173,6 +175,8 @@ Some of the task for contributors are listed below.
 * [ ] Find an appropriate main entry structure with a license badge.
 * [ ] Create a tag system for non hierarchical entry classification, use colored badges.
 * [ ] Write all missing tutorials.
+* [ ] Implement a build strategy for all tutorial code snippets (on the local machine).
+* [ ] Add a badge for API links.
 
 ## License
 
