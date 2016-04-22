@@ -47,7 +47,8 @@ Tokenization, Word and Sentence Boundary Detection and Disambiguation
   A multilingual tokenizer to split a string into tokens. [Tutorial]().
 
   * [NLP Pure](https://github.com/parhamr/nlp-pure)
-  Natural language processing algorithms implemented in pure Ruby with minimal dependencies. [Tutorial]().
+  Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
+  [![Tutorial][tutorial-missing]]().
 
   * [Textoken](https://github.com/manorie/textoken)
   A simple and customizable text tokenization library. [Tutorial]().
@@ -116,9 +117,11 @@ a linguistic motivation.
 
 Libraries in pure Ruby or written in other programming languages with appropriate bindings for Ruby.
 
-* [Ruby Bindings to LibSVM](https://github.com/febeling/rb-libsvm) - Support Vector Machines with Ruby.
+* [Ruby Bindings to LibSVM](https://github.com/febeling/rb-libsvm).
+  Support Vector Machines with Ruby. []().
+
 * [JRuby Bindings to Weka](https://github.com/paulgoetze/weka-jruby).
-  Different ML algorithms implemented through Weka.<br>
+  Different ML algorithms implemented through Weka. [Tutorial](tutorials/weka-jruby.md)<br>
   ![Ruby][ruby] ![Java][java] ![JRuby][jruby]
 
 * [Decision Trees](https://github.com/igrigorik/decisiontree) - Decision Tree ID3 Algorithm in pure Ruby.
@@ -162,3 +165,5 @@ To the extent possible under law, [Andrei Beliankou](https://github.com/arbox) h
 [java]: https://img.shields.io/badge/L%3A-Java-yellow.svg
 [c]: https://img.shields.io/badge/L%3A-C-brightgreen.svg
 [cpp]: https://img.shields.io/badge/L%3A-C%2B%2B-green.svg
+[tutorial-ok]: https://img.shields.io/badge/Tutorial-%E2%9C%85-green.svg
+[tutorial-missing]: https://img.shields.io/badge/Tutorial-%E2%9C%98-lightgrey.svg
