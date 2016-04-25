@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/arbox/Awesome-Natural-Language-Processing-with-Ruby.svg?branch=master)](https://travis-ci.org/arbox/Awesome-Natural-Language-Processing-with-Ruby)
 [![Creative Commons Zero 1.0](http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?button_hashtag=RubyNLP&text=Look!%20Awesome!&url=https://github.com/arbox/Awesome-Natural-Language-Processing-with-Ruby)
+<!--- [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?button_hashtag=RubyNLP&text=Look!%20Awesome!&url=https://github.com/arbox/Awesome-Natural-Language-Processing-with-Ruby) --->
 
 <img src="assets/header.png" />
 
@@ -42,24 +42,24 @@ the [Contribution](#contributing) section.
 
 Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
 
-  * [tokenizer](https://github.com/arbox/tokenizer).
+  * [tokenizer](https://github.com/arbox/tokenizer):
   A simple multilingual tokenizer. [![Tutorial][tutorial-present]](tutorials/tokenizer.md) <br>
   ![Ruby][ruby]
 
-  * [pragmatic_tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
+  * [pragmatic_tokenizer](https://github.com/diasks2/pragmatic_tokenizer):
   A multilingual tokenizer to split a string into tokens. [![Tutorial][tutorial-missing]]()<br>
 
-  * [nlp-pure](https://github.com/parhamr/nlp-pure)
+  * [nlp-pure](https://github.com/parhamr/nlp-pure):
   Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
   [![Tutorial][tutorial-missing]]()<br>
 
-  * [textoken](https://github.com/manorie/textoken)
+  * [textoken](https://github.com/manorie/textoken):
   A simple and customizable text tokenization library. [![Tutorial][tutorial-missing]]()<br>
 
-  * [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)
+  * [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter):
   A WBD tool with many cookies. [![Tutorial][tutorial-missing]]()<br>
 
-  * [punkt-segmenter](https://github.com/lfcipriani/punkt-segmenter)
+  * [punkt-segmenter](https://github.com/lfcipriani/punkt-segmenter):
   A pure Ruby implementation of the Punkt Segmenter. [![Tutorial][tutorial-missing]]()<br>
 
   * [Tactful_Tokenizer](https://github.com/zencephalon/Tactful_Tokenizer):
@@ -77,11 +77,11 @@ reducing wordforms to some base representation. Stemming should be distinguished
 from [Lemmatization](#lemmatization) since `stems` are not necessarily have
 a linguistic motivation.
 
-* [ruby-stemmer](https://github.com/aurelian/ruby-stemmer)
+* [ruby-stemmer](https://github.com/aurelian/ruby-stemmer):
   Ruby-Stemmer exposes the SnowBall API to Ruby. [![Tutorial][tutorial-present]](tutorials/ruby-stemmer.md)<br>
   ![Ruby][ruby]
 
-* [uea-stemmer](https://github.com/ealdent/uea-stemmer)
+* [uea-stemmer](https://github.com/ealdent/uea-stemmer):
   A conservative stemmer for search and indexing. [![Tutorial][tutorial-missing]]()<br>
   ![Ruby][ruby]
 
@@ -125,26 +125,30 @@ a linguistic motivation.
 
 Libraries in pure Ruby or written in other programming languages with appropriate bindings for Ruby.
 
-* [rb-libsvm](https://github.com/febeling/rb-libsvm).
+* [rb-libsvm](https://github.com/febeling/rb-libsvm):
   Support Vector Machines with Ruby. [![Tutorial][tutorial-missing]]()<br>
   ![Ruby][ruby] ![C][c]
 
-* [weka-jruby](https://github.com/paulgoetze/weka-jruby).
+* [weka-jruby](https://github.com/paulgoetze/weka-jruby):
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
   [![Tutorial][tutorial-present]](tutorials/weka-jruby.md)<br>
-  ![Ruby][ruby] ![Java][java] ![JRuby][jruby]
+  ![JRuby][jruby] ![Java][java]
 
-* [decisiontree](https://github.com/igrigorik/decisiontree)
+* [decisiontree](https://github.com/igrigorik/decisiontree):
   Decision Tree ID3 Algorithm in pure Ruby. [![Tutorial][tutorial-missing]]()<br>
+  ![Ruby][ruby]
 
-* [rtimbl](https://github.com/maspwr/rtimbl)
+* [rtimbl](https://github.com/maspwr/rtimbl):
   Memory based learners from the Timbl framework. [![Tutorial][tutorial-missing]]()<br>
+  ![Ruby][ruby] ![C++][cpp]
 
 ## Language Aware String Manipulation
 
 Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
+
+- [ ] Add some resources
 
 ## Other Online Resources
 
