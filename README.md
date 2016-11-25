@@ -4,18 +4,15 @@
 
 > Useful resources for language processing in [Ruby](https://www.ruby-lang.org/en/)
 
-<!---[![Creative Commons Zero 1.0](http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)--->
-
-
-This curated list comprizes _awesome_ resources, libraries, information sources
-about Processing of Human Languages with Ruby. This list comes from our day to day
-work on Language Models and NLP Tools.
+This curated list comprizes [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+resources, libraries, information sources about Computational Processing
+of Human Languages with Ruby. This list comes from our day to day work
+on Language Models and NLP Tools.
 
 We plan to provide not only links but also a short _tutorial_ for every included tool.
 
-Any help, suggestions and contributions are welcome!
-Please read the [Contributors Guide](CONTRIBUTING.md) and refer
-the [Contribution](#contributing) section.
+Any help, suggestions and contributions are welcome! Please read the
+[Contributors Guide](CONTRIBUTING.md) and refer the [Contribution](#contributing) section.
 
 ## Contents
 
@@ -190,6 +187,7 @@ Some of the task for contributors are listed below.
 To the extent possible under law, [Andrei Beliankou](https://github.com/arbox)
 has waived all copyright and related or neighboring rights to this work.
 
+<!---[![Creative Commons Zero 1.0](http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <!--- Links --->
 [ruby]: https://img.shields.io/badge/L%3A-Ruby-red.svg
