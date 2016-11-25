@@ -1,10 +1,11 @@
-# Awesome Natural Language Processing with Ruby
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://travis-ci.org/arbox/Awesome-Natural-Language-Processing-with-Ruby.svg?branch=master)](https://travis-ci.org/arbox/Awesome-Natural-Language-Processing-with-Ruby)
-[![Creative Commons Zero 1.0](http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-<!--- [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?button_hashtag=RubyNLP&text=Look!%20Awesome!&url=https://github.com/arbox/Awesome-Natural-Language-Processing-with-Ruby) --->
+# Awesome NLP with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="assets/header.png" />
+[<img src="assets/Ruby_Logo.jpg" align="right" width="100px" height="100px" />](https://www.ruby-lang.org/en/)
+
+> Useful resources for language processing in [Ruby](https://www.ruby-lang.org/en/)
+
+<!---[![Creative Commons Zero 1.0](http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)--->
+
 
 This curated list comprizes _awesome_ resources, libraries, information sources
 about Processing of Human Languages with Ruby. This list comes from our day to day
@@ -16,7 +17,7 @@ Any help, suggestions and contributions are welcome!
 Please read the [Contributors Guide](CONTRIBUTING.md) and refer
 the [Contribution](#contributing) section.
 
-## Table on Contents
+## Contents
 
 * [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
   * [Segmentation](#segmentation)
