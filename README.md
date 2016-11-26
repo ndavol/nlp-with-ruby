@@ -163,6 +163,8 @@ the underlying language.
 
 ## Contributing
 
+
+
 We are very glad to see you in this section and highly appreciate any help!
 
 But we also take care about the quality of this list. If you want to contribute please
@@ -172,22 +174,18 @@ But we also take care about the quality of this list. If you want to contribute 
 
 Some of the task for contributors are listed below.
 
-### Todo List
-* [x] Create the directory structure for turorials with named tools.
-* [ ] Find an appropriate main entry structure with a license badge.
-* [ ] Create a tag system for non hierarchical entry classification, use colored badges.
-* [ ] Write all missing tutorials.
-* [ ] Implement a build strategy for all tutorial code snippets (on the local machine).
-* [ ] Add a badge for API links.
-
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Creative Commons Zero 1.0](http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Andrei Beliankou](https://github.com/arbox)
-has waived all copyright and related or neighboring rights to this work.
+`Awesome NLP in Ruby` by Andrei Beliankou
 
-<!---[![Creative Commons Zero 1.0](http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+To the extent possible under law, the person who associated CC0 with
+`Awesome NLP in Ruby` has waived all copyright and related or neighboring rights
+to `Awesome NLP in Ruby`.
+
+You should have received a copy of the CC0 legalcode along with this
+work. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->
 [ruby]: https://img.shields.io/badge/L%3A-Ruby-red.svg
