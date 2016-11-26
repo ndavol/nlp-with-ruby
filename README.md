@@ -114,23 +114,37 @@ a linguistic motivation.
 ### Sentiment Analysis
 - [ ] Add some resources
 
+### Date and Time Parsing
+
+- [Chronic](https://github.com/mojombo/chronic) -
+  pure Ruby natural language date parser
+- [Chronic Between](https://github.com/jrobertson/chronic_between) -
+  simple Ruby natural language parser for date and time ranges
+- [Chronic Duration](https://github.com/hpoydar/chronic_duration) -
+  simple Ruby natural language parser for elapsed time
+- [Kronic](https://github.com/xaviershay/kronic) -
+  dirt simple library for parsing and formatting human readable dates
+- [Nickel](https://github.com/iainbeeston/nickel) -
+  extracts date, time, and message information from naturally worded text
+- [Tickle](https://github.com/yb66/tickle) -
+  natural language parser for recurring events
 
 ## Machine Learning Libraries
 
 Libraries in pure Ruby or written in other programming languages with appropriate bindings for Ruby.
 
-* [rb-libsvm](https://github.com/febeling/rb-libsvm):
+- [rb-libsvm](https://github.com/febeling/rb-libsvm):
   Support Vector Machines with Ruby.
 
-* [weka-jruby](https://github.com/paulgoetze/weka-jruby):
+- [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
   [![Tutorial][tutorial-present]](tutorials/weka-jruby.md)
 
-* [decisiontree](https://github.com/igrigorik/decisiontree):
+- [decisiontree](https://github.com/igrigorik/decisiontree) &mdash;
   Decision Tree ID3 Algorithm in pure Ruby.
 
-* [rtimbl](https://github.com/maspwr/rtimbl):
-  Memory based learners from the Timbl framework.
+- [rtimbl](https://github.com/maspwr/rtimbl) -
+  memory based learners from the Timbl framework.
 
 ## Language Aware String Manipulation
 
@@ -142,17 +156,65 @@ the underlying language.
 
 ## Other Online Resources
 
-* [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing)
-* [Ruby NLP](https://github.com/diasks2/ruby-nlp)
-* [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-* [Scientific Ruby](http://sciruby.com/)
+- [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing)
+- [Ruby NLP](https://github.com/diasks2/ruby-nlp)
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+- [Scientific Ruby](http://sciruby.com/)
+
+## Talks and Presentations
+
+- 2016
+  - *Quickly Create a Telegram Bot in Ruby* by Ardian Haxha
+    [[tutorial](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]
+
+- 2015
+  - *N-gram Analysis for Fun and Profit* by [Jesus Castello](https://github.com/matugm)
+    [[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]
+
+  - *Machine Learning made simple with Ruby* by [Lorenzo Masini](https://github.com/rugginoso)
+    [[tutorial](http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]
+
+  - *Using Ruby Machine Learning to Find Paris Hilton Quotes* by [Rick Carlino](https://github.com/RickCarlino)
+    [[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]
+
+  - *Exploring Natural Language Processing in Ruby* by [Kevin Dias](https://github.com/diasks2)
+    [[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]
+
+- 2014
+  - *Natural Language Parsing with Ruby* by [Glauco Custódio](https://github.com/glaucocustodio)
+    [[tutorial](http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]
+
+  - *Demystifying Data Science (Analyzing Conference Talks with Rails and Ngrams)* by [Todd Schneider](https://github.com/toddwschneider)
+    [[video RailsConf 2014](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [Repo from the Video](https://github.com/Genius/abstractogram)]
+
+  - *Natural Language Processing with Ruby* by [Konstantin Tennhard](https://github.com/t6d)
+    [[video ArrrrCamp 2014](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video Ruby Conf India](https://www.youtube.com/watch?v=oFmy_QBQ5DU)]
+
+- 2013
+  - *How to parse 'go' - Natural Language Processing in Ruby*
+    [[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)] by [Tom Cartwright](https://github.com/tomcartwrightuk)
+
+  - *Natural Language Processing in Ruby*
+    [[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) | [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]
+    by [Brandon Black](https://github.com/brandonblack)
+
+  - *Natural Language Processing with Ruby: n-grams*
+    [[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)] by [Nathan Kleyn](https://github.com/nathankleyn)
+
+  - *A Tour Through Random Ruby*
+    [[tutorial](http://www.sitepoint.com/tour-random-ruby/)] by Robert Qualls
 
 ## Books
 
-*  Miller, Rob. _Text Processing with Ruby: Extract Value from the Data That Surrounds You._
+-  Miller, Rob. _Text Processing with Ruby: Extract Value from the Data That Surrounds You._
    Dallas: Pragmatic Bookshelf, 2015.
    <sup>[Amazon Link](http://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708/)</sup>
 
+## Community
+
+- Twitter
+- StackOverflow
+- FreeNode
 
 ## Contributing
 
@@ -163,7 +225,8 @@ But we also take care about the quality of this list. If you want to contribute 
 - read carefully the [Contribution Guidelines](CONTRIBUTING.md) and
 - agree that your work will be published under the terms of the `CC0` license.
 
-Some of the task for contributors are listed below.
+Some of the open tasks for contributors are listed in the [todo file](todo.md).
+You may want to start there.
 
 ## License
 
