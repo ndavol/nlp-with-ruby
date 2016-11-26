@@ -1,0 +1,11 @@
+--2016-11-26 16:18:50--  https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt
+Resolving creativecommons.org (creativecommons.org)... 104.20.91.127, 104.20.90.127, 2400:cb00:2048:1::6814:5b7f, ...
+Connecting to creativecommons.org (creativecommons.org)|104.20.91.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: ‘legalcode.txt’
+
+     0K ......                                                  824K=0.008s
+
+2016-11-26 16:18:50 (824 KB/s) - ‘legalcode.txt’ saved [7048]
+
