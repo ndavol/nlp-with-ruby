@@ -41,30 +41,28 @@ Any help, suggestions and contributions are welcome! Please read the
 Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
 
   * [tokenizer](https://github.com/arbox/tokenizer):
-  A simple multilingual tokenizer. [![Tutorial][tutorial-present]](tutorials/tokenizer.md) <br>
-  ![Ruby][ruby]
+  A simple multilingual tokenizer. [![Tutorial][:fast_forward:]](tutorials/tokenizer.md)
 
   * [pragmatic_tokenizer](https://github.com/diasks2/pragmatic_tokenizer):
-  A multilingual tokenizer to split a string into tokens. [![Tutorial][tutorial-missing]]()<br>
+  A multilingual tokenizer to split a string into tokens.
 
   * [nlp-pure](https://github.com/parhamr/nlp-pure):
   Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
-  [![Tutorial][tutorial-missing]]()<br>
 
   * [textoken](https://github.com/manorie/textoken):
-  A simple and customizable text tokenization library. [![Tutorial][tutorial-missing]]()<br>
+  A simple and customizable text tokenization library.
 
   * [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter):
-  A WBD tool with many cookies. [![Tutorial][tutorial-missing]]()<br>
+  A WBD tool with many cookies.
 
   * [punkt-segmenter](https://github.com/lfcipriani/punkt-segmenter):
-  A pure Ruby implementation of the Punkt Segmenter. [![Tutorial][tutorial-missing]]()<br>
+  A pure Ruby implementation of the Punkt Segmenter.
 
   * [Tactful_Tokenizer](https://github.com/zencephalon/Tactful_Tokenizer):
-  A RegExp based tokenizer for different languages. [![Tutorial][tutorial-missing]]()<br>
+  A RegExp based tokenizer for different languages.
 
   * [scapel](https://github.com/louismullie/scalpel):
-  A Sentence Boundary Disambiguation tool. [![Tutorial][tutorial-missing]]()<br>
+  A Sentence Boundary Disambiguation tool.
 
 ### Lexical Processing
 
@@ -76,12 +74,10 @@ from [Lemmatization](#lemmatization) since `stems` are not necessarily have
 a linguistic motivation.
 
 * [ruby-stemmer](https://github.com/aurelian/ruby-stemmer):
-  Ruby-Stemmer exposes the SnowBall API to Ruby. [![Tutorial][tutorial-present]](tutorials/ruby-stemmer.md)<br>
-  ![Ruby][ruby]
+  Ruby-Stemmer exposes the SnowBall API to Ruby. [![Tutorial][:fast_forward:]](tutorials/ruby-stemmer.md)
 
 * [uea-stemmer](https://github.com/ealdent/uea-stemmer):
-  A conservative stemmer for search and indexing. [![Tutorial][tutorial-missing]]()<br>
-  ![Ruby][ruby]
+  A conservative stemmer for search and indexing.
 
 #### Lemmatization
 - [ ] Add some resources
@@ -124,21 +120,17 @@ a linguistic motivation.
 Libraries in pure Ruby or written in other programming languages with appropriate bindings for Ruby.
 
 * [rb-libsvm](https://github.com/febeling/rb-libsvm):
-  Support Vector Machines with Ruby. [![Tutorial][tutorial-missing]]()<br>
-  ![Ruby][ruby] ![C][c]
+  Support Vector Machines with Ruby.
 
 * [weka-jruby](https://github.com/paulgoetze/weka-jruby):
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
-  [![Tutorial][tutorial-present]](tutorials/weka-jruby.md)<br>
-  ![JRuby][jruby] ![Java][java]
+  [![Tutorial][tutorial-present]](tutorials/weka-jruby.md)
 
 * [decisiontree](https://github.com/igrigorik/decisiontree):
-  Decision Tree ID3 Algorithm in pure Ruby. [![Tutorial][tutorial-missing]]()<br>
-  ![Ruby][ruby]
+  Decision Tree ID3 Algorithm in pure Ruby.
 
 * [rtimbl](https://github.com/maspwr/rtimbl):
-  Memory based learners from the Timbl framework. [![Tutorial][tutorial-missing]]()<br>
-  ![Ruby][ruby] ![C++][cpp]
+  Memory based learners from the Timbl framework.
 
 ## Language Aware String Manipulation
 
@@ -150,20 +142,19 @@ the underlying language.
 
 ## Other Online Resources
 
-* [Awesome Ruby](https://github.com/sdogruyol/awesome-ruby)
+* [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing)
 * [Ruby NLP](https://github.com/diasks2/ruby-nlp)
 * [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+* [Scientific Ruby](http://sciruby.com/)
 
 ## Books
 
 *  Miller, Rob. _Text Processing with Ruby: Extract Value from the Data That Surrounds You._
    Dallas: Pragmatic Bookshelf, 2015.
-   [Amazon Link](http://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708/)
+   <sup>[Amazon Link](http://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708/)</sup>
 
 
 ## Contributing
-
-
 
 We are very glad to see you in this section and highly appreciate any help!
 
@@ -176,9 +167,8 @@ Some of the task for contributors are listed below.
 
 ## License
 
-[![Creative Commons Zero 1.0](http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-`Awesome NLP in Ruby` by Andrei Beliankou
+`Awesome NLP in Ruby` by Andrei Beliankou [![Creative Commons Zero 1.0]
+(http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the person who associated CC0 with
 `Awesome NLP in Ruby` has waived all copyright and related or neighboring rights
