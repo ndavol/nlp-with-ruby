@@ -13,7 +13,40 @@ Any help, suggestions and contributions are welcome! Please read the
 [Contributors Guide](CONTRIBUTING.md) and refer the [Contribution](#contributing) section.
 
 ## Contents
+
 <!-- toc -->
+
+- [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
+  * [Multipurpose Engines](#multipurpose-engines)
+  * [Segmentation](#segmentation)
+  * [Lexical Processing](#lexical-processing)
+    + [Stemming](#stemming)
+    + [Lemmatization](#lemmatization)
+    + [Counting Types and Tokens](#counting-types-and-tokens)
+  * [Phrasal Level Processing](#phrasal-level-processing)
+  * [Syntactic Processing](#syntactic-processing)
+    + [Constituency Parsing](#constituency-parsing)
+  * [Semantic Analysis](#semantic-analysis)
+  * [Pragmatical Analysis](#pragmatical-analysis)
+- [High Level Tasks](#high-level-tasks)
+  * [Text Alignment](#text-alignment)
+  * [Machine Translation](#machine-translation)
+  * [Dialog Systems](#dialog-systems)
+  * [Sentiment Analysis](#sentiment-analysis)
+  * [Date and Time Parsing](#date-and-time-parsing)
+  * [Named Entity Recognition](#named-entity-recognition)
+  * [Text-to-Speech-to-Text](#text-to-speech-to-text)
+- [Machine Learning Libraries](#machine-learning-libraries)
+- [Language Aware String Manipulation](#language-aware-string-manipulation)
+- [Other Online Resources](#other-online-resources)
+- [Talks and Presentations](#talks-and-presentations)
+- [Books](#books)
+- [Community](#community)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!-- tocstop -->
+
 * [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
   + [Segmentation](#segmentation)
   + [Lexical Processing](#lexical-processing)
@@ -58,7 +91,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
 
 - [tokenizer](https://github.com/arbox/tokenizer) -
   Simple multilingual tokenizer.
-  <sup>[[tutorial]](tutorials/tokenizer.md)]</sup>
+  <sup>[[tutorial](tutorials/tokenizer.md)]</sup>
 - [pragmatic_tokenizer](https://github.com/diasks2/pragmatic_tokenizer) -
   Multilingual tokenizer to split a string into tokens.
 
@@ -322,7 +355,7 @@ You may want to start there.
 ## License
 
 `Awesome NLP in Ruby` by Andrei Beliankou [![Creative Commons Zero 1.0]
-(http://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+(http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-nd.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the person who associated CC0 with
 `Awesome NLP in Ruby` has waived all copyright and related or neighboring rights
