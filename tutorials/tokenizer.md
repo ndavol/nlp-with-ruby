@@ -2,7 +2,7 @@
 
 ## INSTALLATION
 `Tokenizer` is provided as a `.gem` package. Simply install it via
-{RubyGems}[http://rubygems.org/gems/tokenizer].
+[RubyGems](http://rubygems.org/gems/tokenizer).
 
 To install `tokenizer` issue the following command:
 

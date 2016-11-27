@@ -39,7 +39,7 @@ Any help, suggestions and contributions are welcome! Please read the
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
 - [Other Online Resources](#other-online-resources)
-- [Talks and Presentations](#talks-and-presentations)
+- [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Books](#books)
 - [Community](#community)
 - [Contributing](#contributing)
@@ -113,16 +113,19 @@ are often collected in dictionaries.
 
 #### Counting Types and Tokens
 
-* [wc](https://github.com/thesp0nge/wc) - a rubygem to count word occurrences in a given text
-* [word_count](https://github.com/AtelierConvivialite/word_count) - a word counter for String and Hash in Ruby
-* [Word Count Analyzer](https://github.com/diasks2/word_count_analyzer) - analyzes a string for potential areas of the text that might cause word count discrepancies depending on the tool used
-* [WordsCounted](https://github.com/abitdodgy/words_counted) - a highly customisable Ruby text analyser
+* [wc](https://github.com/thesp0nge/wc) -
+  Facilities to count word occurrences in a text.
+* [word_count](https://github.com/AtelierConvivialite/word_count) -
+  Word counter for `String` and `Hash` objects.
 
 ### Phrasal Level Processing
 
-* [N-Gram](https://github.com/reddavis/N-Gram) - N-Gram generator in Ruby
-* [ngram](https://github.com/tkellen/ruby-ngram) - break words and phrases into ngrams
-* [raingrams](https://github.com/postmodern/raingrams) - a flexible and general-purpose ngrams library written in Ruby
+- [N-Gram](https://github.com/reddavis/N-Gram) -
+  N-Gram generator.
+- [ngram](https://github.com/tkellen/ruby-ngram) -
+  Break words and phrases into ngrams.
+- [raingrams](https://github.com/postmodern/raingrams) -
+  Flexible and general-purpose ngrams library written in pure Ruby.
 
 ### Syntactic Processing
 
@@ -133,16 +136,22 @@ are often collected in dictionaries.
 
 ### Semantic Analysis
 
-* [amatch](https://github.com/flori/amatch) - collection of five type of distances between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance'. Last one seems to work well to find similarity in long phrases)
-* [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein) - calculates edit distance using the Damerau-Levenshtein algorithm
-* [FuzzyMatch](https://github.com/seamusabshere/fuzzy_match) - find a needle in a haystack based on string similarity and regular expression rules
-* [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) - fuzzy string matching library for ruby
-* [FuzzyTools](https://github.com/brianhempel/fuzzy_tools) - In-memory TF-IDF fuzzy document finding with a fancy default tokenizer tuned on diverse record linkage datasets for easy out-of-the-box use
-* [Going the Distance](https://github.com/schneems/going_the_distance) - contains scripts that do various distance calculations
-* [hotwater](https://github.com/colinsurprenant/hotwater) - Fast Ruby FFI string edit distance algorithms
-* [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) - fast string edit distance computation, using the Damerau-Levenshtein algorithm
-* [TF-IDF](https://github.com/reddavis/TF-IDF) - Term Frequency - Inverse Document Frequency in Ruby
-* [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - calculate the similarity between texts using tf*idf
+- [amatch](https://github.com/flori/amatch) -
+  Set of five distance types between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance').
+- [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein) -
+  Calculates edit distance using the Damerau-Levenshtein algorithm.
+- [FuzzyTools](https://github.com/brianhempel/fuzzy_tools) -
+  In-memory TF/IDF fuzzy document finding with a fancy default tokenizer.
+- [Going the Distance](https://github.com/schneems/going_the_distance) -
+  Contains scripts that do various distance calculations.
+- [hotwater](https://github.com/colinsurprenant/hotwater) -
+  Fast Ruby FFI string edit distance algorithms.
+- [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) -
+  Fast string edit distance computation, using the Damerau-Levenshtein algorithm.
+- [TF-IDF](https://github.com/reddavis/TF-IDF) -
+  Term Frequency / Inverse Document Frequency in pure Ruby.
+- [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) -
+  Calculate the similarity between texts using TF/IDF.
 
 ### Pragmatical Analysis
 - [SentimentLib](https://github.com/nzaillian/sentiment_lib) -
@@ -153,13 +162,16 @@ are often collected in dictionaries.
 ### Text Alignment
 
 - [alignment](https://github.com/bloomrain/alignment) -
-  Alignment functions for corpus linguistics (Gale-Church implementation)
+  Alignment routines for bilingual texts (Gale-Church implementation).
 
 ### Machine Translation
 
-* [Google API Client](https://github.com/google/google-api-ruby-client) - Google API Ruby Client
-* [microsoft_translator](https://github.com/ikayzo/microsoft_translator) - Ruby client for the microsoft translator API
-* [termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal as ruby gem
+* [Google API Client](https://github.com/google/google-api-ruby-client) -
+  Google API Ruby Client.
+* [microsoft_translator](https://github.com/ikayzo/microsoft_translator) -
+  Ruby client for the microsoft translator API.
+* [termit](https://github.com/pawurb/termit) -
+  Google Translate with speech synthesis in your terminal.
 
 ### Dialog Systems
 
@@ -170,23 +182,22 @@ are often collected in dictionaries.
 
 ### Sentiment Analysis
 - [Stimmung](https://github.com/pachacamac/stimmung) -
-  Semantic Polarity based on (SentiWS](http://wortschatz.informatik.uni-leipzig.de/download/sentiws.html)
+  Semantic Polarity based on [SentiWS](http://wortschatz.informatik.uni-leipzig.de/download/sentiws.html).
 
 ### Date and Time Parsing
 
 - [Chronic](https://github.com/mojombo/chronic) -
-  pure Ruby natural language date parser
+  Pure Ruby natural language date parser
 - [Chronic Between](https://github.com/jrobertson/chronic_between) -
-  simple Ruby natural language parser for date and time ranges
+  Simple Ruby natural language parser for date and time ranges.
 - [Chronic Duration](https://github.com/hpoydar/chronic_duration) -
-  simple Ruby natural language parser for elapsed time
+  Pure Ruby parser for elapsed time.
 - [Kronic](https://github.com/xaviershay/kronic) -
-  dirt simple library for parsing and formatting human readable dates
+  Methods for parsing and formatting human readable dates.
 - [Nickel](https://github.com/iainbeeston/nickel) -
-  extracts date, time, and message information from naturally worded text
+  Extracts date, time, and message information from naturally worded text.
 - [Tickle](https://github.com/yb66/tickle) -
-  natural language parser for recurring events
-
+  Parser for recurring and repeating events.
 
 ### Named Entity Recognition
 
@@ -194,7 +205,6 @@ are often collected in dictionaries.
   a Ruby gem to semi-automatically redact confidential information from a text
 - [ruby-ner](https://github.com/mblongii/ruby-ner) - named entity recognition with Stanford NER and Ruby
 - [ruby-nlp](https://github.com/tiendung/ruby-nlp) - Ruby Binding for Stanford Pos-Tagger and Name Entity Recognizer
-
 
 ### Text-to-Speech-to-Text
 
@@ -207,32 +217,35 @@ are often collected in dictionaries.
 
 ## Machine Learning Libraries
 
-Libraries in pure Ruby or written in other programming languages with appropriate bindings for Ruby.
+Machine Learining Algorithms in pure Ruby or written in other programming
+languages with appropriate bindings for Ruby.
 
-- [rb-libsvm](https://github.com/febeling/rb-libsvm) - Support Vector Machines with Ruby.
-
+- [rb-libsvm](https://github.com/febeling/rb-libsvm) -
+  Support Vector Machines with Ruby.
 - [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
-  <sup>[[tutorial](tutorials/weka-jruby.md)]</sup>
-
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
   Decision Tree ID3 Algorithm in pure Ruby.
-
 - [rtimbl](https://github.com/maspwr/rtimbl) -
   Memory based learners from the Timbl framework.
-
-* [Classifier](https://github.com/cardmagic/classifier) - a general module to allow Bayesian and other types of classifications
-* [classifier-reborn](https://github.com/jekyll/classifier-reborn) - (a fork of cardmagic/classifier) a general classifier module to allow Bayesian and other types of classifications
-* [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) - used to automatically cluster documents into topics
-* [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) - Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification and other large linear classifications)
-* [linnaeus](https://github.com/djcp/linnaeus) - a redis-backed Bayesian classifier
-* [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) - a JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework
-* [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) - simple Naive Bayes classifier
-* [nbayes](https://github.com/oasic/nbayes) - a full-featured, Ruby implementation of Naive Bayes
-* [omnicat](https://github.com/mustafaturan/omnicat) - a generalized rack framework for text classifications
-* [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) - Naive Bayes text classification implementation as an OmniCat classifier strategy
-* [stuff-classifier](https://github.com/alexandru/stuff-classifier) - a library for classifying text into multiple categories
-
+* [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
+  General classifier module to allow Bayesian and other types of classifications.
+* [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) -
+  Pure Ruby LDA implementation to automatically cluster documents into topics.
+* [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
+  Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
+* [linnaeus](https://github.com/djcp/linnaeus) -
+  Redis-backed Bayesian classifier.
+* [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
+  JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
+* [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) -
+  Simple Naive Bayes classifier.
+* [nbayes](https://github.com/oasic/nbayes) -
+  Full-featured, Ruby implementation of Naive Bayes.
+* [omnicat](https://github.com/mustafaturan/omnicat) -
+  Generalized rack framework for text classifications.
+* [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
+  Naive Bayes text classification implementation as an OmniCat classifier strategy.
 
 ## Language Aware String Manipulation
 
@@ -240,6 +253,10 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
+- [FuzzyMatch](https://github.com/seamusabshere/fuzzy_match) -
+  find a needle in a haystack based on string similarity and regular expression rules.
+- [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) -
+  Fuzzy string matching library for Ruby.
 - [active_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) -
   RoR `ActiveSupport` gem has various string extensions that can handle case
 - [u](http://disu.se/software/u-1.0/) -
@@ -255,38 +272,42 @@ the underlying language.
 
 ## Other Online Resources
 
-- [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing)
-- [Ruby NLP](https://github.com/diasks2/ruby-nlp)
-- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-- [Scientific Ruby](http://sciruby.com/)
+- [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
+  Short list of NLP related projects.
+- [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
+  State-of-Art collection of Ruby libraries for NLP.
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
+  General List of NLP related resources not mostly not for Ruby programmers.
+- [Scientific Ruby](http://sciruby.com/) -
+  Linear Algebra, Visualization and Scientific Computing for Ruby.
 
-## Talks and Presentations
+## Articles, Posts, Talks, and Presentations
 
 - 2016
-  - *Quickly Create a Telegram Bot in Ruby* by Ardian Haxha
+  - _Quickly Create a Telegram Bot in Ruby_ by Ardian Haxha
     <sup>[[tutorial](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
 
 - 2015
-  + *N-gram Analysis for Fun and Profit* by [Jesus Castello](https://github.com/matugm)
+  + _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
     <sup>[[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]</sup>
 
-  + *Machine Learning made simple with Ruby* by [Lorenzo Masini](https://github.com/rugginoso)
+  + _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
     <sup>[[tutorial](http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
 
-  + *Using Ruby Machine Learning to Find Paris Hilton Quotes* by [Rick Carlino](https://github.com/RickCarlino)
+  + _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 
-  + *Exploring Natural Language Processing in Ruby* by [Kevin Dias](https://github.com/diasks2)
+  + _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
     <sup>[[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
 
 - 2014
-  + *Natural Language Parsing with Ruby* by [Glauco Custódio](https://github.com/glaucocustodio)
+  + _Natural Language Parsing with Ruby_ by [Glauco Custódio](https://github.com/glaucocustodio)
     <sup>[[tutorial](http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
 
   + _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by [Todd Schneider](https://github.com/toddwschneider)
     <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
 
-  + *Natural Language Processing with Ruby* by [Konstantin Tennhard](https://github.com/t6d)
+  + _Natural Language Processing with Ruby_ by [Konstantin Tennhard](https://github.com/t6d)
     <sup>[[video](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video](https://www.youtube.com/watch?v=oFmy_QBQ5DU)]</sup>
 
 - 2013
@@ -302,6 +323,10 @@ the underlying language.
 
   + _A Tour Through Random Ruby_ by Robert Qualls
     <sup>[[tutorial](http://www.sitepoint.com/tour-random-ruby/)]</sup>
+
+- 2011
+  + _Ruby one-liners_ by [Benoit Hamelin](https://twitter.com/benoithamelin)
+  <sup>[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
 
 ## Books
 
