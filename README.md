@@ -7,7 +7,7 @@
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 resources, libraries, information sources about computational processing
 of human languages with Ruby. It comes from our day to day work on Language
-Models and NLP Tools.
+Models and NLP Tools. Read [why](motivation.md) this list is awesome.
 
 Any help, suggestions and contributions are welcome! Please read the
 [Contributors Guide](CONTRIBUTING.md) and refer the [Contribution](#contributing) section.
@@ -46,32 +46,6 @@ Any help, suggestions and contributions are welcome! Please read the
 - [License](#license)
 
 <!-- tocstop -->
-
-* [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
-  + [Segmentation](#segmentation)
-  + [Lexical Processing](#lexical-processing)
-    - [Stemming](#stemming)
-    - [Lemmatization](#lemmatization)
-  + [Phrasal Level Processing](#phrasal-level-processing)
-  + [Syntactic Processing](#syntactic-processing)
-    - [Dependency Parsing](#dependency-parsing)
-    - [Constituency Parsing](#constituency-parsing)
-  + [Semantic Analysis](#semantic-analysis)
-  + [Pragmatical Analysis](#pragmatical-analysis)
-* [High Level Tasks](#high-level-tasks)
-  + [Word Sense Disambiguation](#word-sense-disambiguation)
-  + [Machine Translation](#machine-translation)
-  + [Question Answering](#question-answering)
-  + [Sentiment Analysis](#sentiment-analysis)
-  + [Date and Time Parsing](#date-and-time-parsing)
-* [Machine Learning Libraries](#machine-learning-libraries)
-* [Language Aware String Manipulation](#language-aware-string-manipulation)
-* [Other Online Resources](#other-online-resources)
-* [Talks and Presentations](#talks-and-presentations)
-* [Books](#books)
-* [Community](#community)
-* [Contributing](#contributing)
-* [License](#license)
 
 ## NLP Pipeline Subtasks
 
@@ -267,14 +241,17 @@ case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
 - [active_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) -
-  RoR `ActiveSupport` gem has various string extensions that can handle case (e.g. `.mb_chars.upcase.to_s` or #transliterate)
-- [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb/blob/master/lib/twitter_cldr/shared/casefolder.rb) - casefolding
-- [u](http://disu.se/software/u-1.0/) - U extends Ruby’s Unicode support
-- [unicode](https://github.com/blackwinter/unicode) - Unicode normalization library
-- [unicode_utils](https://github.com/lang/unicode_utils) - Unicode algorithms for Ruby 1.9
-- [CommonRegexRuby](https://github.com/talyssonoc/CommonRegexRuby) - find a lot of kinds of common information in a string
-- [regexp-examples](https://github.com/tom-lord/regexp-examples) - generate strings that match a given regular expression
-- [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) - make difficult regular expressions easy
+  RoR `ActiveSupport` gem has various string extensions that can handle case
+- [u](http://disu.se/software/u-1.0/) -
+  U extends Ruby’s Unicode support.
+- [unicode](https://github.com/blackwinter/unicode) -
+  Unicode normalization library.
+- [CommonRegexRuby](https://github.com/talyssonoc/CommonRegexRuby) -
+  Find a lot of kinds of common information in a string.
+- [regexp-examples](https://github.com/tom-lord/regexp-examples) -
+  Generate strings that match a given regular expression.
+- [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) -
+  Make difficult regular expressions easy.
 
 ## Other Online Resources
 
@@ -287,49 +264,49 @@ the underlying language.
 
 - 2016
   - *Quickly Create a Telegram Bot in Ruby* by Ardian Haxha
-    [[tutorial](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]
+    <sup>[[tutorial](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
 
 - 2015
-  - *N-gram Analysis for Fun and Profit* by [Jesus Castello](https://github.com/matugm)
-    [[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]
+  + *N-gram Analysis for Fun and Profit* by [Jesus Castello](https://github.com/matugm)
+    <sup>[[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]</sup>
 
-  - *Machine Learning made simple with Ruby* by [Lorenzo Masini](https://github.com/rugginoso)
-    [[tutorial](http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]
+  + *Machine Learning made simple with Ruby* by [Lorenzo Masini](https://github.com/rugginoso)
+    <sup>[[tutorial](http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
 
-  - *Using Ruby Machine Learning to Find Paris Hilton Quotes* by [Rick Carlino](https://github.com/RickCarlino)
-    [[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]
+  + *Using Ruby Machine Learning to Find Paris Hilton Quotes* by [Rick Carlino](https://github.com/RickCarlino)
+    <sup>[[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 
-  - *Exploring Natural Language Processing in Ruby* by [Kevin Dias](https://github.com/diasks2)
-    [[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]
+  + *Exploring Natural Language Processing in Ruby* by [Kevin Dias](https://github.com/diasks2)
+    <sup>[[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
 
 - 2014
-  - *Natural Language Parsing with Ruby* by [Glauco Custódio](https://github.com/glaucocustodio)
+  + *Natural Language Parsing with Ruby* by [Glauco Custódio](https://github.com/glaucocustodio)
     <sup>[[tutorial](http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
 
-  - *Demystifying Data Science (Analyzing Conference Talks with Rails and Ngrams)* by [Todd Schneider](https://github.com/toddwschneider)
-    [[video RailsConf 2014](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [Repo from the Video](https://github.com/Genius/abstractogram)]
+  + _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by [Todd Schneider](https://github.com/toddwschneider)
+    <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
 
-  - *Natural Language Processing with Ruby* by [Konstantin Tennhard](https://github.com/t6d)
-    [[video ArrrrCamp 2014](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video Ruby Conf India](https://www.youtube.com/watch?v=oFmy_QBQ5DU)]
+  + *Natural Language Processing with Ruby* by [Konstantin Tennhard](https://github.com/t6d)
+    <sup>[[video](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video](https://www.youtube.com/watch?v=oFmy_QBQ5DU)]</sup>
 
 - 2013
-  - _How to parse 'go' - Natural Language Processing in Ruby_  by [Tom Cartwright](https://github.com/tomcartwrightuk)
+  + _How to parse 'go' - Natural Language Processing in Ruby_  by [Tom Cartwright](https://github.com/tomcartwrightuk)
     [[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)]
 
-  - *Natural Language Processing in Ruby* by [Brandon Black](https://github.com/brandonblack)
+  + _Natural Language Processing in Ruby_ by [Brandon Black](https://github.com/brandonblack)
     <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
     [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
 
-  - _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
+  + _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
     [[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]
 
-  - _A Tour Through Random Ruby_ by Robert Qualls
+  + _A Tour Through Random Ruby_ by Robert Qualls
     <sup>[[tutorial](http://www.sitepoint.com/tour-random-ruby/)]</sup>
 
 ## Books
 
 -  Miller, Rob. _Text Processing with Ruby: Extract Value from the Data That Surrounds You._
-   Dallas: Pragmatic Bookshelf, 2015.
+   Pragmatic Programmers, 2015.
    <sup>[[link](http://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708/)]</sup>
 -  Watson, Mark. _Scripting Intelligence: Web 3.0 Information Gathering and Processing._
    APRESS, 2010.
@@ -354,8 +331,7 @@ You may want to start there.
 
 ## License
 
-`Awesome NLP in Ruby` by Andrei Beliankou [![Creative Commons Zero 1.0]
-(http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-nd.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+`Awesome NLP in Ruby` by Andrei Beliankou [![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the person who associated CC0 with
 `Awesome NLP in Ruby` has waived all copyright and related or neighboring rights
