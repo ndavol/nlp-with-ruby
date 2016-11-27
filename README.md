@@ -201,19 +201,23 @@ are often collected in dictionaries.
 
 ### Named Entity Recognition
 
-- [Confidential Info Redactor](https://github.com/diasks2/confidential_info_redactor) -
-  a Ruby gem to semi-automatically redact confidential information from a text
-- [ruby-ner](https://github.com/mblongii/ruby-ner) - named entity recognition with Stanford NER and Ruby
-- [ruby-nlp](https://github.com/tiendung/ruby-nlp) - Ruby Binding for Stanford Pos-Tagger and Name Entity Recognizer
+- [ruby-ner](https://github.com/mblongii/ruby-ner) -
+  Named Entity Recognition with Stanford NER and Ruby.
+- [ruby-nlp](https://github.com/tiendung/ruby-nlp) -
+  Ruby Binding for Stanford Pos-Tagger and Name Entity Recognizer.
 
 ### Text-to-Speech-to-Text
 
-* [espeak-ruby](https://github.com/dejan/espeak-ruby) - small Ruby API for utilizing 'espeak' and 'lame' to create text-to-speech mp3 files
-* [Isabella](https://github.com/chrisvfritz/isabella) - a voice-computing assistant built in Ruby
-* [tts](https://github.com/c2h2/tts) - a ruby gem for converting text-to-speech using the Google translate service
-* [att_speech](https://github.com/adhearsion/att_speech) - A Ruby library for consuming the AT&T Speech API for speech to text
-* [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx
-* [Speech2Text](https://github.com/taf2/speech2text) - using Google Speech to Text API Provide a Simple Interface to Convert Audio Files
+* [espeak-ruby](https://github.com/dejan/espeak-ruby) -
+  Small Ruby API for utilizing 'espeak' and 'lame' to create text-to-speech mp3 files.
+* [Isabella](https://github.com/chrisvfritz/isabella) -
+  Voice-computing assistant built in Ruby.
+* [tts](https://github.com/c2h2/tts) -
+  Text-to-Speech conversion using the Google translate service.
+* [att_speech](https://github.com/adhearsion/att_speech) -
+  Ruby wrapper over the AT&T Speech API for speech to text.
+* [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) -
+  Pocketsphinx bindings.
 
 ## Machine Learning Libraries
 
