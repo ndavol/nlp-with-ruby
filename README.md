@@ -316,14 +316,14 @@ the underlying language.
 
 - 2013
   + _How to parse 'go' - Natural Language Processing in Ruby_  by [Tom Cartwright](https://github.com/tomcartwrightuk)
-    [[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)]
+    <sup>[[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)]</sup>
 
   + _Natural Language Processing in Ruby_ by [Brandon Black](https://github.com/brandonblack)
     <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
     [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
 
   + _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
-    [[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]
+    <sup>[[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]</sup>
 
   + _A Tour Through Random Ruby_ by Robert Qualls
     <sup>[[tutorial](http://www.sitepoint.com/tour-random-ruby/)]</sup>
