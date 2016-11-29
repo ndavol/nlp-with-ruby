@@ -9,7 +9,7 @@ resources, libraries, information sources about computational processing of text
 in human languages with Ruby. That field is often referred to as
 [NLP](https://en.wikipedia.org/wiki/Natural_language_processing),
 [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics),
-[HLT](https://en.wikipedia.org/wiki/Language_technology)(Human Language Technology)
+[HLT](https://en.wikipedia.org/wiki/Language_technology) (Human Language Technology)
 and can be brought in conjunction with
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
@@ -341,10 +341,10 @@ the underlying language.
 
 We are very glad to see you in this section and highly appreciate any help!
 
-But we also take care about the quality of this list. If you want to contribute please
-
-- read carefully the [Contribution Guidelines](CONTRIBUTING.md) and
-- agree that your work will be published under the terms of the `CC0` license.
+But we also take care about the quality of this list. If you want to contribute
+please:
+- agree that your work will be published under the terms of the `CC0` license;
+- carefully read the [Contribution Guidelines](CONTRIBUTING.md).
 
 Some of the open tasks for contributors are listed in the [todo file](todo.md).
 You may want to start there.
