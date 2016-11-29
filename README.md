@@ -306,7 +306,7 @@ the underlying language.
     <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
     [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
   - _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
-  <sup>](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]</sup>
+  <sup>[[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]</sup>
   - _A Tour Through Random Ruby_ by Robert Qualls
     <sup>[[tutorial](http://www.sitepoint.com/tour-random-ruby/)]</sup>
 - 2011
