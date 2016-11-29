@@ -163,7 +163,7 @@ are often collected in dictionaries.
 
 ### Text Alignment
 
-- [alignment](https://github.com/bloomrain/alignment) -
+- [alignment](https://github.com/povilasjurcys/alignment) -
   Alignment routines for bilingual texts (Gale-Church implementation).
 
 ### Machine Translation
@@ -179,7 +179,7 @@ are often collected in dictionaries.
 
 - [chatterbot](https://github.com/muffinista/chatterbot) -
   Straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate.
-- [Lita](https://github.com/jimmycuadra/lita) -
+- [Lita](https://github.com/litaio/lita) -
   Lita is a chat bot written in Ruby with persistent storage provided by Redis.
 
 ### Sentiment Analysis
@@ -291,19 +291,19 @@ the underlying language.
 
 - 2016
   - _Quickly Create a Telegram Bot in Ruby_ by Ardian Haxha
-    <sup>[[tutorial](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
+    <sup>[[tutorial](https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
 - 2015
   - _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
     <sup>[[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]</sup>
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
-    <sup>[[tutorial](http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
+    <sup>[[tutorial](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
   - _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
     <sup>[[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
 - 2014
   - _Natural Language Parsing with Ruby_ by [Glauco Custódio](https://github.com/glaucocustodio)
-    <sup>[[tutorial](http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
+    <sup>[[tutorial](http://glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
   - _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by [Todd Schneider](https://github.com/toddwschneider)
     <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
   - _Natural Language Processing with Ruby_ by [Konstantin Tennhard](https://github.com/t6d)
@@ -316,9 +316,9 @@ the underlying language.
     <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
     [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
   - _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
-  <sup>[[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]</sup>
+  <sup>[[tutorial](https://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]</sup>
   - _A Tour Through Random Ruby_ by Robert Qualls
-    <sup>[[tutorial](http://www.sitepoint.com/tour-random-ruby/)]</sup>
+    <sup>[[tutorial](https://www.sitepoint.com/tour-random-ruby/)]</sup>
 - 2011
   - _Ruby one-liners_ by [Benoit Hamelin](https://twitter.com/benoithamelin)
   <sup>[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
@@ -327,10 +327,10 @@ the underlying language.
 
 -  Miller, Rob. _Text Processing with Ruby: Extract Value from the Data That Surrounds You._
    Pragmatic Programmers, 2015.
-   <sup>[[link](http://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708/)]</sup>
+   <sup>[[link](https://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708)]</sup>
 -  Watson, Mark. _Scripting Intelligence: Web 3.0 Information Gathering and Processing._
    APRESS, 2010.
-   <sup>[[link](https://www.amazon.de/Scripting-Intelligence-Information-Gathering-Processing/dp/1430223510/)]</sup>
+   <sup>[[link](https://www.amazon.de/Scripting-Intelligence-Information-Gathering-Processing/dp/1430223510)]</sup>
 
 ## Community
 
@@ -358,7 +358,7 @@ To the extent possible under law, the person who associated CC0 with
 to `Awesome NLP in Ruby`.
 
 You should have received a copy of the CC0 legalcode along with this
-work. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
+work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->
 [ruby]: https://img.shields.io/badge/L%3A-Ruby-red.svg
