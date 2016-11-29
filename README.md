@@ -331,6 +331,8 @@ the underlying language.
 -  Watson, Mark. _Scripting Intelligence: Web 3.0 Information Gathering and Processing._
    APRESS, 2010.
    <sup>[[link](https://www.amazon.de/Scripting-Intelligence-Information-Gathering-Processing/dp/1430223510)]</sup>
+-  Watson, Mark. _Practical Semantic Web and Linked Data Applications._ Lulu: 2010
+   <sup>[[link](http://www.lulu.com/shop/mark-watson/practical-semantic-web-and-linked-data-applications-java-edition/paperback/product-10915016.html)]</sup>
 
 ## Community
 
