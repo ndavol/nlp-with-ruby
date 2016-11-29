@@ -254,7 +254,7 @@ the underlying language.
 - [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) -
   Fuzzy string matching library for Ruby.
 - [active_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) -
-  RoR `ActiveSupport` gem has various string extensions that can handle case
+  RoR `ActiveSupport` gem has various string extensions that can handle case.
 - [u](http://disu.se/software/u-1.0/) -
   U extends Ruby’s Unicode support.
 - [unicode](https://github.com/blackwinter/unicode) -
@@ -325,7 +325,7 @@ the underlying language.
 ## Community
 
 - [Twitter](https://twitter.com/search?q=%23nlproc)
-- [StackOverflow](http://stackoverflow.com/questions/tagged/nlp)
+- [Stack Overflow](http://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D)
 
 ## Contributing
 
