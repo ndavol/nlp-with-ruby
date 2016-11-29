@@ -17,25 +17,25 @@ Any help, suggestions and contributions are welcome! Please read the
 <!-- toc -->
 
 - [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
-  * [Multipurpose Engines](#multipurpose-engines)
-  * [Segmentation](#segmentation)
-  * [Lexical Processing](#lexical-processing)
-    + [Stemming](#stemming)
-    + [Lemmatization](#lemmatization)
-    + [Counting Types and Tokens](#counting-types-and-tokens)
-  * [Phrasal Level Processing](#phrasal-level-processing)
-  * [Syntactic Processing](#syntactic-processing)
-    + [Constituency Parsing](#constituency-parsing)
-  * [Semantic Analysis](#semantic-analysis)
-  * [Pragmatical Analysis](#pragmatical-analysis)
+  - [Multipurpose Engines](#multipurpose-engines)
+  - [Segmentation](#segmentation)
+  - [Lexical Processing](#lexical-processing)
+    - [Stemming](#stemming)
+    - [Lemmatization](#lemmatization)
+    - [Counting Types and Tokens](#counting-types-and-tokens)
+  - [Phrasal Level Processing](#phrasal-level-processing)
+  - [Syntactic Processing](#syntactic-processing)
+    - [Constituency Parsing](#constituency-parsing)
+  - [Semantic Analysis](#semantic-analysis)
+  - [Pragmatical Analysis](#pragmatical-analysis)
 - [High Level Tasks](#high-level-tasks)
-  * [Text Alignment](#text-alignment)
-  * [Machine Translation](#machine-translation)
-  * [Dialog Systems](#dialog-systems)
-  * [Sentiment Analysis](#sentiment-analysis)
-  * [Date and Time Parsing](#date-and-time-parsing)
-  * [Named Entity Recognition](#named-entity-recognition)
-  * [Text-to-Speech-to-Text](#text-to-speech-to-text)
+  - [Text Alignment](#text-alignment)
+  - [Machine Translation](#machine-translation)
+  - [Dialog Systems](#dialog-systems)
+  - [Sentiment Analysis](#sentiment-analysis)
+  - [Date and Time Parsing](#date-and-time-parsing)
+  - [Named Entity Recognition](#named-entity-recognition)
+  - [Text-to-Speech-to-Text](#text-to-speech-to-text)
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
 - [Other Online Resources](#other-online-resources)
@@ -55,7 +55,6 @@ Any help, suggestions and contributions are welcome! Please read the
   Ruby Bindings for the OpenNLP Toolkit.
 - [Stanford Core NLP](https://github.com/louismullie/stanford-core-nlp) -
   Ruby Bindings for the Stanford CoreNLP tools.
-
 - [Treat](https://github.com/louismullie/treat) -
   Natural Language Processing framework for Ruby.
 
@@ -68,22 +67,16 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
   <sup>[[tutorial](tutorials/tokenizer.md)]</sup>
 - [pragmatic_tokenizer](https://github.com/diasks2/pragmatic_tokenizer) -
   Multilingual tokenizer to split a string into tokens.
-
 - [nlp-pure](https://github.com/parhamr/nlp-pure) -
   Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
-
 - [textoken](https://github.com/manorie/textoken) -
   Simple and customizable text tokenization library.
-
 - [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) -
   Word Boundary Disambiguation with many cookies.
-
 - [punkt-segmenter](https://github.com/lfcipriani/punkt-segmenter) -
   Pure Ruby implementation of the Punkt Segmenter.
-
 - [Tactful_Tokenizer](https://github.com/zencephalon/Tactful_Tokenizer) -
   RegExp based tokenizer for different languages.
-
 - [scapel](https://github.com/louismullie/scalpel) -
   Sentence Boundary Disambiguation tool.
 
@@ -99,8 +92,7 @@ linguistic motivation.
 - [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) -
   Ruby-Stemmer exposes the SnowBall API to Ruby.
   <sup>[[tutorial]](tutorials/ruby-stemmer.md)</sup>
-
-* [uea-stemmer](https://github.com/ealdent/uea-stemmer) -
+- [uea-stemmer](https://github.com/ealdent/uea-stemmer) -
   Conservative stemmer for search and indexing.
 
 #### Lemmatization
@@ -113,9 +105,9 @@ are often collected in dictionaries.
 
 #### Counting Types and Tokens
 
-* [wc](https://github.com/thesp0nge/wc) -
+- [wc](https://github.com/thesp0nge/wc) -
   Facilities to count word occurrences in a text.
-* [word_count](https://github.com/AtelierConvivialite/word_count) -
+- [word_count](https://github.com/AtelierConvivialite/word_count) -
   Word counter for `String` and `Hash` objects.
 
 ### Phrasal Level Processing
@@ -166,11 +158,11 @@ are often collected in dictionaries.
 
 ### Machine Translation
 
-* [Google API Client](https://github.com/google/google-api-ruby-client) -
+- [Google API Client](https://github.com/google/google-api-ruby-client) -
   Google API Ruby Client.
-* [microsoft_translator](https://github.com/ikayzo/microsoft_translator) -
+- [microsoft_translator](https://github.com/ikayzo/microsoft_translator) -
   Ruby client for the microsoft translator API.
-* [termit](https://github.com/pawurb/termit) -
+- [termit](https://github.com/pawurb/termit) -
   Google Translate with speech synthesis in your terminal.
 
 ### Dialog Systems
@@ -208,15 +200,15 @@ are often collected in dictionaries.
 
 ### Text-to-Speech-to-Text
 
-* [espeak-ruby](https://github.com/dejan/espeak-ruby) -
+- [espeak-ruby](https://github.com/dejan/espeak-ruby) -
   Small Ruby API for utilizing 'espeak' and 'lame' to create text-to-speech mp3 files.
-* [Isabella](https://github.com/chrisvfritz/isabella) -
+- [Isabella](https://github.com/chrisvfritz/isabella) -
   Voice-computing assistant built in Ruby.
-* [tts](https://github.com/c2h2/tts) -
+- [tts](https://github.com/c2h2/tts) -
   Text-to-Speech conversion using the Google translate service.
-* [att_speech](https://github.com/adhearsion/att_speech) -
+- [att_speech](https://github.com/adhearsion/att_speech) -
   Ruby wrapper over the AT&T Speech API for speech to text.
-* [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) -
+- [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) -
   Pocketsphinx bindings.
 
 ## Machine Learning Libraries
@@ -232,23 +224,23 @@ languages with appropriate bindings for Ruby.
   Decision Tree ID3 Algorithm in pure Ruby.
 - [rtimbl](https://github.com/maspwr/rtimbl) -
   Memory based learners from the Timbl framework.
-* [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
+- [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
-* [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) -
+- [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) -
   Pure Ruby LDA implementation to automatically cluster documents into topics.
-* [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
+- [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
   Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
-* [linnaeus](https://github.com/djcp/linnaeus) -
+- [linnaeus](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
-* [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
+- [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
   JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
-* [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) -
+- [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
-* [nbayes](https://github.com/oasic/nbayes) -
+- [nbayes](https://github.com/oasic/nbayes) -
   Full-featured, Ruby implementation of Naive Bayes.
-* [omnicat](https://github.com/mustafaturan/omnicat) -
+- [omnicat](https://github.com/mustafaturan/omnicat) -
   Generalized rack framework for text classifications.
-* [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
+- [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
 
 ## Language Aware String Manipulation
@@ -290,46 +282,35 @@ the underlying language.
 - 2016
   - _Quickly Create a Telegram Bot in Ruby_ by Ardian Haxha
     <sup>[[tutorial](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
-
 - 2015
-  + _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
+  - _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
     <sup>[[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]</sup>
-
-  + _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
+  - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
     <sup>[[tutorial](http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
-
-  + _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
+  - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
-
-  + _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
+  - _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
     <sup>[[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
-
 - 2014
-  + _Natural Language Parsing with Ruby_ by [Glauco Custódio](https://github.com/glaucocustodio)
+  - _Natural Language Parsing with Ruby_ by [Glauco Custódio](https://github.com/glaucocustodio)
     <sup>[[tutorial](http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
-
-  + _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by [Todd Schneider](https://github.com/toddwschneider)
+  - _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by [Todd Schneider](https://github.com/toddwschneider)
     <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
-
-  + _Natural Language Processing with Ruby_ by [Konstantin Tennhard](https://github.com/t6d)
+  - _Natural Language Processing with Ruby_ by [Konstantin Tennhard](https://github.com/t6d)
     <sup>[[video](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video](https://www.youtube.com/watch?v=oFmy_QBQ5DU)]</sup>
-
 - 2013
-  + _How to parse 'go' - Natural Language Processing in Ruby_  by [Tom Cartwright](https://github.com/tomcartwrightuk)
+  - _How to parse 'go' - Natural Language Processing in Ruby_
+    by [Tom Cartwright](https://github.com/tomcartwrightuk)
     <sup>[[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)]</sup>
-
-  + _Natural Language Processing in Ruby_ by [Brandon Black](https://github.com/brandonblack)
+  - _Natural Language Processing in Ruby_ by [Brandon Black](https://github.com/brandonblack)
     <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
     [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
-
-  + _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
-    <sup>[[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]</sup>
-
-  + _A Tour Through Random Ruby_ by Robert Qualls
+  - _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
+  <sup>](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]</sup>
+  - _A Tour Through Random Ruby_ by Robert Qualls
     <sup>[[tutorial](http://www.sitepoint.com/tour-random-ruby/)]</sup>
-
 - 2011
-  + _Ruby one-liners_ by [Benoit Hamelin](https://twitter.com/benoithamelin)
+  - _Ruby one-liners_ by [Benoit Hamelin](https://twitter.com/benoithamelin)
   <sup>[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
 
 ## Books
