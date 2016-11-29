@@ -5,12 +5,22 @@
 > Useful resources for text processing in [Ruby](https://www.ruby-lang.org/en/)
 
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
-resources, libraries, information sources about computational processing
-of human languages with Ruby. It comes from our day to day work on Language
-Models and NLP Tools. Read [why](motivation.md) this list is awesome.
+resources, libraries, information sources about computational processing of texts
+in human languages with Ruby. That field is often referred to as
+[NLP](https://en.wikipedia.org/wiki/Natural_language_processing),
+[Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics),
+[HLT](https://en.wikipedia.org/wiki/Language_technology)(Human Language Technology)
+and can be brought in conjunction with
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
+[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
+and other related disciplines.
 
-Any help, suggestions and contributions are welcome! Please read the
-[Contributors Guide](CONTRIBUTING.md) and refer the [Contribution](#contributing) section.
+The list comes from our day to day work on Language Models and NLP Tools.
+Read [why](motivation.md) this list is awesome.
+
+Any help, suggestions and contributions are welcome! We kindly ask you to study
+the [Contribution](#contributing) section.
 
 ## Contents
 
