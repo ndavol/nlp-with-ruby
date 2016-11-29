@@ -324,7 +324,7 @@ the underlying language.
 
 ## Community
 
-- [Twitter](https://twitter.com/search?q=%23nlproc)
+- [Twitter](https://twitter.com/search?q=Ruby%20NLP%20%23ruby%20OR%20%23nlproc%20OR%20%23rubynlp%20OR%20%23nlp&src=typd&lang=en)
 - [Stack Overflow](http://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D)
 
 ## Contributing
