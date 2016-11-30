@@ -144,3 +144,11 @@
 * [wlapi](https://github.com/arbox/wlapi)
 * [word_count](https://github.com/AtelierConvivialite/word_count)
 * [zipf](https://github.com/pks/zipf)
+* http://greyblake.com/blog/2015/09/20/nlp-toki-pona-and-ruby-part1/
+* https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/
+* http://www.akitaonrails.com/2016/10/28/natural-language-generation-in-ruby-with-jruby-simplenlg
+* http://johnlaudun.org/20120117-ruby-and-nlp/
+* https://platform.systran.net/sdk/nlp
+* https://web.archive.org/web/20100324150911/http://mendicantbug.com/2009/09/13/nlp-resources-for-ruby/
+* https://github.com/yohasebe/engtagger
+* https://deveiate.org/code/linguistics/
