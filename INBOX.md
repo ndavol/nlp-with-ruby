@@ -152,3 +152,7 @@
 * https://web.archive.org/web/20100324150911/http://mendicantbug.com/2009/09/13/nlp-resources-for-ruby/
 * https://github.com/yohasebe/engtagger
 * https://deveiate.org/code/linguistics/
+* https://github.com/omazhary/fuzzy-sentiment-analysis
+* https://github.com/hck/open_nlp
+* https://code.google.com/archive/p/language-detection/
+* https://github.com/aboSamoor/polyglot
