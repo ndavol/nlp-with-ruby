@@ -339,6 +339,7 @@ the underlying language.
   General List of NLP related resources not mostly not for Ruby programmers.
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
+- [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
 
 ## Contributing
 
