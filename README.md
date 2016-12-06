@@ -48,10 +48,10 @@ the [Contribution](#contributing) section.
   - [Text-to-Speech-to-Text](#text-to-speech-to-text)
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
-- [Other Online Resources](#other-online-resources)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Books](#books)
 - [Community](#community)
+- [Related Resources](#related-resources)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -276,17 +276,6 @@ the underlying language.
 - [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) -
   Make difficult regular expressions easy.
 
-## Other Online Resources
-
-- [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
-  Short list of NLP related projects.
-- [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
-  State-of-Art collection of Ruby libraries for NLP.
-- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
-  General List of NLP related resources not mostly not for Ruby programmers.
-- [Scientific Ruby](http://sciruby.com/) -
-  Linear Algebra, Visualization and Scientific Computing for Ruby.
-
 ## Articles, Posts, Talks, and Presentations
 
 - 2016
@@ -340,6 +329,17 @@ the underlying language.
 - [Stack Overflow](http://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D)
 - [Twitter](https://twitter.com/search?q=Ruby%20NLP%20%23ruby%20OR%20%23nlproc%20OR%20%23rubynlp%20OR%20%23nlp&src=typd&lang=en)
 
+## Related Resources
+
+- [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
+  Short list of NLP related projects.
+- [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
+  State-of-Art collection of Ruby libraries for NLP.
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
+  General List of NLP related resources not mostly not for Ruby programmers.
+- [Scientific Ruby](http://sciruby.com/) -
+  Linear Algebra, Visualization and Scientific Computing for Ruby.
+
 ## Contributing
 
 We are very glad to see you in this section and highly appreciate any help!
@@ -354,7 +354,7 @@ You may want to start there.
 
 ## License
 
-`Awesome NLP in Ruby` by Andrei Beliankou [![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Awesome NLP in Ruby` by Andrei Beliankou
 
 To the extent possible under law, the person who associated CC0 with
 `Awesome NLP in Ruby` has waived all copyright and related or neighboring rights
