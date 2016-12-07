@@ -279,7 +279,7 @@ the underlying language.
 ## Articles, Posts, Talks, and Presentations
 
 - 2016
-  - _Quickly Create a Telegram Bot in Ruby_ by Ardian Haxha
+  - _Quickly Create a Telegram Bot in Ruby_ by [Ardian Haxha](https://twitter.com/ArdianHaxha)
     <sup>[[tutorial](https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
 - 2015
   - _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
