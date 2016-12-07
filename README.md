@@ -306,8 +306,9 @@ the underlying language.
     [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
   - _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
   <sup>[[tutorial](https://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]</sup>
-  - _A Tour Through Random Ruby_ by Robert Qualls
-    <sup>[[tutorial](https://www.sitepoint.com/tour-random-ruby/)]</sup>
+  - _Seeking Lovecraft, Part 1: An introduction to NLP and the Treat Gem_ by
+    [Robert Qualls](https://github.com/rlqualls)
+    <sup>[[tutorial](https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/)]</sup>
 - 2011
   - _Ruby one-liners_ by [Benoit Hamelin](https://twitter.com/benoithamelin)
   <sup>[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
