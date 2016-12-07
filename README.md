@@ -337,7 +337,7 @@ the underlying language.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
   State-of-Art collection of Ruby libraries for NLP.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
-  General List of NLP related resources not mostly not for Ruby programmers.
+  General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
 - [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
