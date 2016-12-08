@@ -1,6 +1,6 @@
 # Tutorial
 
-![Implemented in pure Ruby][logo]
+![Implemented in pure Ruby][ruby]
 
 ## Motivation
 What tasks can we accomplish with this tool?
