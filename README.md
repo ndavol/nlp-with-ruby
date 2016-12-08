@@ -101,7 +101,6 @@ linguistic motivation.
 
 - [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) -
   Ruby-Stemmer exposes the SnowBall API to Ruby.
-  <sup>[[tutorial]](tutorials/ruby-stemmer.md)</sup>
 - [uea-stemmer](https://github.com/ealdent/uea-stemmer) -
   Conservative stemmer for search and indexing.
 
