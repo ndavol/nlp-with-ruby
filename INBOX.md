@@ -156,3 +156,4 @@
 * https://github.com/hck/open_nlp
 * https://code.google.com/archive/p/language-detection/
 * https://github.com/aboSamoor/polyglot
+* https://developers.lingvolive.com/en-us/Help
