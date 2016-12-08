@@ -363,12 +363,3 @@ to `Awesome NLP in Ruby`.
 
 You should have received a copy of the CC0 legalcode along with this
 work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
-
-<!--- Links --->
-[ruby]: https://img.shields.io/badge/L%3A-Ruby-red.svg
-[jruby]: https://img.shields.io/badge/L%3A-JRuby-yellowgreen.svg
-[java]: https://img.shields.io/badge/L%3A-Java-yellow.svg
-[c]: https://img.shields.io/badge/L%3A-C-brightgreen.svg
-[cpp]: https://img.shields.io/badge/L%3A-C%2B%2B-green.svg
-[tutorial-present]: https://img.shields.io/badge/Tutorial-%E2%9C%85-green.svg
-[tutorial-missing]: https://img.shields.io/badge/Tutorial-%E2%9C%98-lightgrey.svg
