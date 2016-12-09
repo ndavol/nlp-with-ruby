@@ -314,6 +314,8 @@ the underlying language.
 - 2011
   - _Ruby one-liners_ by [Benoit Hamelin](https://twitter.com/benoithamelin)
   <sup>[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
+  - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
+    <sup>[[post](https://colindrake.me/2011/05/28/clustering-in-ruby/)]</sup>
 
 ## Books
 
