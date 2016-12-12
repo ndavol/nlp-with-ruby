@@ -59,6 +59,11 @@ the [Contribution](#contributing) section.
 
 ## NLP Pipeline Subtasks
 
+### Pipeline Generation
+
+- [Composable Operations](https://github.com/t6d/composable_operations) -
+  Definition framework for operation pipelines..
+
 ### Multipurpose Engines
 
 - [Open NLP](https://github.com/louismullie/open-nlp) -
