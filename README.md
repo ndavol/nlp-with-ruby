@@ -63,7 +63,7 @@ the [Contribution](#contributing) section.
 ### Pipeline Generation
 
 - [Composable Operations](https://github.com/t6d/composable_operations) -
-  Definition framework for operation pipelines..
+  Definition framework for operation pipelines.
 
 ### Multipurpose Engines
 
