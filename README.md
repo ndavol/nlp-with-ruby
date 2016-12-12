@@ -325,7 +325,8 @@ the underlying language.
 
 ## Books
 
--  Miller, Rob. _Text Processing with Ruby: Extract Value from the Data That Surrounds You._
+-  [Miller, Rob](https://twitter.com/robmil/).
+   _Text Processing with Ruby: Extract Value from the Data That Surrounds You._
    Pragmatic Programmers, 2015.
    <sup>[[link](https://www.amazon.com/Text-Processing-Ruby-Extract-Surrounds/dp/1680500708)]</sup>
 -  Watson, Mark. _Scripting Intelligence: Web 3.0 Information Gathering and Processing._
