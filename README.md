@@ -27,6 +27,7 @@ the [Contribution](#contributing) section.
 <!-- toc -->
 
 - [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
+  - [Pipeline Generation](#pipeline-generation)
   - [Multipurpose Engines](#multipurpose-engines)
   - [Segmentation](#segmentation)
   - [Lexical Processing](#lexical-processing)
