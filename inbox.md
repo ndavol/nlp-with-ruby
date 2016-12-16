@@ -1,5 +1,22 @@
 # Resources to be processed
 
+
+* wapiti
+* rubyband
+* rblibsvm
+* ai4r
+* ai4ruby
+* ariel
+* termextract
+* textanalysisutils
+* microsoft_translator
+* rbtagger
+* openertreetagger
+* openerpolaritytagger
+* ged/linguistics
+* rbgsl
+* gsl
+* rinruby
 * [BOTServer](https://github.com/solyaris/BOTServer)
 * [Chat Correct](https://github.com/diasks2/chat_correct)
 * [Chronic Between](https://github.com/jrobertson/chronic_between)
