@@ -3,10 +3,10 @@
 You can contribute to this list in three ways. But please read about
 our [motivation](motivation.md) on this curated collection first.
 
-## Adding and Idea to the [Inbox](INBOX.md)
+## Adding and Idea to the [Inbox](inbox.md)
 
 If you have found a library, resource, collection, corpus etc, but not used it
-extensively, you can submit a Pull Request to the [Inbox](INBOX.md). We'll consider
+extensively, you can submit a Pull Request to the [Inbox](inbox.md). We'll consider
 your submission and decide if it can be useful in the NLP context.
 
 ## Adding to the main list
