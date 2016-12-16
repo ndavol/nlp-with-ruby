@@ -141,7 +141,6 @@
 * [wc](https://github.com/thesp0nge/wc)
 * [whatlanguage](https://github.com/peterc/whatlanguage)
 * [wit-ruby](https://github.com/modeset/wit-ruby)
-* [wlapi](https://github.com/arbox/wlapi)
 * [word_count](https://github.com/AtelierConvivialite/word_count)
 * [zipf](https://github.com/pks/zipf)
 * http://greyblake.com/blog/2015/09/20/nlp-toki-pona-and-ruby-part1/
@@ -157,3 +156,13 @@
 * https://code.google.com/archive/p/language-detection/
 * https://github.com/aboSamoor/polyglot
 * https://developers.lingvolive.com/en-us/Help
+* https://github.com/hck/open_nlp
+* https://github.com/SYSTRAN/nlp-api-ruby-client
+* https://github.com/andrely/Textlab-NLP/tree/master/lib/textlabnlp/test
+* https://github.com/jherr/sentiment
+* https://github.com/abhinaykumar/nlp_treat
+* https://github.com/watsonbox/pocketsphinx-ruby
+* https://github.com/threedaymonk/text
+* https://github.com/cjheath/treetop
+* https://github.com/abitdodgy/words_counted
+* https://github.com/kschiess/parslet
