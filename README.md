@@ -64,6 +64,8 @@ the [Contribution](#contributing) section.
 
 - [Composable Operations](https://github.com/t6d/composable_operations) -
   Definition framework for operation pipelines.
+- [Ruby-Spark](https://github.com/ondra-m/ruby-spark) -
+  Spark bindings with an easy to understand DSL.
 
 ### Multipurpose Engines
 
