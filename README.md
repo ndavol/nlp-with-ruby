@@ -19,11 +19,10 @@ and other related disciplines.
 The list comes from our day to day work on Language Models and NLP Tools.
 Read [why](motivation.md) this list is awesome.
 
-Any help, suggestions and contributions are welcome! We kindly ask you to study
-the [Contribution](#contributing) section.
-
-We all want to promote `Ruby` for NLP related tasks. Please spread the word
-using the `#RubyNLP` hash tag!
+We all want to promote Ruby for NLP related tasks. Any help, suggestions and
+contributions are welcome! We kindly ask you to study
+the [Contribution](#contributing) section. Please spread the word using
+the `#RubyNLP` hash tag!
 
 ## Contents
 
