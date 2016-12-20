@@ -291,7 +291,7 @@ the underlying language.
   - _Quickly Create a Telegram Bot in Ruby_ by [Ardian Haxha](https://twitter.com/ArdianHaxha)
     <sup>[[tutorial](https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
   - _Deep Learning: An Introduction for Ruby Developers_ by [Geoffrey Litt](https://twitter.com/geoffreylitt)
-    <sup>[slides](https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers)</sup>
+    <sup>[[slides](https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers)]</sup>
 - 2015
   - _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
     <sup>[[tutorial](http://www.blackbytes.info/2015/09/ngram-analysis-ruby/)]</sup>
