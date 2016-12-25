@@ -11,7 +11,8 @@ I submit
 
 - [ ] a link to the [Inbox](../inbox.md) with a resource I found interesting
   but I don't have extensive experience with;
-- [ ] a link to a resource I created myself;
+- [ ] a link to a resource I created myself with
+  - [ ] a link [![Awesome RubyNLP](https://img.shields.io/badge/Awesome-RubyNLP-brightgreen.svg)](https://github.com/arbox/nlp-with-ruby) after the ressource's README title;
 - [ ] a link to a resource I've got extensive expertise in and provide
   a tutorial, which
   - [ ] has a `Gemfile`,
