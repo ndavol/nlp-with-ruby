@@ -2,7 +2,7 @@
 
 [<img src="assets/Ruby_Logo.jpg" align="right" width="100px" height="100px" />](https://www.ruby-lang.org/en/)
 
-> Useful resources for text processing in [Ruby](https://www.ruby-lang.org/en/)
+> Useful resources for text processing in [Ruby](https://www.ruby-lang.org/en/) [![Awesome RubyNLP](https://img.shields.io/badge/Awesome-RubyNLP-brightgreen.svg)](https://github.com/arbox/nlp-with-ruby)
 
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 resources, libraries, information sources about computational processing of texts
