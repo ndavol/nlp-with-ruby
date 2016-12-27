@@ -185,3 +185,5 @@
 * https://github.com/kschiess/parslet
 * https://github.com/himkt/rblearn
 * https://github.com/somaticio/tensorflow.rb
+* https://github.com/dannnylo/rtesseract
+* https://github.com/meh/ruby-tesseract-ocr
