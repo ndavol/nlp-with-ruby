@@ -29,26 +29,27 @@ the `#RubyNLP` hash tag!
 <!-- toc -->
 
 - [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
-  - [Pipeline Generation](#pipeline-generation)
-  - [Multipurpose Engines](#multipurpose-engines)
-  - [Segmentation](#segmentation)
-  - [Lexical Processing](#lexical-processing)
-    - [Stemming](#stemming)
-    - [Lemmatization](#lemmatization)
-    - [Counting Types and Tokens](#counting-types-and-tokens)
-  - [Phrasal Level Processing](#phrasal-level-processing)
-  - [Syntactic Processing](#syntactic-processing)
-    - [Constituency Parsing](#constituency-parsing)
-  - [Semantic Analysis](#semantic-analysis)
-  - [Pragmatical Analysis](#pragmatical-analysis)
+  * [Pipeline Generation](#pipeline-generation)
+  * [Multipurpose Engines](#multipurpose-engines)
+    + [On-line APIs](#on-line-apis)
+  * [Segmentation](#segmentation)
+  * [Lexical Processing](#lexical-processing)
+    + [Stemming](#stemming)
+    + [Lemmatization](#lemmatization)
+    + [Counting Types and Tokens](#counting-types-and-tokens)
+  * [Phrasal Level Processing](#phrasal-level-processing)
+  * [Syntactic Processing](#syntactic-processing)
+    + [Constituency Parsing](#constituency-parsing)
+  * [Semantic Analysis](#semantic-analysis)
+  * [Pragmatical Analysis](#pragmatical-analysis)
 - [High Level Tasks](#high-level-tasks)
-  - [Text Alignment](#text-alignment)
-  - [Machine Translation](#machine-translation)
-  - [Dialog Systems](#dialog-systems)
-  - [Sentiment Analysis](#sentiment-analysis)
-  - [Date and Time Parsing](#date-and-time-parsing)
-  - [Named Entity Recognition](#named-entity-recognition)
-  - [Text-to-Speech-to-Text](#text-to-speech-to-text)
+  * [Text Alignment](#text-alignment)
+  * [Machine Translation](#machine-translation)
+  * [Dialog Systems](#dialog-systems)
+  * [Sentiment Analysis](#sentiment-analysis)
+  * [Date and Time Parsing](#date-and-time-parsing)
+  * [Named Entity Recognition](#named-entity-recognition)
+  * [Text-to-Speech-to-Text](#text-to-speech-to-text)
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
@@ -77,6 +78,11 @@ the `#RubyNLP` hash tag!
   Ruby Bindings for the Stanford CoreNLP tools.
 - [Treat](https://github.com/louismullie/treat) -
   Natural Language Processing framework for Ruby.
+
+#### On-line APIs
+
+- [AlchemyAPI](https://github.com/alchemyapi/alchemyapi_ruby) -
+  Legacy Ruby SDK for AlchemyAPI/Bluemix.
 
 ### Segmentation
 
