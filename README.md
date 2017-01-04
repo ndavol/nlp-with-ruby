@@ -360,7 +360,7 @@ the underlying language.
 ## Related Resources
 
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
-  Short list of NLP related projects.
+  Among other awesome items a short list of NLP related projects.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
   State-of-Art collection of Ruby libraries for NLP.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
@@ -370,6 +370,8 @@ the underlying language.
 - [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
 - [Kiba](https://github.com/thbar/kiba) -
   Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
+- [Awesome OCR](https://github.com/kba/awesome-ocr) -
+  Multitude of OCR (Optical Character Recognition) resources.
 
 ## Contributing
 
