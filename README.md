@@ -1,27 +1,30 @@
 # Awesome NLP with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome RubyNLP](https://img.shields.io/badge/Awesome-RubyNLP-brightgreen.svg)](https://github.com/arbox/nlp-with-ruby)
 
-[<img src="assets/Ruby_Logo.jpg" align="right" width="100px" height="100px" />](https://www.ruby-lang.org/en/)
+[<img src="assets/Ruby_Logo.jpg" align="right" width="100px" height="100px" />][ruby]
 
-> Useful resources for text processing in [Ruby](https://www.ruby-lang.org/en/)
+> Useful resources for text processing in [Ruby][ruby]
 
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 resources, libraries, information sources about computational processing of texts
-in human languages with Ruby. That field is often referred to as
+in human languages with the [Ruby programming language](ruby).
+That field is often referred to as
 [NLP](https://en.wikipedia.org/wiki/Natural_language_processing),
 [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics),
 [HLT](https://en.wikipedia.org/wiki/Language_technology) (Human Language Technology)
 and can be brought in conjunction with
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
-[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
+[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval),
+[Text Mining](https://en.wikipedia.org/wiki/Text_mining),
+[Knowledge Extraction](https://en.wikipedia.org/wiki/Knowledge_extraction)
 and other related disciplines.
 
-The list comes from our day to day work on Language Models and NLP Tools.
+This list comes from our day to day work on Language Models and NLP Tools.
 Read [why](motivation.md) this list is awesome.
 
-We all want to promote Ruby for NLP related tasks. Any help, suggestions and
-contributions are welcome! We kindly ask you to study
-the [Contribution](#contributing) section. Please spread the word using
+Our main goal is to promote Ruby as a tool for NLP related tasks. Your help,
+suggestions and contributions are welcome! We kindly ask you to study
+the [Contribution](#contributing) section. And please spread the word using
 the `#RubyNLP` hash tag!
 
 ## Contents
@@ -395,3 +398,6 @@ to `Awesome NLP in Ruby`.
 
 You should have received a copy of the CC0 legalcode along with this
 work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
+
+<!--- Links --->
+[ruby]: https://www.ruby-lang.org/en/
