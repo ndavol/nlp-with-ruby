@@ -86,6 +86,8 @@ the `#RubyNLP` hash tag!
 
 - [AlchemyAPI](https://github.com/alchemyapi/alchemyapi_ruby) -
   Legacy Ruby SDK for AlchemyAPI/Bluemix.
+- [wit-ruby](https://github.com/wit-ai/wit-ruby) -
+  Ruby client library for the [Wit.ai](https://wit.ai/) Language Understanding Platform.
 
 ### Segmentation
 
@@ -201,6 +203,7 @@ are often collected in dictionaries.
   Lita is a chat bot written in Ruby with persistent storage provided by Redis.
 
 ### Sentiment Analysis
+
 - [Stimmung](https://github.com/pachacamac/stimmung) -
   Semantic Polarity based on [SentiWS](http://wortschatz.informatik.uni-leipzig.de/download/sentiws.html).
 
@@ -241,8 +244,9 @@ are often collected in dictionaries.
 
 ## Machine Learning Libraries
 
-Machine Learining Algorithms in pure Ruby or written in other programming
-languages with appropriate bindings for Ruby.
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) Algorithms
+in pure Ruby or written in other programming languages with appropriate bindings
+for Ruby.
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby.
