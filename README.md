@@ -379,6 +379,8 @@ the underlying language.
   Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
   Multitude of OCR (Optical Character Recognition) resources.
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
+  Machine Learning with TensorFlow libraries.
 
 ## Contributing
 
