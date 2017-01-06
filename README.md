@@ -80,7 +80,7 @@ the `#RubyNLP` hash tag!
 - [Stanford Core NLP](https://github.com/louismullie/stanford-core-nlp) -
   Ruby Bindings for the Stanford CoreNLP tools.
 - [Treat](https://github.com/louismullie/treat) -
-  Natural Language Processing framework for Ruby.
+  Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
 
 #### On-line APIs
 
@@ -400,8 +400,8 @@ You may want to start there.
 [Contributors](https://github.com/arbox/nlp-with-ruby/graphs/contributors).
 
 To the extent possible under law, the person who associated CC0 with
-`Awesome NLP in Ruby` has waived all copyright and related or neighboring rights
-to `Awesome NLP in Ruby`.
+`Awesome NLP with Ruby` has waived all copyright and related or neighboring rights
+to `Awesome NLP with Ruby`.
 
 You should have received a copy of the CC0 legalcode along with this
 work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
