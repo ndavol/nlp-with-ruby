@@ -396,7 +396,7 @@ You may want to start there.
 
 ## License
 
-[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Awesome NLP in Ruby` by Andrei Beliankou
+[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Awesome NLP with Ruby` by Andrei Beliankou and Contributors.
 
 To the extent possible under law, the person who associated CC0 with
 `Awesome NLP in Ruby` has waived all copyright and related or neighboring rights
