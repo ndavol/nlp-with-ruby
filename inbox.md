@@ -1,6 +1,5 @@
 # Resources to be processed
 
-
 * wapiti
 * rubyband
 * rblibsvm
@@ -187,3 +186,8 @@
 * https://github.com/somaticio/tensorflow.rb
 * https://github.com/dannnylo/rtesseract
 * https://github.com/meh/ruby-tesseract-ocr
+* http://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/
+* https://github.com/tiendung/ruby-nlp
+* http://web.archive.org/web/20101103003208/http://mendicantbug.com/2009/07/16/porting-the-uea-lite-stemmer-to-ruby/
+* http://web.archive.org/web/20100324150911/http://mendicantbug.com/2009/09/13/nlp-resources-for-ruby/
+*
