@@ -14,6 +14,9 @@ your mindset and not break your mind to get compliant with a programming languag
 
 Take Ruby if you're happy with it. Use Python if you like it more.
 
+And if you still hesitate look at this great
+[talk](https://www.youtube.com/watch?v=0D3KfnbTdWw) by Jim Weirich.
+
 ## Wait ... but Ruby is so slow?
 
 Ruby **IS** comparable in terms of processing speed with other high level
