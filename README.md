@@ -322,7 +322,8 @@ the underlying language.
   - _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by [Todd Schneider](https://github.com/toddwschneider)
     <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
   - _Natural Language Processing with Ruby_ by [Konstantin Tennhard](https://github.com/t6d)
-    <sup>[[video](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video](https://www.youtube.com/watch?v=oFmy_QBQ5DU)]</sup>
+    <sup>[[video](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video](https://www.youtube.com/watch?v=oFmy_QBQ5DU) |
+    [video](https://www.youtube.com/watch?v=sPkeeWnsMn0)]</sup>
 - 2013
   - _How to parse 'go' - Natural Language Processing in Ruby_
     by [Tom Cartwright](https://github.com/tomcartwrightuk)
