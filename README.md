@@ -76,9 +76,9 @@ the `#RubyNLP` hash tag!
 ### Multipurpose Engines
 
 - [Open NLP](https://github.com/louismullie/open-nlp) -
-  Ruby Bindings for the OpenNLP Toolkit.
+  Ruby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 - [Stanford Core NLP](https://github.com/louismullie/stanford-core-nlp) -
-  Ruby Bindings for the Stanford CoreNLP tools.
+  Ruby Bindings for the Stanford [CoreNLP](https://github.com/stanfordnlp/CoreNLP) tools.
 - [Treat](https://github.com/louismullie/treat) -
   Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
 
@@ -205,12 +205,14 @@ are often collected in dictionaries.
 ### Sentiment Analysis
 
 - [Stimmung](https://github.com/pachacamac/stimmung) -
-  Semantic Polarity based on [SentiWS](http://wortschatz.informatik.uni-leipzig.de/download/sentiws.html).
+  Semantic Polarity based on the
+  [SentiWS](http://wortschatz.informatik.uni-leipzig.de/download/sentiws.html)
+  lexicon.
 
 ### Date and Time Parsing
 
 - [Chronic](https://github.com/mojombo/chronic) -
-  Pure Ruby natural language date parser
+  Pure Ruby natural language date parser.
 - [Chronic Between](https://github.com/jrobertson/chronic_between) -
   Simple Ruby natural language parser for date and time ranges.
 - [Chronic Duration](https://github.com/hpoydar/chronic_duration) -
