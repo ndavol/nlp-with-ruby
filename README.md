@@ -325,20 +325,23 @@ the underlying language.
     <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
   - _Natural Language Processing with Ruby_ by [Konstantin Tennhard](https://github.com/t6d)
     <sup>[[video](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video](https://www.youtube.com/watch?v=oFmy_QBQ5DU) |
-    [video](https://www.youtube.com/watch?v=sPkeeWnsMn0)]</sup>
+    [video](https://www.youtube.com/watch?v=sPkeeWnsMn0) |
+    [slides](http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf)]</sup>
 - 2013
-  - _How to parse 'go' - Natural Language Processing in Ruby_
-    by [Tom Cartwright](https://github.com/tomcartwrightuk)
-    <sup>[[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)]</sup>
+  - _How to parse 'go' - Natural Language Processing in Ruby_ by
+    [Tom Cartwright](https://twitter.com/tomcartwrightuk)
+    <sup>[[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby) |
+    [video](https://skillsmatter.com/skillscasts/4883-how-to-parse-go)]</sup>
   - _Natural Language Processing in Ruby_ by [Brandon Black](https://github.com/brandonblack)
     <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
     [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
   - _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
-    <sup>[[tutorial](https://www.sitepoint.com/natural-language-processing-ruby-n-grams/) | [code](https://github.com/nathankleyn/ruby_nlp)]</sup>
+    <sup>[[tutorial](https://www.sitepoint.com/natural-language-processing-ruby-n-grams/) |
+    [code](https://github.com/nathankleyn/ruby_nlp)]</sup>
   - _Seeking Lovecraft, Part 1: An introduction to NLP and the Treat Gem_ by
     [Robert Qualls](https://github.com/rlqualls)
     <sup>[[tutorial](https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/)]</sup>
-- 2012
+  - 2012
   - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
 - 2011
