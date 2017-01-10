@@ -88,6 +88,11 @@ the `#RubyNLP` hash tag!
   Legacy Ruby SDK for AlchemyAPI/Bluemix.
 - [wit-ruby](https://github.com/wit-ai/wit-ruby) -
   Ruby client library for the [Wit.ai](https://wit.ai/) Language Understanding Platform.
+- [wlapi](https://github.com/arbox/wlapi) - Ruby client library for
+  [Wortschatz Leipzig](http://wortschatz.uni-leipzig.de/) web services.
+- [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment
+  Analysis, Topic Modelling, Language Detection, Named Entities Recognition via
+  a Ruby based Web API client.
 
 ### Segmentation
 
@@ -321,7 +326,8 @@ the underlying language.
 - 2014
   - _Natural Language Parsing with Ruby_ by [Glauco Custódio](https://github.com/glaucocustodio)
     <sup>[[tutorial](http://glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
-  - _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by [Todd Schneider](https://github.com/toddwschneider)
+  - _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by
+    [Todd Schneider](https://github.com/toddwschneider)
     <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
   - _Natural Language Processing with Ruby_ by [Konstantin Tennhard](https://github.com/t6d)
     <sup>[[video](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video](https://www.youtube.com/watch?v=oFmy_QBQ5DU) |
