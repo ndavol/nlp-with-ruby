@@ -68,30 +68,30 @@ the `#RubyNLP` hash tag!
 
 ### Pipeline Generation
 
-- [Composable Operations](https://github.com/t6d/composable_operations) -
+- [composable_operations](https://github.com/t6d/composable_operations) -
   Definition framework for operation pipelines.
-- [Ruby-Spark](https://github.com/ondra-m/ruby-spark) -
+- [ruby-spark](https://github.com/ondra-m/ruby-spark) -
   Spark bindings with an easy to understand DSL.
 
 ### Multipurpose Engines
 
-- [Open NLP](https://github.com/louismullie/open-nlp) -
+- [open-nlp](https://github.com/louismullie/open-nlp) -
   Ruby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
-- [Stanford Core NLP](https://github.com/louismullie/stanford-core-nlp) -
+- [stanford-core-nlp](https://github.com/louismullie/stanford-core-nlp) -
   Ruby Bindings for the Stanford [CoreNLP](https://github.com/stanfordnlp/CoreNLP) tools.
-- [Treat](https://github.com/louismullie/treat) -
+- [treat](https://github.com/louismullie/treat) -
   Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
 
 #### On-line APIs
 
-- [AlchemyAPI](https://github.com/alchemyapi/alchemyapi_ruby) -
+- [alchemyapi_ruby](https://github.com/alchemyapi/alchemyapi_ruby) -
   Legacy Ruby SDK for AlchemyAPI/Bluemix.
 - [wit-ruby](https://github.com/wit-ai/wit-ruby) -
   Ruby client library for the [Wit.ai](https://wit.ai/) Language Understanding Platform.
 - [wlapi](https://github.com/arbox/wlapi) - Ruby client library for
   [Wortschatz Leipzig](http://wortschatz.uni-leipzig.de/) web services.
 - [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment
-  Analysis, Topic Modelling, Language Detection, Named Entities Recognition via
+  Analysis, Topic Modelling, Language Detection, Named Entity Recognition via
   a Ruby based Web API client.
 
 ### Segmentation
@@ -149,7 +149,7 @@ are often collected in dictionaries.
 
 - [N-Gram](https://github.com/reddavis/N-Gram) -
   N-Gram generator.
-- [ngram](https://github.com/tkellen/ruby-ngram) -
+- [ruby-ngram](https://github.com/tkellen/ruby-ngram) -
   Break words and phrases into ngrams.
 - [raingrams](https://github.com/postmodern/raingrams) -
   Flexible and general-purpose ngrams library written in pure Ruby.
