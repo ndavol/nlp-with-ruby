@@ -221,3 +221,5 @@
 * 'schiphol'
 * 'yomu'
 * 'ruby-readability'
+* https://github.com/dariusk/corpora
+* https://github.com/someben/treebank/
