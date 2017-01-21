@@ -54,6 +54,7 @@ the `#RubyNLP` hash tag!
   * [Named Entity Recognition](#named-entity-recognition)
   * [Text-to-Speech-to-Text](#text-to-speech-to-text)
 - [Machine Learning Libraries](#machine-learning-libraries)
+- [Full Text Search, Information Retrieval, Indexing](#full-text-search-information-retrieval-indexing)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
 - [Books](#books)
@@ -281,6 +282,11 @@ for Ruby.
   Generalized rack framework for text classifications.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
+
+## Full Text Search, Information Retrieval, Indexing
+
+  - [rsolr](https://github.com/rsolr/rsolr) - Ruby and Rails clien library for [Apache Solr](http://lucene.apache.org/solr/).
+  - [sunspot](https://github.com/sunspot/sunspot) - Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
 
 ## Language Aware String Manipulation
 
