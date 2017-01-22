@@ -285,7 +285,7 @@ for Ruby.
 
 ## Full Text Search, Information Retrieval, Indexing
 
-  - [rsolr](https://github.com/rsolr/rsolr) - Ruby and Rails clien library for [Apache Solr](http://lucene.apache.org/solr/).
+  - [rsolr](https://github.com/rsolr/rsolr) - Ruby and Rails client library for [Apache Solr](http://lucene.apache.org/solr/).
   - [sunspot](https://github.com/sunspot/sunspot) - Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
 
 ## Language Aware String Manipulation
