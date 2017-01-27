@@ -26,7 +26,9 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
 - Use the following format: `- [title](link) - Description.`
-  Note the capitalization and punctuation.
+  Note the capitalization and punctuation. Name the tools and libraries exactly
+  how they are required from the Ruby programs, not after the Readme's title, e.g.
+  `treat`, not `Treat`, since you do `require "treat"`.
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.

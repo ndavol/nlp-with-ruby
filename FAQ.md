@@ -38,3 +38,9 @@ The answer is simple and sounds "NO". Not in pure Ruby. But you can be very
 efficient and use Ruby bindings for Java, C and C++ based libraries.
 And sometimes buying newer hardware can be cheaper than writing everything in
 C++. It's definitely your choice!
+
+## How do you call list items?
+
+Every library list item has the naming after the Ruby library. The name is
+the exact wording of the `require` statement to facilitate search and
+memoization. That's why it is called `treat` and not `Treat`.
