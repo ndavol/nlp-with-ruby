@@ -1,21 +1,15 @@
 # Resources to be processed
 
-* wapiti
-* rubyband
-* rblibsvm
-* ai4r
-* ai4ruby
-* ariel
-* termextract
-* textanalysisutils
-* microsoft_translator
-* rbtagger
-* openertreetagger
-* openerpolaritytagger
-* ged/linguistics
-* rbgsl
-* gsl
-* rinruby
+* https://github.com/ged/linguistics
+* https://github.com/inukshuk/wapiti-ruby
+* https://github.com/febeling/rb-libsvm
+* https://github.com/SergioFierens/ai4r
+* https://github.com/jashmenn/ariel
+* https://github.com/rattle/term-extract
+* https://github.com/matstc/text-analysis-utils
+* https://github.com/opener-project/opener-tree-tagger
+* https://github.com/opener-project/polarity-tagger
+* https://github.com/clbustos/rinruby
 * [BOTServer](https://github.com/solyaris/BOTServer)
 * [Chat Correct](https://github.com/diasks2/chat_correct)
 * [Chronic Between](https://github.com/jrobertson/chronic_between)
@@ -46,7 +40,6 @@
 * [Naturally](https://github.com/dogweather/naturally)
 * [Nickel](https://github.com/iainbeeston/nickel)
 * [NlpToolz](https://github.com/LeFnord/nlp_toolz)
-* [Open NLP (Ruby bindings)](https://github.com/louismullie/open-nlp)
 * [Parslet](http://kschiess.github.io/parslet/)
 * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter)
 * [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
@@ -55,9 +48,7 @@
 * [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer)
 * [RubyFann](https://github.com/tangledpath/ruby-fann)
 * [SRX English](https://github.com/apohllo/srx-english)
-* [Scapel](https://github.com/louismullie/scalpel)
 * [Speech2Text](https://github.com/taf2/speech2text)
-* [Stanford Core NLP (Ruby bindings)](https://github.com/louismullie/stanford-core-nlp)
 * [Stopwords Filter](https://github.com/brenes/stopwords-filter)
 * [TF-IDF](https://github.com/reddavis/TF-IDF)
 * [TactfulTokenizer](https://github.com/zencephalon/Tactful_Tokenizer)
@@ -66,7 +57,6 @@
 * [Textoken](https://github.com/manorie/textoken)
 * [Thinking Sphinx](https://github.com/pat/thinking-sphinx)
 * [Tickle](https://github.com/yb66/tickle)
-* [Treat](https://github.com/louismullie/treat)
 * [TreeTagger for Ruby](https://github.com/LeFnord/rstt)
 * [Treetop](https://github.com/cjheath/treetop)
 * [Turkish stemmer](https://github.com/skroutz/turkish_stemmer)
@@ -87,7 +77,6 @@
 * [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein)
 * [dialable](https://github.com/chorn/dialable)
 * [docsplit](http://documentcloud.github.io/docsplit/)
-* [engtagger](https://github.com/yohasebe/engtagger)
 * [espeak-ruby](https://github.com/dejan/espeak-ruby)
 * [ferret](https://github.com/jkraemer/ferret)
 * [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match)
@@ -119,7 +108,7 @@
 * [raingrams](https://github.com/postmodern/raingrams)
 * [ranguba](http://ranguba.org/)
 * [rb-libsvm](https://github.com/febeling/rb-libsvm)
-* [rbtagger](http://rbtagger.rubyforge.org/)
+* http://rbtagger.rubyforge.org/
 * [regexp-examples](https://github.com/tom-lord/regexp-examples)
 * [rley](https://github.com/famished-tiger/Rley)
 * [rseg](https://github.com/yzhang/rseg)
@@ -143,7 +132,6 @@
 * [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity)
 * [thailang4r](https://github.com/veer66/thailang4r)
 * [tiny_segmenter](https://github.com/6/tiny_segmenter)
-* [tokenizer](https://github.com/arbox/tokenizer)
 * [tts](https://github.com/c2h2/tts)
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb/blob/master/lib/twitter_cldr/shared/casefolder.rb)
@@ -181,7 +169,6 @@
 * https://github.com/threedaymonk/text
 * https://github.com/cjheath/treetop
 * https://github.com/abitdodgy/words_counted
-* https://github.com/kschiess/parslet
 * https://github.com/himkt/rblearn
 * https://github.com/somaticio/tensorflow.rb
 * https://github.com/dannnylo/rtesseract
@@ -191,35 +178,6 @@
 * http://web.archive.org/web/20101103003208/http://mendicantbug.com/2009/07/16/porting-the-uea-lite-stemmer-to-ruby/
 * http://web.archive.org/web/20100324150911/http://mendicantbug.com/2009/09/13/nlp-resources-for-ruby/
 * http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/
-* 'linguistics'
-* 'engtagger'
-* 'open-nlp'
-* 'stanford-core-nlp'
-* 'rwordnet'
-* 'scalpel'
-* 'fastimage'
-* 'decisiontree'
-* 'whatlanguage'
-* 'zip'
-* 'nickel'
-* 'tactful_tokenizer'
-* 'srx-english'
-* 'punkt-segmenter'
-* 'chronic'
-* 'uea-stemmer'
-* 'rbtagger'
-* 'ruby-stemmer'
-* 'activesupport'
-* 'rb-libsvm'
-* 'tomz-liblinear-ruby-swig'
-* 'ruby-fann'
-* 'fuzzy-string-match'
-* 'levenshtein-ffi'
-* 'tf-idf-similarity'
-* 'kronic'
-* 'birch'
-* 'schiphol'
-* 'yomu'
-* 'ruby-readability'
 * https://github.com/dariusk/corpora
 * https://github.com/someben/treebank/
+* https://zenmachine.wordpress.com/practical-text-classification-with-ruby/
