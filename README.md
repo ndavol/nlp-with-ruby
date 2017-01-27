@@ -329,6 +329,8 @@ the underlying language.
     <sup>[[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
   - _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
     <sup>[[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
+  - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
+    <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
 - 2014
   - _Natural Language Parsing with Ruby_ by [Glauco Custódio](https://github.com/glaucocustodio)
     <sup>[[tutorial](http://glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
