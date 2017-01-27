@@ -404,6 +404,8 @@ the underlying language.
   Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
+- [rb-gsl](https://github.com/SciRuby/rb-gsl) -
+  Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 
 ## Contributing
 
