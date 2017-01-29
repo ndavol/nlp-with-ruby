@@ -82,6 +82,9 @@ the `#RubyNLP` hash tag!
   Ruby Bindings for the Stanford [CoreNLP](https://github.com/stanfordnlp/CoreNLP) tools.
 - [treat](https://github.com/louismullie/treat) -
   Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
+- [nlp_toolz](https://github.com/LeFnord/nlp_toolz) -
+  Wrapper over some [OpenNLP](https://opennlp.apache.org/) classes and
+  the original [Berkeley Parser](https://github.com/slavpetrov/berkeleyparser).
 
 #### On-line APIs
 
@@ -266,8 +269,9 @@ for Ruby.
   Memory based learners from the Timbl framework.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
-- [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) -
-  Pure Ruby LDA implementation to automatically cluster documents into topics.
+- [lda-ruby](https://github.com/ealdent/lda-ruby) -
+  Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
+  (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.
 - [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) -
   Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
 - [linnaeus](https://github.com/djcp/linnaeus) -
