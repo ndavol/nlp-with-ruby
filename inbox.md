@@ -39,7 +39,6 @@
 * [Naive-Bayes](https://github.com/reddavis/Naive-Bayes)
 * [Naturally](https://github.com/dogweather/naturally)
 * [Nickel](https://github.com/iainbeeston/nickel)
-* [NlpToolz](https://github.com/LeFnord/nlp_toolz)
 * [Parslet](http://kschiess.github.io/parslet/)
 * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter)
 * [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer)
@@ -181,3 +180,15 @@
 * https://github.com/dariusk/corpora
 * https://github.com/someben/treebank/
 * https://zenmachine.wordpress.com/practical-text-classification-with-ruby/
+* http://blog.aylien.com/text-analysis-and-ruby-getting-started-with/
+* https://github.com/7compass/sentimental
+* https://github.com/malavbhavsar/sentimentalizer
+* http://www.nltk.org/book_1ed/ch00-extras.html
+* http://www.oreilly.com/pub/e/3210
+* https://srug.pl/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf
+* https://github.com/helioid/categorize
+* https://github.com/hashwin/scylla
+* http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html
+* https://github.com/jeremybmerrill/simplernlg
+* http://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby
+* http://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby
