@@ -410,6 +410,8 @@ the underlying language.
   Machine Learning with TensorFlow libraries.
 - [rb-gsl](https://github.com/SciRuby/rb-gsl) -
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
+- [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
+  - Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
 
 ## Contributing
 
