@@ -337,7 +337,7 @@ the underlying language.
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
 - 2014
   - _Natural Language Parsing with Ruby_ by [Glauco Custódio](https://github.com/glaucocustodio)
-    <sup>[[tutorial](http://glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
+    <sup>[[tutorial](https://web.archive.org/web/20161019014822/http://glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)]</sup>
   - _Demystifying Data Science: Analyzing Conference Talks with Rails and Ngrams_ by
     [Todd Schneider](https://github.com/toddwschneider)
     <sup>[[video](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [code](https://github.com/Genius/abstractogram)]</sup>
