@@ -85,6 +85,8 @@ the `#RubyNLP` hash tag!
 - [nlp_toolz](https://github.com/LeFnord/nlp_toolz) -
   Wrapper over some [OpenNLP](https://opennlp.apache.org/) classes and
   the original [Berkeley Parser](https://github.com/slavpetrov/berkeleyparser).
+- [open_nlp](https://github.com/hck/open_nlp) -
+  JRuby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 
 #### On-line APIs
 
