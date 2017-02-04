@@ -20,7 +20,7 @@ and can be brought in conjunction with
 and other related disciplines.
 
 This list comes from our day to day work on Language Models and NLP Tools.
-Read [why](motivation.md) this list is awesome.
+Read [why][motivation] this list is awesome.
 
 Our main goal is to promote Ruby as a tool for NLP related tasks. Your help,
 suggestions and contributions are welcome! We kindly ask you to study
@@ -422,9 +422,9 @@ We are very glad to see you in this section and highly appreciate any help!
 But we also take care about the quality of this list. If you want to contribute
 please:
 - agree that your work will be published under the terms of the `CC0` license;
-- carefully read the [Contribution Guidelines](CONTRIBUTING.md).
+- carefully read the [Contribution Guidelines][contributing].
 
-Some of the open tasks for contributors are listed in the [todo file](todo.md).
+Some of the open tasks for contributors are listed in the [todo file][todo].
 You may want to start there.
 
 ## License
@@ -441,3 +441,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 <!--- Links --->
 [ruby]: https://www.ruby-lang.org/en/
+[motivation]: https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md
+[contributing]: https://github.com/arbox/nlp-with-ruby/blob/master/CONTRIBUTING.md
+[todo]: https://github.com/arbox/nlp-with-ruby/blob/master/todo.md
