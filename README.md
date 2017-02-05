@@ -291,8 +291,13 @@ for Ruby.
 
 ## Full Text Search, Information Retrieval, Indexing
 
-  - [rsolr](https://github.com/rsolr/rsolr) - Ruby and Rails client library for [Apache Solr](http://lucene.apache.org/solr/).
-  - [sunspot](https://github.com/sunspot/sunspot) - Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
+  - [rsolr](https://github.com/rsolr/rsolr) -
+    Ruby and Rails client library for [Apache Solr](http://lucene.apache.org/solr/).
+  - [sunspot](https://github.com/sunspot/sunspot) -
+    Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
+  - [thinking-sphinx](https://github.com/pat/thinking-sphinx) -
+    [Active Record](http://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark)
+    plugin for using [Sphinx](http://sphinxsearch.com/) in (not only) Rails based projects.
 
 ## Language Aware String Manipulation
 
