@@ -54,7 +54,6 @@
 * [TelegramBotRuby](https://github.com/shouya/telegram-bot)
 * [TelegramBot](https://github.com/eljojo/telegram_bot)
 * [Textoken](https://github.com/manorie/textoken)
-* [Thinking Sphinx](https://github.com/pat/thinking-sphinx)
 * [Tickle](https://github.com/yb66/tickle)
 * [TreeTagger for Ruby](https://github.com/LeFnord/rstt)
 * [Treetop](https://github.com/cjheath/treetop)
@@ -155,11 +154,9 @@
 * https://github.com/yohasebe/engtagger
 * https://deveiate.org/code/linguistics/
 * https://github.com/omazhary/fuzzy-sentiment-analysis
-* https://github.com/hck/open_nlp
 * https://code.google.com/archive/p/language-detection/
 * https://github.com/aboSamoor/polyglot
 * https://developers.lingvolive.com/en-us/Help
-* https://github.com/hck/open_nlp
 * https://github.com/SYSTRAN/nlp-api-ruby-client
 * https://github.com/andrely/Textlab-NLP/tree/master/lib/textlabnlp/test
 * https://github.com/jherr/sentiment
@@ -192,3 +189,5 @@
 * https://github.com/jeremybmerrill/simplernlg
 * http://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby
 * http://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby
+* https://github.com/classicist/rgreek
+* https://github.com/schmich/spicy-proton
