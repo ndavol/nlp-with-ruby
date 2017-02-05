@@ -328,6 +328,9 @@ the underlying language.
 
 ## Articles, Posts, Talks, and Presentations
 
+- 2017
+  - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
+    <sup>[[slides](http://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby)]</sup>
 - 2016
   - _Quickly Create a Telegram Bot in Ruby_ by [Ardian Haxha](https://twitter.com/ArdianHaxha)
     <sup>[[tutorial](https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
