@@ -298,6 +298,10 @@ for Ruby.
   - [thinking-sphinx](https://github.com/pat/thinking-sphinx) -
     [Active Record](http://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark)
     plugin for using [Sphinx](http://sphinxsearch.com/) in (not only) Rails based projects.
+  - [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) -
+    Ruby client and API for [Elasticsearch](https://www.elastic.co/).
+  - [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) -
+    Ruby and Rails integrations for [Elasticsearch](https://www.elastic.co/).
 
 ## Language Aware String Manipulation
 
