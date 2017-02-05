@@ -2,3 +2,9 @@
 source 'https://rubygems.org'
 
 gem 'awesome_bot', '~> 1.13'
+
+group :web do
+  gem 'jekyll', '3.3.1'
+  gem 'minima', '~> 2.0'
+  gem 'jekyll-feed', '~> 0.6'
+end
