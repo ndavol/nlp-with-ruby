@@ -373,7 +373,7 @@ the underlying language.
   - _Seeking Lovecraft, Part 1: An introduction to NLP and the Treat Gem_ by
     [Robert Qualls](https://github.com/rlqualls)
     <sup>[[tutorial](https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/)]</sup>
-  - 2012
+- 2012
   - _Machine Learning with Ruby, Part One_ by [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
 - 2011
