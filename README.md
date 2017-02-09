@@ -441,7 +441,7 @@ You may want to start there.
 
 ## License
 
-[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Awesome NLP with Ruby` by Andrei Beliankou and
+[![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Awesome NLP with Ruby` by [Andrei Beliankou](https://github.com/arbox) and
 [Contributors](https://github.com/arbox/nlp-with-ruby/graphs/contributors).
 
 To the extent possible under law, the person who associated CC0 with
