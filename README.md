@@ -53,6 +53,7 @@ the `#RubyNLP` hash tag!
   * [Date and Time Parsing](#date-and-time-parsing)
   * [Named Entity Recognition](#named-entity-recognition)
   * [Text-to-Speech-to-Text](#text-to-speech-to-text)
+- [Linguistic Resources](#linguistic-resources)
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Full Text Search, Information Retrieval, Indexing](#full-text-search-information-retrieval-indexing)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
@@ -254,6 +255,12 @@ are often collected in dictionaries.
   Ruby wrapper over the AT&T Speech API for speech to text.
 - [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) -
   Pocketsphinx bindings.
+
+## Linguistic Resources
+
+- [rwordnet](https://github.com/doches/rwordnet) -
+  Pure Ruby self contained API library for the [Princeton WordNet](https://wordnet.princeton.edu/).
+
 
 ## Machine Learning Libraries
 
