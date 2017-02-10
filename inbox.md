@@ -191,3 +191,4 @@
 * http://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby
 * https://github.com/classicist/rgreek
 * https://github.com/schmich/spicy-proton
+* https://github.com/simplifi/string-eater
