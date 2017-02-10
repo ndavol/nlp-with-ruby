@@ -259,8 +259,9 @@ are often collected in dictionaries.
 ## Linguistic Resources
 
 - [rwordnet](https://github.com/doches/rwordnet) -
-  Pure Ruby self contained API library for the [Princeton WordNet](https://wordnet.princeton.edu/).
-
+  Pure Ruby self contained API library for the [Princeton WordNet®](https://wordnet.princeton.edu/).
+- [wordnet](https://github.com/ged/ruby-wordnet/blob/master/README.rdoc) -
+  Performance tuned bindings for the [Princeton WordNet®](https://wordnet.princeton.edu/).
 
 ## Machine Learning Libraries
 
