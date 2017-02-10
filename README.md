@@ -20,7 +20,8 @@ and can be brought in conjunction with
 and other related disciplines.
 
 This list comes from our day to day work on Language Models and NLP Tools.
-Read [why][motivation] this list is awesome.
+Read [why][motivation] this list is awesome. Our [FAQ][faq] describes the
+important decisions and useful answers you may be interested in.
 
 Our main goal is to promote Ruby as a tool for NLP related tasks. Your help,
 suggestions and contributions are welcome! We kindly ask you to study
@@ -464,3 +465,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [motivation]: https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md
 [contributing]: https://github.com/arbox/nlp-with-ruby/blob/master/CONTRIBUTING.md
 [todo]: https://github.com/arbox/nlp-with-ruby/blob/master/todo.md
+[faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
