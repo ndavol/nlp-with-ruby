@@ -1,0 +1,5 @@
+url: "http://blog.rubynlp.org"
+gems:
+  - jekyll-feed
+source: "_blog_source"
+destination: "_blog"
