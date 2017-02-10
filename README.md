@@ -25,8 +25,8 @@ important decisions and useful answers you may be interested in.
 
 Our main goal is to promote Ruby as a tool for NLP related tasks. Your help,
 suggestions and contributions are welcome! We kindly ask you to study
-the [Contribution](#contributing) section. And please spread the word using
-the `#RubyNLP` hash tag!
+the [Contribution](#contributing) section. Follow us on [Twitter](https://twitter.com/RubyNLP)
+and please spread the word using the `#RubyNLP` hash tag!
 
 ## Contents
 
