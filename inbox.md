@@ -114,7 +114,6 @@
 * [ruby-ner](https://github.com/mblongii/ruby-ner)
 * [ruby-nlp](https://github.com/tiendung/ruby-nlp)
 * [ruby-tesseract](https://github.com/meh/ruby-tesseract-ocr)
-* [rwordnet](https://github.com/doches/rwordnet)
 * [slack-bot-server](https://github.com/dblock/slack-bot-server)
 * [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot)
 * [slack-ruby-client](https://github.com/dblock/slack-ruby-client)
@@ -193,3 +192,13 @@
 * https://github.com/schmich/spicy-proton
 * https://github.com/simplifi/string-eater
 * https://emorynlp.github.io/nlp4j/
+* https://github.com/ealdent
+* Spellcheckers
+  * https://github.com/subosito/gingerice
+  * https://github.com/nithinbekal/spellingbee
+  * https://github.com/romanbsd/hunspell
+  * https://github.com/postmodern/ffi-hunspell
+* Lexical Resources
+  * http://babelnet.org/guide
+  * https://github.com/commonsense/conceptnet5/wiki/API
+  * https://github.com/kenpratt/wikipedia-client
