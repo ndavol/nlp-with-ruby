@@ -18,3 +18,8 @@
   - Machine Learning with/in Ruby
   - Opinion Mining/Sentiment Analysis with/in Ruby
 - [ ] Write an announcement for Corpora List
+
+- [ ] Write some guest posts, e.g.:
+  - https://www.digitalocean.com/community/tutorials/how-to-work-with-language-data-in-python-3-using-the-natural-language-toolkit-nltk
+  - https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/
+  - codementor
