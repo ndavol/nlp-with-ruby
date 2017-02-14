@@ -8,3 +8,15 @@ theme: minima
 google_analytics: "UA-91420426-1"
 description: >
   Natural Language Processing done with Ruby
+twitter:
+  username: "rubynlp"
+url: "http://rubynlp.org"
+author: "Andrei Beliankou"
+social:
+  name: "Andrei Beliankou"
+  links:
+    - https://github.com/arbox/nlp-with-ruby
+    - https://twitter.com/RubyNLP
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
