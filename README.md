@@ -36,6 +36,7 @@ and please spread the word using the `#RubyNLP` hash tag!
   * [Pipeline Generation](#pipeline-generation)
   * [Multipurpose Engines](#multipurpose-engines)
     + [On-line APIs](#on-line-apis)
+  * [Language Identification](#language-identification)
   * [Segmentation](#segmentation)
   * [Lexical Processing](#lexical-processing)
     + [Stemming](#stemming)
@@ -101,6 +102,13 @@ and please spread the word using the `#RubyNLP` hash tag!
 - [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment
   Analysis, Topic Modelling, Language Detection, Named Entity Recognition via
   a Ruby based Web API client.
+
+### Language Identification
+
+Language Identification is one of the first crucial steps in every NLP Pipeline.
+
+- [scylla](https://github.com/hashwin/scylla) -
+  Language Categorization and Identification.
 
 ### Segmentation
 
