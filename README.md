@@ -76,6 +76,8 @@ and please spread the word using the `#RubyNLP` hash tag!
   Definition framework for operation pipelines.
 - [ruby-spark](https://github.com/ondra-m/ruby-spark) -
   Spark bindings with an easy to understand DSL.
+- [phobos](https://github.com/klarna/phobos) -
+  Simplified Ruby Client for [Apache Kafka](https://kafka.apache.org/).
 
 ### Multipurpose Engines
 
