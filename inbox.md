@@ -19,7 +19,6 @@
 * [CommonRegexRuby](https://github.com/talyssonoc/CommonRegexRuby)
 * [Confidential Info Redactor](https://github.com/diasks2/confidential_info_redactor)
 * [Decision Tree](https://github.com/igrigorik/decisiontree)
-* [Detect Language API Client](https://github.com/detectlanguage/detectlanguage-ruby)
 * [Dialogs](https://github.com/solyaris/dialogs)
 * [Epitome](https://github.com/McFreely/epitome)
 * [Explain Regular Expression](http://regexdoc.com/re/explain.pl)
@@ -149,7 +148,6 @@
 * http://www.akitaonrails.com/2016/10/28/natural-language-generation-in-ruby-with-jruby-simplenlg
 * http://johnlaudun.org/20120117-ruby-and-nlp/
 * https://platform.systran.net/sdk/nlp
-* https://web.archive.org/web/20100324150911/http://mendicantbug.com/2009/09/13/nlp-resources-for-ruby/
 * https://github.com/yohasebe/engtagger
 * https://deveiate.org/code/linguistics/
 * https://github.com/omazhary/fuzzy-sentiment-analysis
@@ -175,16 +173,11 @@
 * http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/
 * https://github.com/dariusk/corpora
 * https://github.com/someben/treebank/
-* https://zenmachine.wordpress.com/practical-text-classification-with-ruby/
-* http://blog.aylien.com/text-analysis-and-ruby-getting-started-with/
 * https://github.com/7compass/sentimental
 * https://github.com/malavbhavsar/sentimentalizer
 * http://www.nltk.org/book_1ed/ch00-extras.html
 * http://www.oreilly.com/pub/e/3210
-* https://srug.pl/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf
 * https://github.com/helioid/categorize
-* https://github.com/hashwin/scylla
-* http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html
 * https://github.com/jeremybmerrill/simplernlg
 * http://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby
 * http://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby
@@ -202,3 +195,14 @@
   * http://babelnet.org/guide
   * https://github.com/commonsense/conceptnet5/wiki/API
   * https://github.com/kenpratt/wikipedia-client
+* Language Identification
+  * https://github.com/thecodingmonk/ruby-langid
+  * https://github.com/igrigorik/language_detector
+  * https://github.com/echen/unsupervised-language-identification
+  * https://github.com/peterc/whatlanguage
+  * [Detect Language API Client](https://github.com/detectlanguage/detectlanguage-ruby)
+* Posts
+  * http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html
+  * https://srug.pl/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf
+  * https://zenmachine.wordpress.com/practical-text-classification-with-ruby/
+  * http://blog.aylien.com/text-analysis-and-ruby-getting-started-with/
