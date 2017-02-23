@@ -238,7 +238,7 @@ are often collected in dictionaries.
   Pure Ruby natural language date parser.
 - [Chronic Between](https://github.com/jrobertson/chronic_between) -
   Simple Ruby natural language parser for date and time ranges.
-- [Chronic Duration](https://github.com/hpoydar/chronic_duration) -
+- [chronic_duration](https://github.com/henrypoydar/chronic_duration) -
   Pure Ruby parser for elapsed time.
 - [Kronic](https://github.com/xaviershay/kronic) -
   Methods for parsing and formatting human readable dates.
@@ -349,7 +349,7 @@ the underlying language.
 
 - 2017
   - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
-    <sup>[[slides](http://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby)]</sup>
+    <sup>[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby)]</sup>
 - 2016
   - _Quickly Create a Telegram Bot in Ruby_ by [Ardian Haxha](https://twitter.com/ArdianHaxha)
     <sup>[[tutorial](https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
@@ -365,7 +365,7 @@ the underlying language.
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
   - _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
-    <sup>[[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
+    <sup>[[slides](https://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
     <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
 - 2014
@@ -381,7 +381,7 @@ the underlying language.
 - 2013
   - _How to parse 'go' - Natural Language Processing in Ruby_ by
     [Tom Cartwright](https://twitter.com/tomcartwrightuk)
-    <sup>[[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby) |
+    <sup>[[slides](https://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby) |
     [video](https://skillsmatter.com/skillscasts/4883-how-to-parse-go)]</sup>
   - _Natural Language Processing in Ruby_ by [Brandon Black](https://github.com/brandonblack)
     <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
