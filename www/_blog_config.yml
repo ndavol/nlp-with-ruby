@@ -1,7 +1,0 @@
-url: "http://blog.rubynlp.org"
-gems:
-  - jekyll-feed
-  - jekyll-seo-tag
-source: "_blog_source"
-destination: "_blog"
-permalink: /:year/:month/:title.html
