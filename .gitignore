@@ -5,3 +5,4 @@ _site
 _blog
 .sass-cache
 .jekyll-metadata
+scripts
