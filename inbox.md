@@ -187,10 +187,7 @@
 * https://emorynlp.github.io/nlp4j/
 * https://github.com/ealdent
 * Spellcheckers
-  * https://github.com/subosito/gingerice
   * https://github.com/nithinbekal/spellingbee
-  * https://github.com/romanbsd/hunspell
-  * https://github.com/postmodern/ffi-hunspell
 * Lexical Resources
   * http://babelnet.org/guide
   * https://github.com/commonsense/conceptnet5/wiki/API
