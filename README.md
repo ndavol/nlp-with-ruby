@@ -204,6 +204,11 @@ are often collected in dictionaries.
 
 ## High Level Tasks
 
+### Spelling and Error Correction
+
+- [gingerice](https://github.com/subosito/gingerice) -
+  Spelling and Grammar corrections via the [Ginger](http://www.gingersoftware.com/) API.
+
 ### Text Alignment
 
 - [alignment](https://github.com/povilasjurcys/alignment) -
