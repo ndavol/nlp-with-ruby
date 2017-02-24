@@ -212,6 +212,8 @@ are often collected in dictionaries.
   Ruby bindings to the standard [Hunspell](https://hunspell.github.io/) Spell Checker.
 - [ffi-hunspell](https://github.com/postmodern/ffi-hunspell) -
   FFI based Ruby bindings for [Hunspell](https://hunspell.github.io/).
+- [hunspell](https://github.com/segabor/Hunspell) -
+  Ruby bindings to [Hunspell](https://hunspell.github.io/) via Ruby C API.
 
 ### Text Alignment
 
