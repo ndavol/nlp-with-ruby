@@ -48,6 +48,7 @@ and please spread the word using the `#RubyNLP` hash tag!
   * [Semantic Analysis](#semantic-analysis)
   * [Pragmatical Analysis](#pragmatical-analysis)
 - [High Level Tasks](#high-level-tasks)
+  * [Spelling and Error Correction](#spelling-and-error-correction)
   * [Text Alignment](#text-alignment)
   * [Machine Translation](#machine-translation)
   * [Dialog Systems](#dialog-systems)
