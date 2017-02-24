@@ -208,8 +208,10 @@ are often collected in dictionaries.
 
 - [gingerice](https://github.com/subosito/gingerice) -
   Spelling and Grammar corrections via the [Ginger](http://www.gingersoftware.com/) API.
-- [hunspell](https://github.com/romanbsd/hunspell) -
+- [hunspell-i18n](https://github.com/romanbsd/hunspell) -
   Ruby bindings to the standard [Hunspell](https://hunspell.github.io/) Spell Checker.
+- [ffi-hunspell](https://github.com/postmodern/ffi-hunspell) -
+  FFI based Ruby bindings for [Hunspell](https://hunspell.github.io/).
 
 ### Text Alignment
 
