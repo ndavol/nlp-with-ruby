@@ -248,7 +248,7 @@ are often collected in dictionaries.
 
 - [chronic](https://github.com/mojombo/chronic) -
   Pure Ruby natural language date parser.
-- [Chronic Between](https://github.com/jrobertson/chronic_between) -
+- [chronic_between](https://github.com/jrobertson/chronic_between) -
   Simple Ruby natural language parser for date and time ranges.
 - [chronic_duration](https://github.com/henrypoydar/chronic_duration) -
   Pure Ruby parser for elapsed time.
