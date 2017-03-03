@@ -53,7 +53,7 @@ and please spread the word using the `#RubyNLP` hash tag!
   * [Machine Translation](#machine-translation)
   * [Dialog Systems](#dialog-systems)
   * [Sentiment Analysis](#sentiment-analysis)
-  * [Date and Time Parsing](#date-and-time-parsing)
+  * [Numbers, Dates, and Time Parsing](#numbers-dates-and-time-parsing)
   * [Named Entity Recognition](#named-entity-recognition)
   * [Text-to-Speech-to-Text](#text-to-speech-to-text)
 - [Linguistic Resources](#linguistic-resources)
