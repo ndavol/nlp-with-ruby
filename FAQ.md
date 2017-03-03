@@ -42,5 +42,6 @@ C++. It's definitely your choice!
 ## How do you call list items?
 
 Every library list item has the naming after the Ruby library. The name is
-the exact wording of the `require` statement to facilitate search and
-memoization. That's why it is called `treat` and not `Treat`.
+the exact wording of the `gem install lib` statement (or `gem 'lib'` in your
+`Gemfile`) to facilitate search and memoization. That's why it is called `treat`
+and not `Treat`.
