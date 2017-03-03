@@ -203,3 +203,4 @@
   * https://srug.pl/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf
   * https://zenmachine.wordpress.com/practical-text-classification-with-ruby/
   * http://blog.aylien.com/text-analysis-and-ruby-getting-started-with/
+* https://github.com/jedld/brains-jruby
