@@ -256,7 +256,7 @@ are often collected in dictionaries.
   Methods for parsing and formatting human readable dates.
 - [nickel](https://github.com/iainbeeston/nickel) -
   Extracts date, time, and message information from naturally worded text.
-- [Tickle](https://github.com/yb66/tickle) -
+- [tickle](https://github.com/yb66/tickle) -
   Parser for recurring and repeating events.
 
 ### Named Entity Recognition
