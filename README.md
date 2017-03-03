@@ -244,7 +244,7 @@ are often collected in dictionaries.
   [SentiWS](http://wortschatz.informatik.uni-leipzig.de/download/sentiws.html)
   lexicon.
 
-### Date and Time Parsing
+### Numbers, Dates, and Time Parsing
 
 - [chronic](https://github.com/mojombo/chronic) -
   Pure Ruby natural language date parser.
@@ -258,6 +258,8 @@ are often collected in dictionaries.
   Extracts date, time, and message information from naturally worded text.
 - [tickle](https://github.com/yb66/tickle) -
   Parser for recurring and repeating events.
+- [numerizer](https://github.com/jduff/numerizer) -
+  Ruby parser for English number expressions.
 
 ### Named Entity Recognition
 
