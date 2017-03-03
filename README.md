@@ -252,7 +252,7 @@ are often collected in dictionaries.
   Simple Ruby natural language parser for date and time ranges.
 - [chronic_duration](https://github.com/henrypoydar/chronic_duration) -
   Pure Ruby parser for elapsed time.
-- [Kronic](https://github.com/xaviershay/kronic) -
+- [kronic](https://github.com/xaviershay/kronic) -
   Methods for parsing and formatting human readable dates.
 - [Nickel](https://github.com/iainbeeston/nickel) -
   Extracts date, time, and message information from naturally worded text.
