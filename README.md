@@ -254,7 +254,7 @@ are often collected in dictionaries.
   Pure Ruby parser for elapsed time.
 - [kronic](https://github.com/xaviershay/kronic) -
   Methods for parsing and formatting human readable dates.
-- [Nickel](https://github.com/iainbeeston/nickel) -
+- [nickel](https://github.com/iainbeeston/nickel) -
   Extracts date, time, and message information from naturally worded text.
 - [Tickle](https://github.com/yb66/tickle) -
   Parser for recurring and repeating events.
