@@ -206,3 +206,4 @@
 * https://github.com/jedld/brains-jruby
 * https://github.com/andrearampin/string_namify
 * https://github.com/ruby-processing/JRubyArt
+* https://bitbucket.org/ged/ruby-framenet
