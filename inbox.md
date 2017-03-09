@@ -209,3 +209,4 @@
 * https://bitbucket.org/ged/ruby-framenet
 * https://github.com/janlelis/unicode-categories
 * https://github.com/janlelis/unicode-types
+* https://github.com/janlelis/unibits
