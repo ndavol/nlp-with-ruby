@@ -211,3 +211,5 @@
 * https://github.com/janlelis/unicode-types
 * https://github.com/janlelis/unibits
 * https://github.com/kiyoka/fuzzy-string-match
+* https://github.com/mrkn/pycall
+* https://github.com/mrkn/matplotlib.rb
