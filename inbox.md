@@ -205,3 +205,4 @@
   * http://blog.aylien.com/text-analysis-and-ruby-getting-started-with/
 * https://github.com/jedld/brains-jruby
 * https://github.com/andrearampin/string_namify
+* https://github.com/ruby-processing/JRubyArt
