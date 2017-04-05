@@ -42,6 +42,7 @@ and please spread the word using the `#RubyNLP` hash tag!
     + [Stemming](#stemming)
     + [Lemmatization](#lemmatization)
     + [Counting Types and Tokens](#counting-types-and-tokens)
+    + [Filtering Stop Words](#filtering-stop-words)
   * [Phrasal Level Processing](#phrasal-level-processing)
   * [Syntactic Processing](#syntactic-processing)
     + [Constituency Parsing](#constituency-parsing)
@@ -163,6 +164,11 @@ are often collected in dictionaries.
   Facilities to count word occurrences in a text.
 - [word_count](https://github.com/AtelierConvivialite/word_count) -
   Word counter for `String` and `Hash` objects.
+
+#### Filtering Stop Words
+
+- [stopwords-filter](https://github.com/brenes/stopwords-filter) - Filter and
+  Stop Word Lexicon based on the SnowBall lemmatizer.
 
 ### Phrasal Level Processing
 
