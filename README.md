@@ -101,7 +101,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 - [wit-ruby](https://github.com/wit-ai/wit-ruby) -
   Ruby client library for the [Wit.ai](https://wit.ai/) Language Understanding Platform.
 - [wlapi](https://github.com/arbox/wlapi) - Ruby client library for
-  [Wortschatz Leipzig](http://wortschatz.uni-leipzig.de/) web services.
+  [Wortschatz Leipzig](http://wortschatz.uni-leipzig.de/de) web services.
 - [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment
   Analysis, Topic Modelling, Language Detection, Named Entity Recognition via
   a Ruby based Web API client.
@@ -241,8 +241,7 @@ are often collected in dictionaries.
 
 - [Stimmung](https://github.com/pachacamac/stimmung) -
   Semantic Polarity based on the
-  [SentiWS](http://wortschatz.informatik.uni-leipzig.de/download/sentiws.html)
-  lexicon.
+  [SentiWS](http://wortschatz.uni-leipzig.de/en/download) lexicon.
 
 ### Numbers, Dates, and Time Parsing
 
@@ -379,7 +378,7 @@ the underlying language.
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
     <sup>[[tutorial](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
-    <sup>[[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
+    <sup>[[tutorial](https://web-beta.archive.org/web/20160515115739/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
   - _Exploring Natural Language Processing in Ruby_ by [Kevin Dias](https://github.com/diasks2)
     <sup>[[slides](https://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)]</sup>
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://twitter.com/rugginoso)
