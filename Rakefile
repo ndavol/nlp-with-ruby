@@ -9,6 +9,7 @@ namespace :test do
   end
 
   CMD_STRING = YAML.load_file('.travis.yml')['script']
+  desc 'Test links with AwesomeBot'
   task :links do
     system(CMD_STRING)
   end
