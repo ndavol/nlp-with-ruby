@@ -245,7 +245,7 @@ are often collected in dictionaries.
 
 ### Sentiment Analysis
 
-- [Stimmung](https://github.com/pachacamac/stimmung) -
+- [stimmung](https://github.com/pachacamac/stimmung) -
   Semantic Polarity based on the
   [SentiWS](http://wortschatz.uni-leipzig.de/en/download) lexicon.
 
