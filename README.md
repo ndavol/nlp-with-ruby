@@ -131,7 +131,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
   Word Boundary Disambiguation with many cookies.
 - [punkt-segmenter](https://github.com/lfcipriani/punkt-segmenter) -
   Pure Ruby implementation of the Punkt Segmenter.
-- [Tactful_Tokenizer](https://github.com/zencephalon/Tactful_Tokenizer) -
+- [tactful_tokenizer](https://github.com/zencephalon/Tactful_Tokenizer) -
   RegExp based tokenizer for different languages.
 - [scapel](https://github.com/louismullie/scalpel) -
   Sentence Boundary Disambiguation tool.
