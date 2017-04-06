@@ -172,7 +172,7 @@ are often collected in dictionaries.
 
 ### Phrasal Level Processing
 
-- [N-Gram](https://github.com/reddavis/N-Gram) -
+- [n_gram](https://github.com/reddavis/N-Gram) -
   N-Gram generator.
 - [ruby-ngram](https://github.com/tkellen/ruby-ngram) -
   Break words and phrases into ngrams.
@@ -200,7 +200,7 @@ are often collected in dictionaries.
   Fast Ruby FFI string edit distance algorithms.
 - [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) -
   Fast string edit distance computation, using the Damerau-Levenshtein algorithm.
-- [TF-IDF](https://github.com/reddavis/TF-IDF) -
+- [tf_idf](https://github.com/reddavis/TF-IDF) -
   Term Frequency / Inverse Document Frequency in pure Ruby.
 - [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) -
   Calculate the similarity between texts using TF/IDF.
@@ -319,7 +319,7 @@ for Ruby.
   Redis-backed Bayesian classifier.
 - [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
   JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.
-- [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) -
+- [naive_bayes](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
 - [nbayes](https://github.com/oasic/nbayes) -
   Full-featured, Ruby implementation of Naive Bayes.
