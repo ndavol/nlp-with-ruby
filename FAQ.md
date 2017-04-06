@@ -6,13 +6,15 @@ Everybody uses Python! Nobody hires Ruby developers for NLP tasks.
 
 To avoid a long discussion we can simply postulate: Ruby and Python are great
 programming languages, both very appealing to the community, but with different
-history. Everything written in Ruby could be written in Python.
+history. Everything written in Ruby could have been written in Python.
 
 Nevertheless we have our personal preferences like dogs over cats,
 tea over coffee etc. That's why you can choose the language which matches
-your mindset and not break your mind to get compliant with a programming language.
+your mindset and does not break your mind to get compliant with a programming
+language.
 
-Take Ruby if you're happy with it. Use Python if you like it more.
+Take Ruby if you're happy with it. Use Python if you like it more. Do whatever
+you want and pay for your decisions!
 
 And if you still hesitate look at this great
 [talk](https://www.youtube.com/watch?v=0D3KfnbTdWw) by Jim Weirich.
@@ -43,5 +45,5 @@ C++. It's definitely your choice!
 
 Every library list item has the naming after the Ruby library. The name is
 the exact wording of the `gem install lib` statement (or `gem 'lib'` in your
-`Gemfile`) to facilitate search and memoization. That's why it is called `treat`
-and not `Treat`.
+`Gemfile`) to facilitate search and memoization. That's why the appropriate item
+is called `treat` and not `Treat`.
