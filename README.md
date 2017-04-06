@@ -304,7 +304,8 @@ for Ruby.
 - [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
-  Decision Tree ID3 Algorithm in pure Ruby.
+  Decision Tree ID3 Algorithm in pure Ruby
+  <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 - [rtimbl](https://github.com/maspwr/rtimbl) -
   Memory based learners from the Timbl framework.
 - [classifier-reborn](https://github.com/jekyll/classifier-reborn) -
@@ -426,6 +427,10 @@ the underlying language.
 - 2010
   - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
+- 2007
+  - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
+    <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
+
 
 ## Books
 
