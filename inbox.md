@@ -2,7 +2,6 @@
 
 * https://github.com/ged/linguistics
 * https://github.com/inukshuk/wapiti-ruby
-* https://github.com/febeling/rb-libsvm
 * https://github.com/SergioFierens/ai4r
 * https://github.com/jashmenn/ariel
 * https://github.com/rattle/term-extract
@@ -14,11 +13,8 @@
 * [Chat Correct](https://github.com/diasks2/chat_correct)
 * [Chronic Between](https://github.com/jrobertson/chronic_between)
 * [Chronic Duration](https://github.com/hpoydar/chronic_duration)
-* [Chronic](https://github.com/mojombo/chronic)
-* [Classifier](https://github.com/cardmagic/classifier)
 * [CommonRegexRuby](https://github.com/talyssonoc/CommonRegexRuby)
 * [Confidential Info Redactor](https://github.com/diasks2/confidential_info_redactor)
-* [Decision Tree](https://github.com/igrigorik/decisiontree)
 * [Dialogs](https://github.com/solyaris/dialogs)
 * [Epitome](https://github.com/McFreely/epitome)
 * [Explain Regular Expression](http://regexdoc.com/re/explain.pl)
@@ -26,16 +22,10 @@
 * [FuzzyTools](https://github.com/brianhempel/fuzzy_tools)
 * [Going the Distance](https://github.com/schneems/going_the_distance)
 * [Google API Client](https://github.com/google/google-api-ruby-client)
-* [Greek stemmer](https://github.com/skroutz/greek_stemmer)
-* [Isabella](https://github.com/chrisvfritz/isabella)
 * [Jieba](https://github.com/mimosa/jieba-jruby)
-* [Kronic](https://github.com/xaviershay/kronic)
-* [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby)
 * [Lita](https://github.com/jimmycuadra/lita)
 * [MeCab](https://github.com/markburns/mecab)
-* [N-Gram](https://github.com/reddavis/N-Gram)
 * [NLP Pure](https://github.com/parhamr/nlp-pure)
-* [Naive-Bayes](https://github.com/reddavis/Naive-Bayes)
 * [Naturally](https://github.com/dogweather/naturally)
 * [Nickel](https://github.com/iainbeeston/nickel)
 * [Parslet](http://kschiess.github.io/parslet/)
@@ -47,12 +37,8 @@
 * [RubyFann](https://github.com/tangledpath/ruby-fann)
 * [SRX English](https://github.com/apohllo/srx-english)
 * [Speech2Text](https://github.com/taf2/speech2text)
-* [Stopwords Filter](https://github.com/brenes/stopwords-filter)
-* [TF-IDF](https://github.com/reddavis/TF-IDF)
-* [TactfulTokenizer](https://github.com/zencephalon/Tactful_Tokenizer)
 * [TelegramBotRuby](https://github.com/shouya/telegram-bot)
 * [TelegramBot](https://github.com/eljojo/telegram_bot)
-* [Textoken](https://github.com/manorie/textoken)
 * [Tickle](https://github.com/yb66/tickle)
 * [TreeTagger for Ruby](https://github.com/LeFnord/rstt)
 * [Treetop](https://github.com/cjheath/treetop)
@@ -74,7 +60,6 @@
 * [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein)
 * [dialable](https://github.com/chorn/dialable)
 * [docsplit](http://documentcloud.github.io/docsplit/)
-* [espeak-ruby](https://github.com/dejan/espeak-ruby)
 * [ferret](https://github.com/jkraemer/ferret)
 * [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match)
 * [gengo-ruby](https://github.com/gengo/gengo-ruby)
@@ -91,7 +76,6 @@
 * [linkparser](https://github.com/ged/linkparser)
 * [linnaeus](https://github.com/djcp/linnaeus)
 * [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier)
-* [microsoft_translator](https://github.com/ikayzo/microsoft_translator)
 * [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby)
 * [nameable](https://github.com/chorn/nameable)
 * [nbayes](https://github.com/oasic/nbayes)
@@ -100,18 +84,14 @@
 * [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes)
 * [omnicat](https://github.com/mustafaturan/omnicat)
 * [ots](https://github.com/deepfryed/ots)
-* [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby)
 * [poliqarpr](https://github.com/apohllo/poliqarpr)
 * [raingrams](https://github.com/postmodern/raingrams)
 * [ranguba](http://ranguba.org/)
-* [rb-libsvm](https://github.com/febeling/rb-libsvm)
 * http://rbtagger.rubyforge.org/
 * [regexp-examples](https://github.com/tom-lord/regexp-examples)
 * [rley](https://github.com/famished-tiger/Rley)
 * [rseg](https://github.com/yzhang/rseg)
 * [rtesseract](https://github.com/dannnylo/rtesseract)
-* [ruby-ner](https://github.com/mblongii/ruby-ner)
-* [ruby-nlp](https://github.com/tiendung/ruby-nlp)
 * [ruby-tesseract](https://github.com/meh/ruby-tesseract-ocr)
 * [slack-bot-server](https://github.com/dblock/slack-bot-server)
 * [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot)
@@ -128,20 +108,15 @@
 * [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity)
 * [thailang4r](https://github.com/veer66/thailang4r)
 * [tiny_segmenter](https://github.com/6/tiny_segmenter)
-* [tts](https://github.com/c2h2/tts)
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb/blob/master/lib/twitter_cldr/shared/casefolder.rb)
 * [twitter-text](https://github.com/twitter/twitter-text/tree/master/rb)
 * [u](http://disu.se/software/u-1.0/)
-* [uea-stemmer](https://github.com/ealdent/uea-stemmer)
 * [unicode](https://github.com/blackwinter/unicode)
 * [unicode_utils](https://github.com/lang/unicode_utils)
 * [ve](https://github.com/Kimtaro/ve)
 * [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions)
-* [wc](https://github.com/thesp0nge/wc)
-* [whatlanguage](https://github.com/peterc/whatlanguage)
 * [wit-ruby](https://github.com/modeset/wit-ruby)
-* [word_count](https://github.com/AtelierConvivialite/word_count)
 * [zipf](https://github.com/pks/zipf)
 * http://greyblake.com/blog/2015/09/20/nlp-toki-pona-and-ruby-part1/
 * https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/
@@ -199,7 +174,6 @@
   * https://github.com/peterc/whatlanguage
   * [Detect Language API Client](https://github.com/detectlanguage/detectlanguage-ruby)
 * Posts
-  * http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html
   * https://srug.pl/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf
   * https://zenmachine.wordpress.com/practical-text-classification-with-ruby/
   * http://blog.aylien.com/text-analysis-and-ruby-getting-started-with/
@@ -213,3 +187,13 @@
 * https://github.com/kiyoka/fuzzy-string-match
 * https://github.com/mrkn/pycall
 * https://github.com/mrkn/matplotlib.rb
+* https://github.com/IMRealtor/ibm-watson-ruby
+* https://github.com/reddavis/knn_c
+* https://github.com/reddavis/Part-Of-Speech
+* https://github.com/reddavis/Noun-Phrase-Detection
+* https://github.com/reddavis/Feature-Selection
+* https://github.com/reddavis/NLP-Backpack
+* https://github.com/reddavis/knn
+* https://github.com/reddavis/Distance-Measures
+* https://rubygems.org/search?utf8=%E2%9C%93&query=stemmer
+* https://github.com/chrisvfritz/isabella
