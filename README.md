@@ -367,7 +367,10 @@ the underlying language.
 
 - 2017
   - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
-    <sup>[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby)]</sup>
+    <sup>[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby) |
+    [video](https://ftp.fau.de/fosdem/2017/K.4.201/ruby_scientific_computing_on_jruby.mp4) |
+    [slides](https://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby) |
+    [slides](https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby)]</sup>
   - _Unicode Normalization in Ruby_ by [Starr Horne](https://twitter.com/starrhorne)
     <sup>[[post](http://blog.honeybadger.io/ruby_unicode_normalization/)]</sup>
 - 2016
