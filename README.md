@@ -277,8 +277,6 @@ are often collected in dictionaries.
 
 - [espeak-ruby](https://github.com/dejan/espeak-ruby) -
   Small Ruby API for utilizing 'espeak' and 'lame' to create text-to-speech mp3 files.
-- [Isabella](https://github.com/chrisvfritz/isabella) -
-  Voice-computing assistant built in Ruby.
 - [tts](https://github.com/c2h2/tts) -
   Text-to-Speech conversion using the Google translate service.
 - [att_speech](https://github.com/adhearsion/att_speech) -
