@@ -13,19 +13,15 @@
 * [Chat Correct](https://github.com/diasks2/chat_correct)
 * [Chronic Between](https://github.com/jrobertson/chronic_between)
 * [Chronic Duration](https://github.com/hpoydar/chronic_duration)
-* [CommonRegexRuby](https://github.com/talyssonoc/CommonRegexRuby)
 * [Confidential Info Redactor](https://github.com/diasks2/confidential_info_redactor)
 * [Dialogs](https://github.com/solyaris/dialogs)
 * [Epitome](https://github.com/McFreely/epitome)
 * [Explain Regular Expression](http://regexdoc.com/re/explain.pl)
 * [FuzzyMatch](https://github.com/seamusabshere/fuzzy_match)
 * [FuzzyTools](https://github.com/brianhempel/fuzzy_tools)
-* [Going the Distance](https://github.com/schneems/going_the_distance)
 * [Google API Client](https://github.com/google/google-api-ruby-client)
 * [Jieba](https://github.com/mimosa/jieba-jruby)
-* [Lita](https://github.com/jimmycuadra/lita)
 * [MeCab](https://github.com/markburns/mecab)
-* [NLP Pure](https://github.com/parhamr/nlp-pure)
 * [Naturally](https://github.com/dogweather/naturally)
 * [Nickel](https://github.com/iainbeeston/nickel)
 * [Parslet](http://kschiess.github.io/parslet/)
@@ -34,7 +30,6 @@
 * [Punkt Segmenter](https://github.com/lfcipriani/punkt-segmenter)
 * [Ruby Readability](https://github.com/cantino/ruby-readability)
 * [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer)
-* [RubyFann](https://github.com/tangledpath/ruby-fann)
 * [SRX English](https://github.com/apohllo/srx-english)
 * [Speech2Text](https://github.com/taf2/speech2text)
 * [TelegramBotRuby](https://github.com/shouya/telegram-bot)
@@ -56,11 +51,9 @@
 * [biffbot](https://github.com/tevren/biffbot)
 * [chatterbot](https://github.com/muffinista/chatterbot)
 * [clarifier](https://github.com/meducation/clarifier)
-* [classifier-reborn](https://github.com/jekyll/classifier-reborn)
 * [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein)
 * [dialable](https://github.com/chorn/dialable)
 * [docsplit](http://documentcloud.github.io/docsplit/)
-* [ferret](https://github.com/jkraemer/ferret)
 * [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match)
 * [gengo-ruby](https://github.com/gengo/gengo-ruby)
 * [gibber](https://github.com/timonv/gibber)
@@ -71,25 +64,19 @@
 * [hotwater](https://github.com/colinsurprenant/hotwater)
 * [language_filter](https://github.com/chrisvfritz/language_filter)
 * [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi)
-* [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig)
 * [lingua](https://github.com/dbalatero/lingua)
 * [linkparser](https://github.com/ged/linkparser)
 * [linnaeus](https://github.com/djcp/linnaeus)
 * [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier)
-* [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby)
 * [nameable](https://github.com/chorn/nameable)
-* [nbayes](https://github.com/oasic/nbayes)
-* [ngram](https://github.com/tkellen/ruby-ngram)
 * [nlp](https://github.com/knife/nlp)
-* [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes)
-* [omnicat](https://github.com/mustafaturan/omnicat)
 * [ots](https://github.com/deepfryed/ots)
 * [poliqarpr](https://github.com/apohllo/poliqarpr)
 * [raingrams](https://github.com/postmodern/raingrams)
 * [ranguba](http://ranguba.org/)
 * http://rbtagger.rubyforge.org/
 * [regexp-examples](https://github.com/tom-lord/regexp-examples)
-* [rley](https://github.com/famished-tiger/Rley)
+* https://github.com/famished-tiger/Rley
 * [rseg](https://github.com/yzhang/rseg)
 * [rtesseract](https://github.com/dannnylo/rtesseract)
 * [ruby-tesseract](https://github.com/meh/ruby-tesseract-ocr)
@@ -105,23 +92,18 @@
 * [summarize](https://github.com/ssoper/summarize)
 * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby)
 * [termit](https://github.com/pawurb/termit)
-* [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity)
 * [thailang4r](https://github.com/veer66/thailang4r)
 * [tiny_segmenter](https://github.com/6/tiny_segmenter)
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb/blob/master/lib/twitter_cldr/shared/casefolder.rb)
 * [twitter-text](https://github.com/twitter/twitter-text/tree/master/rb)
-* [u](http://disu.se/software/u-1.0/)
-* [unicode](https://github.com/blackwinter/unicode)
 * [unicode_utils](https://github.com/lang/unicode_utils)
-* [ve](https://github.com/Kimtaro/ve)
+x* [ve](https://github.com/Kimtaro/ve)
 * [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions)
-* [wit-ruby](https://github.com/modeset/wit-ruby)
 * [zipf](https://github.com/pks/zipf)
 * http://greyblake.com/blog/2015/09/20/nlp-toki-pona-and-ruby-part1/
 * https://www.sitepoint.com/seeking-lovecraft-part-1-an-introduction-to-nlp-and-the-treat-gem/
 * http://www.akitaonrails.com/2016/10/28/natural-language-generation-in-ruby-with-jruby-simplenlg
-* http://johnlaudun.org/20120117-ruby-and-nlp/
 * https://platform.systran.net/sdk/nlp
 * https://github.com/yohasebe/engtagger
 * https://deveiate.org/code/linguistics/
@@ -143,9 +125,6 @@
 * https://github.com/meh/ruby-tesseract-ocr
 * http://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/
 * https://github.com/tiendung/ruby-nlp
-* http://web.archive.org/web/20101103003208/http://mendicantbug.com/2009/07/16/porting-the-uea-lite-stemmer-to-ruby/
-* http://web.archive.org/web/20100324150911/http://mendicantbug.com/2009/09/13/nlp-resources-for-ruby/
-* http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/
 * https://github.com/dariusk/corpora
 * https://github.com/someben/treebank/
 * https://github.com/7compass/sentimental
@@ -154,13 +133,10 @@
 * http://www.oreilly.com/pub/e/3210
 * https://github.com/helioid/categorize
 * https://github.com/jeremybmerrill/simplernlg
-* http://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby
-* http://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby
 * https://github.com/classicist/rgreek
 * https://github.com/schmich/spicy-proton
 * https://github.com/simplifi/string-eater
 * https://emorynlp.github.io/nlp4j/
-* https://github.com/ealdent
 * Spellcheckers
   * https://github.com/nithinbekal/spellingbee
 * Lexical Resources
@@ -196,4 +172,4 @@
 * https://github.com/reddavis/knn
 * https://github.com/reddavis/Distance-Measures
 * https://rubygems.org/search?utf8=%E2%9C%93&query=stemmer
-* https://github.com/chrisvfritz/isabella
+* http://confreaks.tv/videos/lonestarruby2013-neural-networks-with-rubyfann
