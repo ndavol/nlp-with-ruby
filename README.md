@@ -62,6 +62,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 - [Full Text Search, Information Retrieval, Indexing](#full-text-search-information-retrieval-indexing)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
+- [Projects and Code Examples](#projects-and-code-examples)
 - [Books](#books)
 - [Community](#community)
 - [Related Resources](#related-resources)
@@ -458,7 +459,7 @@ the underlying language.
    APRESS, 2010.
    <sup>[[link](https://www.amazon.de/Scripting-Intelligence-Information-Gathering-Processing/dp/1430223510)]</sup>
 -  [Watson, Mark](https://twitter.com/mark_l_watson).
-   _Practical Semantic Web and Linked Data Applications._ Lulu: 2010.
+   _Practical Semantic Web and Linked Data Applications._ Lulu, 2010.
    <sup>[[link](http://www.lulu.com/shop/mark-watson/practical-semantic-web-and-linked-data-applications-java-edition/paperback/product-10915016.html)]</sup>
 
 ## Community
