@@ -1,5 +1,13 @@
 # Frequently (not yet) Asked Questions
 
+## What is Awesome Ruby NLP list?
+
+This list is the _first systematic_ attempt to enlist NLP and CL related
+resources for Ruby. It's based on other earlier attempts
+e.g. https://github.com/diasks2/ruby-nlp. We strive to provide a list of only
+working high quality libraries. Read [why][motivation] this list is vital for
+the Ruby community.
+
 ## Why use Ruby for NLP?
 
 Everybody uses Python! Nobody hires Ruby developers for NLP tasks.
@@ -47,3 +55,6 @@ Every library list item has the naming after the Ruby library. The name is
 the exact wording of the `gem install lib` statement (or `gem 'lib'` in your
 `Gemfile`) to facilitate search and memoization. That's why the appropriate item
 is called `treat` and not `Treat`.
+
+<!--- Links --->
+[motivation]: https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md
