@@ -325,6 +325,8 @@ for Ruby.
   Generalized rack framework for text classifications.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
+- [ruby-fann](https://github.com/tangledpath/ruby-fann) -
+  Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 
 ## Full Text Search, Information Retrieval, Indexing
 
