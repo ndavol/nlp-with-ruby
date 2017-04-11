@@ -65,6 +65,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 - [Projects and Code Examples](#projects-and-code-examples)
 - [Books](#books)
 - [Community](#community)
+- [Needs your Help!](#needs-your-help)
 - [Related Resources](#related-resources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -329,17 +330,17 @@ for Ruby.
 
 ## Full Text Search, Information Retrieval, Indexing
 
-  - [rsolr](https://github.com/rsolr/rsolr) -
-    Ruby and Rails client library for [Apache Solr](http://lucene.apache.org/solr/).
-  - [sunspot](https://github.com/sunspot/sunspot) -
-    Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
-  - [thinking-sphinx](https://github.com/pat/thinking-sphinx) -
-    [Active Record](http://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark)
-    plugin for using [Sphinx](http://sphinxsearch.com/) in (not only) Rails based projects.
-  - [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) -
-    Ruby client and API for [Elasticsearch](https://www.elastic.co/).
-  - [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) -
-    Ruby and Rails integrations for [Elasticsearch](https://www.elastic.co/).
+- [rsolr](https://github.com/rsolr/rsolr) -
+  Ruby and Rails client library for [Apache Solr](http://lucene.apache.org/solr/).
+- [sunspot](https://github.com/sunspot/sunspot) -
+  Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
+- [thinking-sphinx](https://github.com/pat/thinking-sphinx) -
+  [Active Record](http://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark)
+  plugin for using [Sphinx](http://sphinxsearch.com/) in (not only) Rails based projects.
+- [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) -
+  Ruby client and API for [Elasticsearch](https://www.elastic.co/).
+- [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) -
+  Ruby and Rails integrations for [Elasticsearch](https://www.elastic.co/).
 
 ## Language Aware String Manipulation
 
@@ -467,6 +468,15 @@ the underlying language.
 - [Reddit](https://www.reddit.com/r/LanguageTechnology/search?q=ruby&restrict_sr=on)
 - [Stack Overflow](http://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D)
 - [Twitter](https://twitter.com/search?q=Ruby%20NLP%20%23ruby%20OR%20%23nlproc%20OR%20%23rubynlp%20OR%20%23nlp&src=typd&lang=en)
+
+## Needs your Help!
+
+All projects in this section are really important for the community but need
+more attention. Please if you have spare time and dedication spend some hours
+on the code here.
+
+- [ferret](https://github.com/jkraemer/ferret) -
+  Information Retrieval in C and Ruby.
 
 ## Related Resources
 
