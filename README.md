@@ -448,6 +448,8 @@ the underlying language.
 
 - [Going the Distance](https://github.com/schneems/going_the_distance) -
   Implementations of various distance algorithms with example calculations.
+- [Named entity recognition with Stanford NER and Ruby](https://github.com/mblongii/ruby-ner) -
+  NER Examples in Ruby and Java with some [explanations](https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/).
 
 ## Books
 
