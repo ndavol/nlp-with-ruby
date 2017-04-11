@@ -194,8 +194,6 @@ are often collected in dictionaries.
   Calculates edit distance using the Damerau-Levenshtein algorithm.
 - [FuzzyTools](https://github.com/brianhempel/fuzzy_tools) -
   In-memory TF/IDF fuzzy document finding with a fancy default tokenizer.
-- [Going the Distance](https://github.com/schneems/going_the_distance) -
-  Contains scripts that do various distance calculations.
 - [hotwater](https://github.com/colinsurprenant/hotwater) -
   Fast Ruby FFI string edit distance algorithms.
 - [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) -
@@ -444,6 +442,10 @@ the underlying language.
   - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
 
+## Projects and Code Examples
+
+- [Going the Distance](https://github.com/schneems/going_the_distance) -
+  Implementations of various distance algorithms with example calculations.
 
 ## Books
 
