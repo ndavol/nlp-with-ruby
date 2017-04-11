@@ -240,8 +240,8 @@ are often collected in dictionaries.
 
 - [chatterbot](https://github.com/muffinista/chatterbot) -
   Straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate.
-- [Lita](https://github.com/litaio/lita) -
-  Lita is a chat bot written in Ruby with persistent storage provided by Redis.
+- [lita](https://github.com/litaio/lita) -
+  chat operation bot framework written with persistent storage provided by [Redis](https://redis.io/).
 
 ### Sentiment Analysis
 
