@@ -7,8 +7,6 @@
 * https://github.com/rattle/term-extract
 * https://github.com/matstc/text-analysis-utils
 * https://github.com/opener-project/opener-tree-tagger
-* https://github.com/opener-project/polarity-tagger
-* https://github.com/clbustos/rinruby
 * [BOTServer](https://github.com/solyaris/BOTServer)
 * [Chat Correct](https://github.com/diasks2/chat_correct)
 * [Chronic Between](https://github.com/jrobertson/chronic_between)
@@ -67,7 +65,6 @@
 * [lingua](https://github.com/dbalatero/lingua)
 * [linkparser](https://github.com/ged/linkparser)
 * [linnaeus](https://github.com/djcp/linnaeus)
-* [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier)
 * [nameable](https://github.com/chorn/nameable)
 * [nlp](https://github.com/knife/nlp)
 * [ots](https://github.com/deepfryed/ots)
@@ -91,14 +88,13 @@
 * [stuff-classifier](https://github.com/alexandru/stuff-classifier)
 * [summarize](https://github.com/ssoper/summarize)
 * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby)
-* [termit](https://github.com/pawurb/termit)
 * [thailang4r](https://github.com/veer66/thailang4r)
 * [tiny_segmenter](https://github.com/6/tiny_segmenter)
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb/blob/master/lib/twitter_cldr/shared/casefolder.rb)
 * [twitter-text](https://github.com/twitter/twitter-text/tree/master/rb)
 * [unicode_utils](https://github.com/lang/unicode_utils)
-x* [ve](https://github.com/Kimtaro/ve)
+* [ve](https://github.com/Kimtaro/ve)
 * [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions)
 * [zipf](https://github.com/pks/zipf)
 * http://greyblake.com/blog/2015/09/20/nlp-toki-pona-and-ruby-part1/
@@ -123,7 +119,6 @@ x* [ve](https://github.com/Kimtaro/ve)
 * https://github.com/somaticio/tensorflow.rb
 * https://github.com/dannnylo/rtesseract
 * https://github.com/meh/ruby-tesseract-ocr
-* http://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/
 * https://github.com/tiendung/ruby-nlp
 * https://github.com/dariusk/corpora
 * https://github.com/someben/treebank/
@@ -151,7 +146,6 @@ x* [ve](https://github.com/Kimtaro/ve)
   * [Detect Language API Client](https://github.com/detectlanguage/detectlanguage-ruby)
 * Posts
   * https://srug.pl/assets/mateusz-drozdzynski-sentiment-analysis-in-ruby.pdf
-  * https://zenmachine.wordpress.com/practical-text-classification-with-ruby/
   * http://blog.aylien.com/text-analysis-and-ruby-getting-started-with/
 * https://github.com/jedld/brains-jruby
 * https://github.com/andrearampin/string_namify
@@ -173,3 +167,4 @@ x* [ve](https://github.com/Kimtaro/ve)
 * https://github.com/reddavis/Distance-Measures
 * https://rubygems.org/search?utf8=%E2%9C%93&query=stemmer
 * http://confreaks.tv/videos/lonestarruby2013-neural-networks-with-rubyfann
+* http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/
