@@ -20,7 +20,7 @@ and can be brought in conjunction with
 and other related disciplines.
 
 This list comes from our day to day work on Language Models and NLP Tools.
-Read [why][motivation] this list is awesome. Our [FAQ][faq] describes the
+Read [why](motivation.md) this list is awesome. Our [FAQ](FAQ.md) describes the
 important decisions and useful answers you may be interested in.
 
 Our main goal is to promote Ruby as a tool for NLP related tasks. Your help,
@@ -28,8 +28,8 @@ suggestions and contributions are welcome! We kindly ask you to study
 the [Contribution](#contributing) section. Follow us on [Twitter](https://twitter.com/RubyNLP)
 and please spread the word using the `#RubyNLP` hash tag!
 
+<!-- nodoc -->
 ## Contents
-
 <!-- toc -->
 
 - [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
@@ -71,6 +71,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 - [License](#license)
 
 <!-- tocstop -->
+<!-- doc -->
 
 ## NLP Pipeline Subtasks
 
@@ -480,7 +481,7 @@ All projects in this section are really important for the community but need
 more attention. Please if you have spare time and dedication spend some hours
 on the code here.
 
-- [ferret](https://github.com/jkraemer/ferret) -
+- [ferret](https://github.com/dbalmain/ferret) -
   Information Retrieval in C and Ruby.
 
 ## Related Resources
@@ -511,6 +512,7 @@ We are very glad to see you in this section and highly appreciate any help!
 
 But we also take care about the quality of this list. If you want to contribute
 please:
+
 - agree that your work will be published under the terms of the `CC0` license;
 - carefully read the [Contribution Guidelines][contributing].
 
