@@ -485,6 +485,8 @@ on the code here.
 
 - [ferret](https://github.com/dbalmain/ferret) -
   Information Retrieval in C and Ruby.
+- [summarize](https://github.com/ssoper/summarize) -
+  Ruby native wrapper for [Open Text Summarizer](https://github.com/neopunisher/Open-Text-Summarizer).
 
 ## Related Resources
 
