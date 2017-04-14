@@ -349,12 +349,14 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
-- [FuzzyMatch](https://github.com/seamusabshere/fuzzy_match) -
-  find a needle in a haystack based on string similarity and regular expression rules.
+- [fuzzy_match](https://github.com/seamusabshere/fuzzy_match) -
+  Fuzzy string comparison with Distance measures and Regular Expression.
 - [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) -
   Fuzzy string matching library for Ruby.
 - [active_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) -
   RoR `ActiveSupport` gem has various string extensions that can handle case.
+- [fuzzy_tools](https://github.com/brianhempel/fuzzy_tools) -
+  Toolset for fuzzy searches in Ruby tuned for accuracy.
 - [u](http://disu.se/software/u-1.0/) -
   U extends Ruby’s Unicode support.
 - [unicode](https://github.com/blackwinter/unicode) -
