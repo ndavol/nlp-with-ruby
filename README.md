@@ -30,6 +30,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 
 <!-- nodoc -->
 ## Contents
+
 <!-- toc -->
 
 - [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
@@ -59,6 +60,7 @@ and please spread the word using the `#RubyNLP` hash tag!
   * [Text-to-Speech-to-Text](#text-to-speech-to-text)
 - [Linguistic Resources](#linguistic-resources)
 - [Machine Learning Libraries](#machine-learning-libraries)
+- [Optical Character Recognition](#optical-character-recognition)
 - [Full Text Search, Information Retrieval, Indexing](#full-text-search-information-retrieval-indexing)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
@@ -71,6 +73,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 - [License](#license)
 
 <!-- tocstop -->
+
 <!-- doc -->
 
 ## NLP Pipeline Subtasks
@@ -328,6 +331,11 @@ for Ruby.
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
+
+## Optical Character Recognition
+
+* [tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr) -
+  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract).
 
 ## Full Text Search, Information Retrieval, Indexing
 
