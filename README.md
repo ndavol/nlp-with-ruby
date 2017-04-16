@@ -339,6 +339,12 @@ for Ruby.
 * [tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr) -
   FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract).
 
+## Text Extraction
+
+- [yomu](https://github.com/Erol/yomu) -
+  library for extracting text and metadata from files and documents
+  using the [Apache Tika](https://tika.apache.org/) content analysis toolkit.
+
 ## Full Text Search, Information Retrieval, Indexing
 
 - [rsolr](https://github.com/rsolr/rsolr) -
