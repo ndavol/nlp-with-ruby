@@ -171,7 +171,7 @@ are often collected in dictionaries.
 - [word_count](https://github.com/AtelierConvivialite/word_count) -
   Word counter for `String` and `Hash` objects.
 - [words_counted](https://github.com/abitdodgy/words_counted) -
-  Pure Ruby library counting word statistics.
+  Pure Ruby library counting word statistics with different custom options.
 
 #### Filtering Stop Words
 
@@ -466,6 +466,9 @@ the underlying language.
   Implementations of various distance algorithms with example calculations.
 - [Named entity recognition with Stanford NER and Ruby](https://github.com/mblongii/ruby-ner) -
   NER Examples in Ruby and Java with some [explanations](https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/).
+- [Words Counted](http://rubywordcount.com/) -
+  examples of customizable word statistics powered by
+  [words_counted](https://github.com/abitdodgy/words_counted).
 
 ## Books
 
