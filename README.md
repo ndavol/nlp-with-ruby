@@ -361,6 +361,8 @@ for Ruby.
   Ruby client and API for [Elasticsearch](https://www.elastic.co/).
 - [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) -
   Ruby and Rails integrations for [Elasticsearch](https://www.elastic.co/).
+- [google-api-client](https://github.com/google/google-api-ruby-client) -
+  Ruby API library for [Google](https://developers.google.com/api-client-library/ruby/) services.
 
 ## Language Aware String Manipulation
 
