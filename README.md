@@ -79,7 +79,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 
 ## NLP Pipeline Subtasks
 
-An NLP Pipeline stats with a plain text.
+An NLP Pipeline starts with a plain text.
 
 ### Pipeline Generation
 
@@ -203,8 +203,6 @@ are often collected in dictionaries.
   Set of five distance types between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance').
 - [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein) -
   Calculates edit distance using the Damerau-Levenshtein algorithm.
-- [FuzzyTools](https://github.com/brianhempel/fuzzy_tools) -
-  In-memory TF/IDF fuzzy document finding with a fancy default tokenizer.
 - [hotwater](https://github.com/colinsurprenant/hotwater) -
   Fast Ruby FFI string edit distance algorithms.
 - [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) -
