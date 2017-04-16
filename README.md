@@ -42,7 +42,7 @@ and please spread the word using the `#RubyNLP` hash tag!
   * [Lexical Processing](#lexical-processing)
     + [Stemming](#stemming)
     + [Lemmatization](#lemmatization)
-    + [Counting Types and Tokens](#counting-types-and-tokens)
+    + [Lexical Statistics: Counting Types and Tokens](#lexical-statistics-counting-types-and-tokens)
     + [Filtering Stop Words](#filtering-stop-words)
   * [Phrasal Level Processing](#phrasal-level-processing)
   * [Syntactic Processing](#syntactic-processing)
@@ -61,6 +61,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 - [Linguistic Resources](#linguistic-resources)
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Optical Character Recognition](#optical-character-recognition)
+- [Text Extraction](#text-extraction)
 - [Full Text Search, Information Retrieval, Indexing](#full-text-search-information-retrieval-indexing)
 - [Language Aware String Manipulation](#language-aware-string-manipulation)
 - [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
@@ -77,6 +78,8 @@ and please spread the word using the `#RubyNLP` hash tag!
 <!-- doc -->
 
 ## NLP Pipeline Subtasks
+
+An NLP Pipeline stats with a plain text.
 
 ### Pipeline Generation
 
