@@ -238,12 +238,14 @@ are often collected in dictionaries.
 
 ### Machine Translation
 
-- [Google API Client](https://github.com/google/google-api-ruby-client) -
+- [google-api-client](https://github.com/google/google-api-ruby-client) -
   Google API Ruby Client.
 - [microsoft_translator](https://github.com/ikayzo/microsoft_translator) -
   Ruby client for the microsoft translator API.
 - [termit](https://github.com/pawurb/termit) -
   Google Translate with speech synthesis in your terminal.
+- [zipf](https://github.com/pks/zipf) -
+  implementation of BLEU and other base algorithms.
 
 ### Dialog Systems
 
