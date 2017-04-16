@@ -164,12 +164,14 @@ are often collected in dictionaries.
 - [lemmatizer](https://github.com/yohasebe/lemmatizer) -
   WordNet based Lemmatizer for English texts.
 
-#### Counting Types and Tokens
+#### Lexical Statistics: Counting Types and Tokens
 
 - [wc](https://github.com/thesp0nge/wc) -
   Facilities to count word occurrences in a text.
 - [word_count](https://github.com/AtelierConvivialite/word_count) -
   Word counter for `String` and `Hash` objects.
+- [words_counted](https://github.com/abitdodgy/words_counted) -
+  Pure Ruby library counting word statistics.
 
 #### Filtering Stop Words
 
