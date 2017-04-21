@@ -150,3 +150,11 @@
 * http://confreaks.tv/videos/lonestarruby2013-neural-networks-with-rubyfann
 * http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/
 * https://github.com/djcp/linnaeus
+* https://github.com/sergey-alekseev/lita-answers
+* https://github.com/janlelis/unicopy
+* https://github.com/janlelis/unibits
+* https://github.com/damianFC/alexa-rubykit
+* https://github.com/IMRealtor/ibm-watson-ruby
+* https://github.com/gbuesing/neural-net-ruby
+* https://github.com/josephwilk/rsemantic
+* https://github.com/openlogic/random-word
