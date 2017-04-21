@@ -470,6 +470,11 @@ the underlying language.
 - 2007
   - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
+- 2006
+  - _Speak My Language: Natural Language Processing With Ruby_ by [Michael Granger](https://deveiate.org/resume.html)
+    <sup>[[slides](https://deveiate.org/misc/Speak-My-Language.pdf) |
+          [write-up](http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/) |
+          [write-up](http://juixe.com/papers/RubyConf2006.pdf)]</sup>
 
 ## Projects and Code Examples
 
