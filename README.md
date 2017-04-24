@@ -1,3 +1,6 @@
+[[RubyML](https://github.com/arbox/machine-learning-with-ruby) | [RubyDataScience](https://github.com/arbox/data-science-with-ruby) | [RubyInterop](https://github.com/arbox/ruby-interoperability) ]
+
+
 # Awesome NLP with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome RubyNLP](https://img.shields.io/badge/Awesome-RubyNLP-brightgreen.svg)](https://github.com/arbox/nlp-with-ruby)
 
 [<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
