@@ -1,4 +1,6 @@
-[[RubyML](https://github.com/arbox/machine-learning-with-ruby) | [RubyDataScience](https://github.com/arbox/data-science-with-ruby) | [RubyInterop](https://github.com/arbox/ruby-interoperability) ]
+[[RubyML](https://github.com/arbox/machine-learning-with-ruby) |
+ [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
+ [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
 
 # Awesome NLP with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome RubyNLP](https://img.shields.io/badge/Awesome-RubyNLP-brightgreen.svg)](https://github.com/arbox/nlp-with-ruby)
@@ -310,6 +312,8 @@ are often collected in dictionaries.
 in pure Ruby or written in other programming languages with appropriate bindings
 for Ruby.
 
+For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby] list.
+
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby.
 - [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
@@ -580,3 +584,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [todo]: https://github.com/arbox/nlp-with-ruby/blob/master/todo.md
 [faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
 [ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
+[ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
