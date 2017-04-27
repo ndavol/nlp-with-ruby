@@ -63,6 +63,7 @@ and please spread the word using the `#RubyNLP` hash tag!
   * [Text-to-Speech-to-Text](#text-to-speech-to-text)
 - [Linguistic Resources](#linguistic-resources)
 - [Machine Learning Libraries](#machine-learning-libraries)
+- [Data Visualization](#data-visualization)
 - [Optical Character Recognition](#optical-character-recognition)
 - [Text Extraction](#text-extraction)
 - [Full Text Search, Information Retrieval, Indexing](#full-text-search-information-retrieval-indexing)
@@ -340,6 +341,11 @@ for Ruby.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 
+## Data Visualization
+
+Please refer to the [Data Visualization](https://github.com/arbox/data-science-with-ruby#visualization)
+section on the [Data Science with Ruby][ds-with-ruby] list.
+
 ## Optical Character Recognition
 
 * [tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr) -
@@ -573,3 +579,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [contributing]: https://github.com/arbox/nlp-with-ruby/blob/master/CONTRIBUTING.md
 [todo]: https://github.com/arbox/nlp-with-ruby/blob/master/todo.md
 [faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
+[ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
