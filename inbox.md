@@ -148,7 +148,6 @@
 * https://github.com/reddavis/Distance-Measures
 * https://rubygems.org/search?utf8=%E2%9C%93&query=stemmer
 * http://confreaks.tv/videos/lonestarruby2013-neural-networks-with-rubyfann
-* http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/
 * https://github.com/djcp/linnaeus
 * https://github.com/sergey-alekseev/lita-answers
 * https://github.com/janlelis/unicopy
@@ -158,3 +157,27 @@
 * https://github.com/gbuesing/neural-net-ruby
 * https://github.com/josephwilk/rsemantic
 * https://github.com/openlogic/random-word
+* https://github.com/Swirrl/tripod
+* https://github.com/mntnorv/puttext
+* https://github.com/4ndv/rubyviber
+* https://www.youtube.com/watch?v=U8whfTS3G8U
+
+* Projects
+  * https://github.com/hexgnu/pos_tagger
+  * https://github.com/hexgnu/sentiment-server
+  * https://github.com/hexgnu/guise
+  * https://github.com/hexgnu/spam_filter
+  * https://github.com/hexgnu/language-predictor
+
+* https://github.com/Semantria/semantria-sdk/tree/master/Ruby
+* https://github.com/marloncarvalho/ruby-datumbox
+* https://github.com/ranguba/groonga-client
+* [fast-stemmer](https://github.com/romanbsd/fast-stemmer)
+* [categorize](https://github.com/helioid/categorize): Categorize is a text categorization library written in Ruby. It prioritizes performance over accuracy and is built to run online in dynamic web services
+* [similarity](https://github.com/bbcrd/Similarity):
+Calculate similarity between documents using TF-IDF weights
+dependencies: GSL
+* [distance_measures](https://github.com/reddavis/Distance-Measures):
+A bunch of distance measures that extend Array
+* https://github.com/hexgnu/reem
+* https://github.com/hexgnu/sentiment_analyzer
