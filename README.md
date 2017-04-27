@@ -7,7 +7,7 @@
 
 [<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
 
-> Useful resources for text processing in [Ruby][ruby]
+> Useful resources for text processing in Ruby
 
 This curated list comprises [_awesome_](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 resources, libraries, information sources about computational processing of texts
@@ -28,9 +28,10 @@ This list comes from our day to day work on Language Models and NLP Tools.
 Read [why](motivation.md) this list is awesome. Our [FAQ](FAQ.md) describes the
 important decisions and useful answers you may be interested in.
 
-Our main goal is to promote Ruby as a tool for NLP related tasks. Your help,
-suggestions and contributions are welcome! We kindly ask you to study
-the [Contribution](#contributing) section. Follow us on [Twitter](https://twitter.com/RubyNLP)
+:sparkles: Every [contribution](#contributing) is welcome! Add links through pull
+requests or create an issue to start a discussion.
+
+Follow us on [Twitter](https://twitter.com/RubyNLP)
 and please spread the word using the `#RubyNLP` hash tag!
 
 <!-- nodoc -->
