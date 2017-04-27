@@ -181,3 +181,4 @@ dependencies: GSL
 A bunch of distance measures that extend Array
 * https://github.com/hexgnu/reem
 * https://github.com/hexgnu/sentiment_analyzer
+* https://github.com/aelaa/hangul
