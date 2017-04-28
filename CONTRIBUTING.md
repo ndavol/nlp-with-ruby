@@ -15,11 +15,6 @@ and seems to be useful for the community please add it to the main list.
 Provide a description on why it is useful (distinctive features like coverage,
 speed, stability are welcome).
 
-## Working on the list infrastructure
-Like everybody we have a lot to do. Please help us to maintain this list and it's
-infrastructure. In the [todo](todo.md) file you'll find some ideas how and what
-to change in this list.
-
 ## How to add to this list
 
 Please ensure your pull request adheres to the following guidelines:

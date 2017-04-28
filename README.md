@@ -563,9 +563,6 @@ please:
 - agree that your work will be published under the terms of the `CC0` license;
 - carefully read the [Contribution Guidelines][contributing].
 
-Some of the open tasks for contributors are listed in the [todo file][todo].
-You may want to start there.
-
 ## License
 
 [![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Awesome NLP with Ruby` by [Andrei Beliankou](https://github.com/arbox) and
@@ -582,7 +579,6 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [ruby]: https://www.ruby-lang.org/en/
 [motivation]: https://github.com/arbox/nlp-with-ruby/blob/master/motivation.md
 [contributing]: https://github.com/arbox/nlp-with-ruby/blob/master/CONTRIBUTING.md
-[todo]: https://github.com/arbox/nlp-with-ruby/blob/master/todo.md
 [faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
 [ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
 [ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
