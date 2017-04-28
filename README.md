@@ -39,6 +39,7 @@ and please spread the word using the `#RubyNLP` hash tag!
 
 <!-- toc -->
 
+- [:sparkles: Tutorials](#sparkles-tutorials)
 - [NLP Pipeline Subtasks](#nlp-pipeline-subtasks)
   * [Pipeline Generation](#pipeline-generation)
   * [Multipurpose Engines](#multipurpose-engines)
@@ -83,6 +84,10 @@ and please spread the word using the `#RubyNLP` hash tag!
 <!-- tocstop -->
 
 <!-- doc -->
+
+## :sparkles: Tutorials
+
+Please help us to fill out this section! :smiley:
 
 ## NLP Pipeline Subtasks
 
