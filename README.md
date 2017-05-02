@@ -208,6 +208,9 @@ are often collected in dictionaries.
 
 - [stanfordparser](https://rubygems.org/gems/stanfordparser) -
   Ruby based wrapper for the Stanford Parser.
+- [rley](https://github.com/famished-tiger/Rley) -
+  Pure Ruby implementation of the [Earley](https://en.wikipedia.org/wiki/Earley_parser)
+  Parsing Algorithm for Context-Free Constituency Grammars.
 
 ### Semantic Analysis
 
