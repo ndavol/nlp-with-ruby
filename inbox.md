@@ -174,11 +174,10 @@
 * https://github.com/ranguba/groonga-client
 * [fast-stemmer](https://github.com/romanbsd/fast-stemmer)
 * [categorize](https://github.com/helioid/categorize): Categorize is a text categorization library written in Ruby. It prioritizes performance over accuracy and is built to run online in dynamic web services
-* [similarity](https://github.com/bbcrd/Similarity):
-Calculate similarity between documents using TF-IDF weights
-dependencies: GSL
-* [distance_measures](https://github.com/reddavis/Distance-Measures):
-A bunch of distance measures that extend Array
+* [similarity](https://github.com/bbcrd/Similarity): Calculate similarity between documents using TF-IDF weights dependencies: GSL
+* [distance_measures](https://github.com/reddavis/Distance-Measures): A bunch of distance measures that extend Array
 * https://github.com/hexgnu/reem
 * https://github.com/hexgnu/sentiment_analyzer
 * https://github.com/aelaa/hangul
+* https://github.com/projectblacklight/spotlight
+* https://github.com/projectblacklight/blacklight
