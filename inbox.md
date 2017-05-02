@@ -182,3 +182,4 @@
 * https://github.com/projectblacklight/spotlight
 * https://github.com/projectblacklight/blacklight
 * https://github.com/taimur-akhtar/to_words
+* https://github.com/ranguba/chupa-text-decomposer-pdf
