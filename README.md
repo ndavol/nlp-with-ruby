@@ -510,6 +510,8 @@ the underlying language.
 - [Words Counted](http://rubywordcount.com/) -
   examples of customizable word statistics powered by
   [words_counted](https://github.com/abitdodgy/words_counted).
+- [RSyntaxTree](http://yohasebe.com/rsyntaxtree) -
+  Web based demonstration of the syntactic tree visualization.
 
 ## Books
 
