@@ -211,6 +211,9 @@ are often collected in dictionaries.
 - [rley](https://github.com/famished-tiger/Rley) -
   Pure Ruby implementation of the [Earley](https://en.wikipedia.org/wiki/Earley_parser)
   Parsing Algorithm for Context-Free Constituency Grammars.
+- [rsyntaxtree](https://github.com/yohasebe/rsyntaxtree) -
+  Visualization for syntactic trees in Ruby based on [RMagick](https://github.com/rmagick/rmagick).
+  <sup>[dep: [ImageMagick](#imagemagick)]</sup>
 
 ### Semantic Analysis
 
@@ -560,6 +563,8 @@ on the code here.
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
+- <a name="imagemagic"></a>
+  [ImageMagick](https://www.imagemagick.org/script/index.php)
 
 ## Contributing
 
