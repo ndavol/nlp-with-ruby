@@ -1,3 +1,5 @@
+[<img src="test.png" align="center">][ruby]
+
 [[RubyML](https://github.com/arbox/machine-learning-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
