@@ -1,4 +1,4 @@
-[<img src="test.png" align="center">][ruby]
+<img src="header.png" align="center">
 
 [[RubyML](https://github.com/arbox/machine-learning-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
