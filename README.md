@@ -580,26 +580,23 @@ the terms of the [`CC0` license](https://creativecommons.org/publicdomain/zero/1
 Have you just found a spelling error? Need to fix indentation?
 Send us a pull request! :sparkles:
 
-If you have discovered something cool, but don't know exactly if it suits the
-awesome definition submit a pull request to the [inbox](inbox.md).
+You have discovered something cool, but don't know exactly if it suits the
+awesome definition? :+1: Submit a pull request to the [inbox](inbox.md)!
 We'll consider your addition and format it for you! :smiley:
 
 :boom: If you know something pretty cool, it suits the awesome definition, works for you
 and seems to be useful for the community please add it to the [main list](README.md).
 In this case please ensure your pull request adheres to the following guidelines:
 
+- Use one commit per addition (several commits per PR are OK).
 - Add everything to the bottom of the relevant category.
-- Use the following format: `- [title](link) - Description. <sup>[additional links]</sup>`
-- Provide a description on why this stuff is useful (distinctive features like
-  coverage, speed, stability are welcome).
+- If required introduce new categories or improve the existing categorization.
+- Use the following format: `- [title](link) - Distinguishing Description. <sup>[additional links]</sup>`
 - Name the libraries exactly how they are required from the Ruby program, not
   after the Readme's title, e.g. `treat`, not `Treat`, since you do `require "treat"`.
-- Break down long lines.
-- Check your spelling, capitalization, and punctuation and trailing whitespace.
-- Introduce new categories or improve the existing categorization if required.
-- Provide a useful title and comments for your Pull Request (not `Changed readme.md`).
-- Mention the originator in the PR message if possible, e.g.
-  `Added the neuroevo lib by @giuse.`
+- Break down long lines, check your spelling, capitalization, and punctuation.
+- Provide a useful titles and comments for your Pull Request (not `Changed readme.md`),
+  mention the originator in the commit message if possible, e.g. `Added the neuroevo lib by @giuse.`
 - Add the topic `rubynlp` to your repository or open an issue and
   kindly ask the originator of the project to do so (if applicable for your submission).
 
