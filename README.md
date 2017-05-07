@@ -103,6 +103,8 @@ An NLP Pipeline starts with a plain text.
   Spark bindings with an easy to understand DSL.
 - [phobos](https://github.com/klarna/phobos) -
   Simplified Ruby Client for [Apache Kafka](https://kafka.apache.org/).
+- [parallel](https://github.com/grosser/parallel) -
+  Supervisor for parallel execution on multiple CPUs or in many threads.
 
 ### Multipurpose Engines
 
