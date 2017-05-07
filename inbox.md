@@ -184,3 +184,4 @@
 * https://github.com/taimur-akhtar/to_words
 * https://github.com/ranguba/chupa-text-decomposer-pdf
 * https://github.com/squiidz/rusty_camel
+* https://github.com/yohasebe/rginger
