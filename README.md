@@ -105,6 +105,8 @@ An NLP Pipeline starts with a plain text.
   Simplified Ruby Client for [Apache Kafka](https://kafka.apache.org/).
 - [parallel](https://github.com/grosser/parallel) -
   Supervisor for parallel execution on multiple CPUs or in many threads.
+- [pwrake](https://github.com/masa16/pwrake) -
+  Rake extensions to run local and remote tasks in parallel.
 
 ### Multipurpose Engines
 
