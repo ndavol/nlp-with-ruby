@@ -185,3 +185,4 @@
 * https://github.com/ranguba/chupa-text-decomposer-pdf
 * https://github.com/squiidz/rusty_camel
 * https://github.com/yohasebe/rginger
+* https://github.com/rubysolo/dentaku
