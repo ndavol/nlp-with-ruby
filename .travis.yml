@@ -1,4 +1,5 @@
 language: ruby
+bundler_args: --without local
 rvm:
   - 2.2
-script: "awesome_bot README.md motivation.md FAQ.md CONTRIBUTING.md --allow-dupe"
+script: "awesome_bot README.md motivation.md FAQ.md --allow-dupe"
