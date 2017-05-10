@@ -173,7 +173,6 @@
 * https://github.com/marloncarvalho/ruby-datumbox
 * https://github.com/ranguba/groonga-client
 * [fast-stemmer](https://github.com/romanbsd/fast-stemmer)
-* [categorize](https://github.com/helioid/categorize): Categorize is a text categorization library written in Ruby. It prioritizes performance over accuracy and is built to run online in dynamic web services
 * [similarity](https://github.com/bbcrd/Similarity): Calculate similarity between documents using TF-IDF weights dependencies: GSL
 * [distance_measures](https://github.com/reddavis/Distance-Measures): A bunch of distance measures that extend Array
 * https://github.com/hexgnu/reem
@@ -186,3 +185,4 @@
 * https://github.com/squiidz/rusty_camel
 * https://github.com/yohasebe/rginger
 * https://github.com/rubysolo/dentaku
+* https://github.com/helioid/categorize
