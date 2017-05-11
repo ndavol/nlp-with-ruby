@@ -186,3 +186,5 @@
 * https://github.com/yohasebe/rginger
 * https://github.com/rubysolo/dentaku
 * https://github.com/helioid/categorize
+* https://github.com/sjmog/ralyxa
+* http://rubykaigi.org/2016/presentations/duerst.html
