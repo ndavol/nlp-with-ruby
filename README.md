@@ -133,6 +133,8 @@ An NLP Pipeline starts with a plain text.
 - [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment
   Analysis, Topic Modelling, Language Detection, Named Entity Recognition via
   a Ruby based Web API client.
+- [google-cloud-language](https://github.com/GoogleCloudPlatform/google-cloud-ruby/tree/master/google-cloud-language) -
+  Google's Natural Language service API for Ruby.
 
 ### Language Identification
 
