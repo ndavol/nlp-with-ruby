@@ -189,3 +189,5 @@
 * https://github.com/sjmog/ralyxa
 * http://rubykaigi.org/2016/presentations/duerst.html
 * https://github.com/Phybbit/dataflow-rb
+* https://github.com/colpan/alexa-toolbox
+* https://github.com/machisuji/ssmd
