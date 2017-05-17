@@ -487,7 +487,7 @@ the underlying language.
   - _Ruby one-liners_ by [Benoit Hamelin](https://twitter.com/benoithamelin)
     <sup>[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
   - _Clustering in Ruby_ by [Colin Drake](https://twitter.com/colinfdrake)
-    <sup>[[post](https://colindrake.me/2011/05/28/clustering-in-ruby/)]</sup>
+    <sup>[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)/)]</sup>
 - 2010
   - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
