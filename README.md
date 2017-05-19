@@ -271,13 +271,6 @@ are often collected in dictionaries.
 - [zipf](https://github.com/pks/zipf) -
   implementation of BLEU and other base algorithms.
 
-### Dialog Systems
-
-- [chatterbot](https://github.com/muffinista/chatterbot) -
-  Straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate.
-- [lita](https://github.com/litaio/lita) -
-  chat operation bot framework written with persistent storage provided by [Redis](https://redis.io/).
-
 ### Sentiment Analysis
 
 - [stimmung](https://github.com/pachacamac/stimmung) -
@@ -318,6 +311,13 @@ are often collected in dictionaries.
   Ruby wrapper over the AT&T Speech API for speech to text.
 - [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) -
   Pocketsphinx bindings.
+
+## Dialog Agents, Assistants, and Chatbots
+
+- [chatterbot](https://github.com/muffinista/chatterbot) -
+  Straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate.
+- [lita](https://github.com/litaio/lita) -
+  chat operation bot framework written with persistent storage provided by [Redis](https://redis.io/).
 
 ## Linguistic Resources
 
