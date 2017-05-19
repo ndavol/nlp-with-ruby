@@ -191,3 +191,5 @@
 * https://github.com/Phybbit/dataflow-rb
 * https://github.com/colpan/alexa-toolbox
 * https://github.com/machisuji/ssmd
+* https://rubygems.org/gems/google-cloud-translate
+* https://rubygems.org/gems/google-cloud-speech
