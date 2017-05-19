@@ -62,11 +62,11 @@ and please spread the word using the `#RubyNLP` hash tag!
   * [Spelling and Error Correction](#spelling-and-error-correction)
   * [Text Alignment](#text-alignment)
   * [Machine Translation](#machine-translation)
-  * [Dialog Systems](#dialog-systems)
   * [Sentiment Analysis](#sentiment-analysis)
   * [Numbers, Dates, and Time Parsing](#numbers-dates-and-time-parsing)
   * [Named Entity Recognition](#named-entity-recognition)
   * [Text-to-Speech-to-Text](#text-to-speech-to-text)
+- [Dialog Agents, Assistants, and Chatbots](#dialog-agents-assistants-and-chatbots)
 - [Linguistic Resources](#linguistic-resources)
 - [Machine Learning Libraries](#machine-learning-libraries)
 - [Data Visualization](#data-visualization)
@@ -317,7 +317,7 @@ are often collected in dictionaries.
 - [chatterbot](https://github.com/muffinista/chatterbot) -
   Straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate.
 - [lita](https://github.com/litaio/lita) -
-  chat operation bot framework written with persistent storage provided by [Redis](https://redis.io/).
+  Highly extensible chat operation bot framework written with persistent storage on [Redis](https://redis.io/).
 
 ## Linguistic Resources
 
