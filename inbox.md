@@ -193,3 +193,4 @@
 * https://github.com/machisuji/ssmd
 * https://rubygems.org/gems/google-cloud-translate
 * https://rubygems.org/gems/google-cloud-speech
+* https://github.com/solyaris/rChatScript/
