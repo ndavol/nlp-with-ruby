@@ -195,3 +195,4 @@
 * https://rubygems.org/gems/google-cloud-speech
 * https://github.com/solyaris/rChatScript/
 * https://convcomp.it/naif-ruby-micro-framework-to-build-dumb-chat-machines-5c552a8c8f7e
+* https://github.com/npezza93/word_search
