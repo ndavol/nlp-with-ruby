@@ -199,3 +199,4 @@
 * https://github.com/dmdropkick/y-translate
 * https://github.com/alpha-netzilla/watson-conversation
 * https://github.com/sinatra/mustermann
+* https://github.com/eonuonga/texty
