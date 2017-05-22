@@ -198,3 +198,4 @@
 * https://github.com/haines/char_size
 * https://github.com/dmdropkick/y-translate
 * https://github.com/alpha-netzilla/watson-conversation
+* https://github.com/sinatra/mustermann
