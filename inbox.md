@@ -196,3 +196,4 @@
 * https://github.com/npezza93/word_search
 * https://github.com/colpan/alexa-toolbox
 * https://github.com/haines/char_size
+* https://github.com/dmdropkick/y-translate
