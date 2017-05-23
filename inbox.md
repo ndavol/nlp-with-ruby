@@ -200,3 +200,7 @@
 * https://github.com/alpha-netzilla/watson-conversation
 * https://github.com/sinatra/mustermann
 * https://github.com/eonuonga/texty
+* https://github.com/encoreshao/amazon-awis
+* https://github.com/cbeer/solr_wrapper
+* https://github.com/tomasc/semantic_date_time_tags
+* https://github.com/Eeeeevgen/yandex_translator
