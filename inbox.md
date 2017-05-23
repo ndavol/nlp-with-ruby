@@ -204,3 +204,4 @@
 * https://github.com/cbeer/solr_wrapper
 * https://github.com/tomasc/semantic_date_time_tags
 * https://github.com/Eeeeevgen/yandex_translator
+* https://github.com/langalex/numbers_and_words_pl
