@@ -207,3 +207,4 @@
 * https://github.com/langalex/numbers_and_words_pl
 * https://github.com/lautis/piperator
 * https://github.com/pamit/watsbot
+* https://github.com/meisyal/sastrawi-ruby
