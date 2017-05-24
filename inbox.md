@@ -205,3 +205,4 @@
 * https://github.com/tomasc/semantic_date_time_tags
 * https://github.com/Eeeeevgen/yandex_translator
 * https://github.com/langalex/numbers_and_words_pl
+* https://github.com/lautis/piperator
