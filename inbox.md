@@ -206,3 +206,4 @@
 * https://github.com/Eeeeevgen/yandex_translator
 * https://github.com/langalex/numbers_and_words_pl
 * https://github.com/lautis/piperator
+* https://github.com/pamit/watsbot
