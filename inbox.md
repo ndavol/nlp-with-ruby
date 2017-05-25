@@ -209,3 +209,4 @@
 * https://github.com/pamit/watsbot
 * https://github.com/meisyal/sastrawi-ruby
 * https://github.com/taimur-akhtar/to_words
+* https://github.com/VasiliyG/to_russian_words
