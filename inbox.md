@@ -210,3 +210,4 @@
 * https://github.com/meisyal/sastrawi-ruby
 * https://github.com/taimur-akhtar/to_words
 * https://github.com/VasiliyG/to_russian_words
+* https://github.com/mestoru/russial
