@@ -212,3 +212,4 @@
 * https://github.com/VasiliyG/to_russian_words
 * https://github.com/mestoru/russial
 * https://github.com/ai-wordsmith/wordsmith-ruby-sdk
+* https://github.com/mulev/alexa-ruby
