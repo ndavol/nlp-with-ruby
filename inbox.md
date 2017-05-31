@@ -2,7 +2,6 @@
 
 - https://github.com/ged/linguistics
 - https://github.com/inukshuk/wapiti-ruby
-- https://github.com/SergioFierens/ai4r
 - https://github.com/jashmenn/ariel
 - https://github.com/rattle/term-extract
 - https://github.com/matstc/text-analysis-utils
@@ -57,7 +56,6 @@
 - [ranguba](http://ranguba.org/)
 - http://rbtagger.rubyforge.org/
 - [regexp-examples](https://github.com/tom-lord/regexp-examples)
-- https://github.com/famished-tiger/Rley
 - [rseg](https://github.com/yzhang/rseg)
 - [rtesseract](https://github.com/dannnylo/rtesseract)
 - [slack-bot-server](https://github.com/dblock/slack-bot-server)
@@ -68,7 +66,6 @@
 - [stopwords](https://github.com/brez/stopwords)
 - [string_pl](https://github.com/apohllo/string_pl)
 - [stringex](https://github.com/rsl/stringex)
-- [stuff-classifier](https://github.com/alexandru/stuff-classifier)
 - [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby)
 - [thailang4r](https://github.com/veer66/thailang4r)
 - [tiny_segmenter](https://github.com/6/tiny_segmenter)
