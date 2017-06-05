@@ -212,3 +212,4 @@
 - https://github.com/mulev/alexa-ruby
 - https://github.com/art2rik/RBender
 - https://github.com/Nakilon/reddit_bot
+- https://github.com/jtoy/cld
