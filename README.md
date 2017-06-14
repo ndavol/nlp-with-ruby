@@ -570,8 +570,6 @@ on the code here.
   Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
-- [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
-  Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
 - <a name="imagemagic"></a>
   [ImageMagick](https://www.imagemagick.org/script/index.php)
 
