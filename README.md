@@ -566,14 +566,10 @@ on the code here.
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
 - [iRuby](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
-- [Kiba](https://github.com/thbar/kiba) -
-  Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
   Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
-- [rb-gsl](https://github.com/SciRuby/rb-gsl) -
-  Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
 - <a name="imagemagic"></a>
