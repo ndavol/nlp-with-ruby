@@ -556,6 +556,7 @@ on the code here.
 
 ## Related Resources
 
+- [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
