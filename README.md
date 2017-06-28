@@ -336,7 +336,7 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby.
-- [weka-jruby](https://github.com/paulgoetze/weka-jruby) -
+- [weka](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
 - [decisiontree](https://github.com/igrigorik/decisiontree) -
   Decision Tree ID3 Algorithm in pure Ruby
@@ -422,7 +422,7 @@ the underlying language.
   Generate strings that match a given regular expression.
 - [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) -
   Make difficult regular expressions easy.
-- [translit_kit](https://github.com/AnalyzePlatypus/TranslitKit) - Transliterate Hebrew & Yiddish text into Latin characters  
+- [translit_kit](https://github.com/AnalyzePlatypus/TranslitKit) - Transliterate Hebrew & Yiddish text into Latin characters
 
 ## Articles, Posts, Talks, and Presentations
 
