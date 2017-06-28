@@ -33,7 +33,7 @@ important decisions and useful answers you may be interested in.
 :sparkles: Every [contribution](#contributing) is welcome! Add links through pull
 requests or create an issue to start a discussion.
 
-Follow us on [Twitter](https://twitter.com/RubyNLP)
+Follow us on [Twitter](https://twitter.com/NonWebRuby)
 and please spread the word using the `#RubyNLP` hash tag!
 
 <!-- nodoc -->
@@ -422,6 +422,7 @@ the underlying language.
   Generate strings that match a given regular expression.
 - [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) -
   Make difficult regular expressions easy.
+- [translit_kit](https://github.com/AnalyzePlatypus/TranslitKit) - Transliterate Hebrew & Yiddish text into Latin characters  
 
 ## Articles, Posts, Talks, and Presentations
 
