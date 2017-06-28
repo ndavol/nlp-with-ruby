@@ -92,7 +92,6 @@
 - https://github.com/watsonbox/pocketsphinx-ruby
 - https://github.com/threedaymonk/text
 - https://github.com/cjheath/treetop
-- https://github.com/himkt/rblearn
 - https://github.com/somaticio/tensorflow.rb
 - https://github.com/dannnylo/rtesseract
 - https://github.com/tiendung/ruby-nlp

@@ -364,6 +364,7 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
+- [rblearn](- https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 
 ## Data Visualization
 
