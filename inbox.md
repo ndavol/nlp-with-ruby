@@ -216,3 +216,4 @@
 - https://appfolio-engineering.squarespace.com/appfolio-engineering/2017/5/24/how-is-ruby-different-in-japan
 - https://github.com/msimonborg/twords
 - https://blog.redpanthers.co/odyssey-in-rails/
+- https://github.com/mulev/alexa-ruby
