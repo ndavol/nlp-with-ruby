@@ -590,7 +590,7 @@ awesome definition? :+1: Submit a pull request to the [inbox](inbox.md)!
 We'll consider your addition and format it for you! :smiley:
 
 :boom: If you know something pretty cool, it suits the awesome definition, works for you
-and seems to be useful for the community please add it to the [main list](README.md).
+and seems to be useful for the community please add it to the [main list](readme.md).
 In this case please ensure your pull request adheres to the following guidelines:
 
 - Use one commit per addition (several commits per PR are OK).
