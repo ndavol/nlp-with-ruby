@@ -217,3 +217,4 @@
 - https://github.com/msimonborg/twords
 - https://blog.redpanthers.co/odyssey-in-rails/
 - https://github.com/mulev/alexa-ruby
+- https://github.com/gurgeous/simhilarity
