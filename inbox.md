@@ -223,3 +223,4 @@
 - https://github.com/blackwinter/lsi4r
 - https://github.com/blackwinter/hal4r
 - https://github.com/blackwinter/page_rank
+- https://github.com/janfri/scripref
