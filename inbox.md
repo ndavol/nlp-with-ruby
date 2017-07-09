@@ -222,3 +222,4 @@
 - https://github.com/regexident/lasean
 - https://github.com/blackwinter/lsi4r
 - https://github.com/blackwinter/hal4r
+- https://github.com/blackwinter/page_rank
