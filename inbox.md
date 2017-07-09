@@ -219,3 +219,4 @@
 - https://github.com/mulev/alexa-ruby
 - https://github.com/gurgeous/simhilarity
 - https://github.com/josephwilk/pronounce
+- https://github.com/regexident/lasean

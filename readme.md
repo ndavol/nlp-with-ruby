@@ -377,7 +377,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Text Extraction
 
-- [yomu](https://github.com/Erol/yomu) -
+- [yomu](https://github.com/yomurb/yomu) -
   library for extracting text and metadata from files and documents
   using the [Apache Tika](https://tika.apache.org/) content analysis toolkit.
 
