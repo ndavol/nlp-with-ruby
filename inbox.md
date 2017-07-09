@@ -220,3 +220,5 @@
 - https://github.com/gurgeous/simhilarity
 - https://github.com/josephwilk/pronounce
 - https://github.com/regexident/lasean
+- https://github.com/blackwinter/lsi4r
+- https://github.com/blackwinter/hal4r
