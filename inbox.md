@@ -225,3 +225,4 @@
 - https://github.com/blackwinter/page_rank
 - https://github.com/janfri/scripref
 - https://github.com/lautis/piperator
+- https://rubygems.org/gems/i18n_data
