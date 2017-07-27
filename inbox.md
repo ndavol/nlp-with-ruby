@@ -225,3 +225,4 @@
 - https://github.com/janfri/scripref
 - https://github.com/lautis/piperator
 - https://github.com/grosser/i18n_data
+- https://github.com/n7v/phonetic
