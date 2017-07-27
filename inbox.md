@@ -55,7 +55,6 @@
 - [raingrams](https://github.com/postmodern/raingrams)
 - [ranguba](http://ranguba.org/)
 - http://rbtagger.rubyforge.org/
-- [regexp-examples](https://github.com/tom-lord/regexp-examples)
 - [rseg](https://github.com/yzhang/rseg)
 - [rtesseract](https://github.com/dannnylo/rtesseract)
 - [slack-bot-server](https://github.com/dblock/slack-bot-server)
@@ -225,4 +224,4 @@
 - https://github.com/blackwinter/page_rank
 - https://github.com/janfri/scripref
 - https://github.com/lautis/piperator
-- https://rubygems.org/gems/i18n_data
+- https://github.com/grosser/i18n_data

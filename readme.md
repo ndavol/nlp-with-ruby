@@ -425,6 +425,8 @@ the underlying language.
   Transliterate Hebrew & Yiddish text into Latin characters.
 - [re2](https://github.com/mudge/re2) -
   hight-speed Regular Expression library for Text Mining and Text Extraction.
+- [regex_sample](https://github.com/mochizukikotaro/regex_sample) -
+  sample string generation from a given Regular Expression.
 
 ## Articles, Posts, Talks, and Presentations
 
