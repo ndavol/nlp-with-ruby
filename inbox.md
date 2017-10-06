@@ -226,3 +226,4 @@
 - https://github.com/n7v/phonetic
 - https://speakerdeck.com/addamh/bayesian-sentiment-analysis-with-ruby
 - https://github.com/msimonborg/twords
+- https://github.com/jrobertson/event_nlp
