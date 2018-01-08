@@ -227,3 +227,4 @@
 - https://speakerdeck.com/addamh/bayesian-sentiment-analysis-with-ruby
 - https://github.com/msimonborg/twords
 - https://github.com/jrobertson/event_nlp
+- https://github.com/jmhodges/rchardet
