@@ -228,3 +228,4 @@
 - https://github.com/msimonborg/twords
 - https://github.com/jrobertson/event_nlp
 - https://github.com/jmhodges/rchardet
+- https://googlecloudplatform.github.io/google-cloud-ruby/#/docs/google-cloud-language/v0.29.0/google/cloud/language
