@@ -431,6 +431,8 @@ the underlying language.
 ## Articles, Posts, Talks, and Presentations
 
 - 2017
+  - _The Google NLP API Meets Ruby_ by [Aja Hammerly](https://twitter.com/the_thagomizer)
+    <sup>[[post](http://www.thagomizer.com/blog/2017/04/13/the-google-nlp-api-meets-ruby.html)]</sup>
   - _Syntax Isn't Everything: NLP For Rubyists_ by [Aja Hammerly](https://twitter.com/the_thagomizer)
     <sup>[[slides](http://www.thagomizer.com/files/NLP_RailsConf2017.pdf)]</sup>
   - _Scientific Computing on JRuby_ by [Prasun Anand](https://twitter.com/prasun_anand)
