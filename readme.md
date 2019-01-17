@@ -435,6 +435,8 @@ the underlying language.
     <sup>[[post](https://aonemd.github.io/blog/extracting-text-from-images-using-ruby) |
     [code](https://gist.github.com/aonemd/7bb3c4760d9e47a9ce8e270198cb40a0)]</sup>
 - 2018
+  - _Natural Language Processing and Tweet Sentiment Analysis_ by [Cassandra Corrales](https://twitter.com/casita305)
+    <sup>[[post](https://medium.com/@cmcorrales3/natural-language-processing-and-tweet-sentiment-analysis-fa1edbb5ddd5)]</sup>
 - 2017
   - _The Google NLP API Meets Ruby_ by [Aja Hammerly](https://twitter.com/the_thagomizer)
     <sup>[[post](http://www.thagomizer.com/blog/2017/04/13/the-google-nlp-api-meets-ruby.html)]</sup>
