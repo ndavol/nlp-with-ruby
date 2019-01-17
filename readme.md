@@ -1,13 +1,13 @@
 <img src="header.png" align="center">
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+
 [[RubyML](https://github.com/arbox/machine-learning-with-ruby) |
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
 
-# Awesome NLP with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome RubyNLP](https://img.shields.io/badge/Awesome-RubyNLP-brightgreen.svg)](https://github.com/arbox/nlp-with-ruby)
-
-[<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
+# Awesome NLP with Ruby [<img src="ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 > Useful resources for text processing in Ruby
 
