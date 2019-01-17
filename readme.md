@@ -100,7 +100,7 @@ An NLP Pipeline starts with a plain text.
   Definition framework for operation pipelines.
 - [ruby-spark](https://github.com/ondra-m/ruby-spark) -
   Spark bindings with an easy to understand DSL.
-- [phobos](https://github.com/klarna/phobos) -
+- [phobos](https://github.com/phobos/phobos) -
   Simplified Ruby Client for [Apache Kafka](https://kafka.apache.org/).
 - [parallel](https://github.com/grosser/parallel) -
   Supervisor for parallel execution on multiple CPUs or in many threads.
@@ -132,7 +132,7 @@ An NLP Pipeline starts with a plain text.
 - [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment
   Analysis, Topic Modelling, Language Detection, Named Entity Recognition via
   a Ruby based Web API client.
-- [google-cloud-language](https://github.com/GoogleCloudPlatform/google-cloud-ruby/tree/master/google-cloud-language) -
+- [google-cloud-language](https://github.com/googleapis/google-cloud-ruby/tree/master/google-cloud-language) -
   Google's Natural Language service API for Ruby.
 
 ### Language Identification
@@ -246,7 +246,7 @@ are often collected in dictionaries.
 ### Spelling and Error Correction
 
 - [gingerice](https://github.com/subosito/gingerice) -
-  Spelling and Grammar corrections via the [Ginger](http://www.gingersoftware.com/) API.
+  Spelling and Grammar corrections via the [Ginger](https://www.gingersoftware.com/) API.
 - [hunspell-i18n](https://github.com/romanbsd/hunspell) -
   Ruby bindings to the standard [Hunspell](https://hunspell.github.io/) Spell Checker.
 - [ffi-hunspell](https://github.com/postmodern/ffi-hunspell) -
@@ -261,7 +261,7 @@ are often collected in dictionaries.
 
 ### Machine Translation
 
-- [google-api-client](https://github.com/google/google-api-ruby-client) -
+- [google-api-client](https://github.com/googleapis/google-api-ruby-client) -
   Google API Ruby Client.
 - [microsoft_translator](https://github.com/ikayzo/microsoft_translator) -
   Ruby client for the microsoft translator API.
@@ -388,13 +388,13 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - [sunspot](https://github.com/sunspot/sunspot) -
   Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
 - [thinking-sphinx](https://github.com/pat/thinking-sphinx) -
-  [Active Record](http://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark)
+  [Active Record](https://guides.rubyonrails.org/active_record_basics.html)
   plugin for using [Sphinx](http://sphinxsearch.com/) in (not only) Rails based projects.
 - [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) -
   Ruby client and API for [Elasticsearch](https://www.elastic.co/).
 - [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) -
   Ruby and Rails integrations for [Elasticsearch](https://www.elastic.co/).
-- [google-api-client](https://github.com/google/google-api-ruby-client) -
+- [google-api-client](https://github.com/googleapis/google-api-ruby-client) -
   Ruby API library for [Google](https://developers.google.com/api-client-library/ruby/) services.
 
 ## Language Aware String Manipulation
@@ -446,7 +446,7 @@ the underlying language.
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computing-on-jruby) |
     [slides](https://www.slideshare.net/PrasunAnand2/scientific-computation-on-jruby)]</sup>
   - _Unicode Normalization in Ruby_ by [Starr Horne](https://twitter.com/starrhorne)
-    <sup>[[post](http://blog.honeybadger.io/ruby_unicode_normalization/)]</sup>
+    <sup>[[post](https://blog.honeybadger.io/ruby_unicode_normalization/)]</sup>
 - 2016
   - _Quickly Create a Telegram Bot in Ruby_ by [Ardian Haxha](https://twitter.com/ArdianHaxha)
     <sup>[[tutorial](https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)]</sup>
@@ -458,7 +458,7 @@ the underlying language.
     <sup>[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) | [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
 - 2015
   - _N-gram Analysis for Fun and Profit_ by [Jesus Castello](https://github.com/matugm)
-    <sup>[[tutorial](http://www.rubyguides.com/2015/09/ngram-analysis-ruby/)]</sup>
+    <sup>[[tutorial](https://www.rubyguides.com/2015/09/ngram-analysis-ruby/)]</sup>
   - _Machine Learning made simple with Ruby_ by [Lorenzo Masini](https://github.com/rugginoso)
     <sup>[[tutorial](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
   - _Using Ruby Machine Learning to Find Paris Hilton Quotes_ by [Rick Carlino](https://github.com/RickCarlino)
@@ -584,7 +584,7 @@ on the code here.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
 - <a name="imagemagic"></a>
-  [ImageMagick](https://www.imagemagick.org/script/index.php)
+  [ImageMagick](https://imagemagick.org/index.php)
 
 ## License
 

@@ -33,7 +33,7 @@ Ruby **IS** comparable in terms of processing speed with other high level
 scripting programming languages like Lua, Perl, Python etc.
 
 Please look at this comparison:
-http://benchmarksgame.alioth.debian.org/u64q/which-programs-are-fastest.html
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/faster/ruby.html
 
 ## Hm ... but would I find suitable libraries?
 
