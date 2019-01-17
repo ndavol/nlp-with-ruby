@@ -484,7 +484,7 @@ the underlying language.
     [Tom Cartwright](https://twitter.com/tomcartwrightuk)
     <sup>[[slides](https://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby) |
     [video](https://skillsmatter.com/skillscasts/4883-how-to-parse-go)]</sup>
-  - _Natural Language Processing in Ruby_ by [Brandon Black](https://github.com/brandonblack)
+  - _Natural Language Processing in Ruby_ by [Brandon Black](https://twitter.com/brandonmblack)
     <sup>[[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) |
     [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)]</sup>
   - _Natural Language Processing with Ruby: n-grams_ by [Nathan Kleyn](https://github.com/nathankleyn)
