@@ -430,6 +430,11 @@ the underlying language.
 
 ## Articles, Posts, Talks, and Presentations
 
+- 2019
+  - _Extracting Text From Images Using Ruby_ by [aonemd](https://twitter.com/aonemd)
+    <sup>[[post](https://aonemd.github.io/blog/extracting-text-from-images-using-ruby) |
+    [code](https://gist.github.com/aonemd/7bb3c4760d9e47a9ce8e270198cb40a0)]</sup>
+- 2018
 - 2017
   - _The Google NLP API Meets Ruby_ by [Aja Hammerly](https://twitter.com/the_thagomizer)
     <sup>[[post](http://www.thagomizer.com/blog/2017/04/13/the-google-nlp-api-meets-ruby.html)]</sup>
