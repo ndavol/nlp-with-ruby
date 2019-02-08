@@ -231,3 +231,4 @@
 - https://googlecloudplatform.github.io/google-cloud-ruby/#/docs/google-cloud-language/v0.29.0/google/cloud/language
 - https://github.com/rovetz/cyrillic
 - https://github.com/rovetz/arabic
+- https://github.com/machinio/solrb
