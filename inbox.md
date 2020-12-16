@@ -232,3 +232,4 @@
 - https://github.com/rovetz/cyrillic
 - https://github.com/rovetz/arabic
 - https://github.com/machinio/solrb
+- https://github.com/secryst/secryst
